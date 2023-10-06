@@ -47,29 +47,3 @@ optimizing efficiency
 
 technical friction
 
-
-# Literature
-
-## Compounds nouns
-
-evidence-based climate innovation
-
-planet-positive economy
-
-real-world assets
-
-## Verbs
-
-envision
-
-pledge[n,v]
-
-incentivize
-
-poses
-
-evolve
-
-depicted
-
-exert a positive long-term effect
