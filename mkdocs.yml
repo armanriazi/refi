@@ -7,8 +7,8 @@ nav:
         - 'Index': 'index.md'                  
     - 'ReFi': 
         - 'ReFi': 'refi.md'                    
-        - 'Blockchain': 'blockchain.md'          
-        - 'Tokenize': 'tokenize.md'          
+        - 'Blockchain': 'blockchain/blockchain.md'          
+        - 'Tokenize': 'blockchain/tokenize.md'          
         - 'Quotation': 'quotation.md'                              
     - 'Glossery': 
         - 'Glossery': 'glossery.md'
@@ -16,7 +16,7 @@ nav:
     - 'References': 
         - 'References': 'reference.md'
     - 'Tags':
-        - 'Tags': 'tags.md'                    
+        - 'Tags': 'tag.md'                    
 theme:
   name: material
   logo: assets/attachments/me.png
