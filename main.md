@@ -26,6 +26,8 @@ hide:
 
 - [Quotationa](quotation.md)
 
+- [ReFi talents](refi_talents/refi_talents.md)
+
 ---
 
 - [Tags](tag.md)

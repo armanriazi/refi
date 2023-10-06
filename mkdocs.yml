@@ -1,16 +1,14 @@
 ## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
 
-site_name: Arman Riazi
-repo_url: https://github.com/armanriazi/armanriazi.github.io
+site_name: Regenerative Finance
+repo_url: https://github.com/armanriazi/refi
 nav:    
     - 'Home':
-        - 'Index': 'index.md'                  
+        - 'Index': 'main.md'                  
     - 'Blockchain': 
         - 'Blockchain': 'blockchain.md'          
     - 'Tags':
-        - 'Tags': 'tags.md'      
-    - 'About':
-        - 'About': 'about.md'                
+        - 'Tags': 'tags.md'                  
 theme:
   name: material
   logo: assets/attachments/me.png

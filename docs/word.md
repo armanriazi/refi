@@ -41,6 +41,8 @@ we seek to empower ambitious innovators to get involved with ReFi
 
 meaningful action
 
+narrative[adj,n]
+
 that can provide breadth and depth to
 
 unlocking new capital flows into verifiable climate action at scale
