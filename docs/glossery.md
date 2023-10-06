@@ -3,6 +3,10 @@
 
 `MRV` measurement, reporting and verification 
 
+`Tokenomics` token + economics
+
+`OFP` Open Forest Protocol
+
 # Jargon
 
 ## Environment jargon
@@ -22,6 +26,14 @@ emissions reduction
 footprints
 
 decarbonization
+
+precious metals
+
+regenerative, rather than extractive or exploitative
+
+degraded ecosystem
+
+facilitate large-scale collaboration on global issues such as climate change
 
 ## Technology jargon
 
@@ -44,6 +56,8 @@ evidence-based climate innovation
 
 planet-positive economy
 
+real-world assets
+
 ## Verbs
 
 envision
@@ -51,3 +65,11 @@ envision
 pledge[n,v]
 
 incentivize
+
+poses
+
+evolve
+
+depicted
+
+exert a positive long-term effect

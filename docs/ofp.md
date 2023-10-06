@@ -1,0 +1,2 @@
+Pachama or Open Forest Protocol (OFP), both marketplaces adopt digital technologies, which are essential to enable digital methods in project **monitoring, reporting, and verification (D-#MRV)**. 
+Recent technological developments and innovations to reduce the cost of emerging technologies have opened the door to the use of AI, machine learning, satellite imagery, blockchain, smart sensors, the internet of things (IoT), cloud computing, and drones in MRV systems [6].

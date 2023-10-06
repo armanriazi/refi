@@ -1,170 +1,129 @@
-## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: Regenerative Finance
 repo_url: https://github.com/armanriazi/refi
 nav:    
     - 'Home':
-        - 'Index': 'main.md'                  
-    - 'Blockchain': 
-        - 'Blockchain': 'blockchain.md'          
-    - 'Tags':
-        - 'Tags': 'tags.md'                  
+        - 'Index': 'index.md'                  
+    - 'Tags': 'tags.md'                                             
 theme:
   name: material
   logo: assets/attachments/me.png
   favicon: assets/attachments/favicon.ico
+  language: en
   features:    
   - search.suggest
   - search.highlight
   - search.share
   - announce.dismiss
-  - content.tooltips
-  - content.code.copy
-  - content.tabs.link
-  - content.code.annotate
   - header.autohide
   - navigation.instant
-  - navigation.footer
-  - navigation.indexes  
   - navigation.tracking
   - navigation.tabs
   - navigation.tabs.sticky
   - navigation.sections
-  - navigation.path
   - navigation.expand  
-  - toc.follow
-  - toc.integrate
-  language: en
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/armanriazi/refi'      
-  icon:
-    admonition:
-      note: octicons/tag-16
-      abstract: octicons/checklist-16
-      info: octicons/info-16
-      tip: octicons/squirrel-16
-      success: octicons/check-16
-      question: octicons/question-16
-      warning: octicons/alert-16
-      failure: octicons/x-circle-16
-      danger: octicons/zap-16
-      bug: octicons/bug-16
-      example: octicons/beaker-16
-      quote: octicons/quote-16
-      note: fontawesome/solid/sticky-note
-      abstract: fontawesome/solid/book
-      info: fontawesome/solid/info-circle
-      tip: fontawesome/solid/bullhorn
-      success: fontawesome/solid/check
-      question: fontawesome/solid/question-circle
-      warning: fontawesome/solid/exclamation-triangle
-      failure: fontawesome/solid/bomb
-      danger: fontawesome/solid/skull
-      bug: fontawesome/solid/robot
-      example: fontawesome/solid/flask
-      quote: fontawesome/solid/quote-left     
+  - content.tabs.link
+  - content.tooltips
+  - content.code.annotate 
+icon:
+   admonition:
+     note: octicons/tag-16
+     abstract: octicons/checklist-16
+     info: octicons/info-16
+     tip: octicons/squirrel-16
+     success: octicons/check-16
+     question: octicons/question-16
+     warning: octicons/alert-16
+     failure: octicons/x-circle-16
+     danger: octicons/zap-16
+     bug: octicons/bug-16
+     example: octicons/beaker-16
+     quote: octicons/quote-16
+     note: fontawesome/solid/sticky-note
+     abstract: fontawesome/solid/book
+     info: fontawesome/solid/info-circle
+     tip: fontawesome/solid/bullhorn
+     success: fontawesome/solid/check
+     question: fontawesome/solid/question-circle
+     warning: fontawesome/solid/exclamation-triangle
+     failure: fontawesome/solid/bomb
+     danger: fontawesome/solid/skull
+     bug: fontawesome/solid/robot
+     example: fontawesome/solid/flask
+     quote: fontawesome/solid/quote-left     
 markdown_extensions:
-  - tables
-  - abbr
-  - admonition
+  - meta
   - attr_list
   - def_list
-  - footnotes
   - md_in_html
-  - toc:
-      permalink: true     
-  - pymdownx.snippets       
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
+  - tables
+  - admonition
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: armanriazi
-      repo: armanriazi.github.io
+  - pymdownx.snippets  
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic    
   - pymdownx.mark
-  - pymdownx.smartsymbols
+  - pymdownx.tilde    
+  - pymdownx.inlinehilite      
+  - pymdownx.keys
+  - footnotes  
+  - pymdownx.arithmatex:
+      generic: true  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+     permalink: true
+     toc_depth: 4        
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
   - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-plugins:
+      custom_checkbox: true  
+  - pymdownx.tabbed:
+      alternate_style: true           
+  - pymdownx.highlight:
+      linenums: true
+      use_pygments: true
+      linenums_style: pymdownx-inline
+      anchor_linenums: true      
+plugins:  
   - tags:
-     tags_file: tag.md
-  - search  
-  - social
-  - glightbox
+     tags_file: tags.md
+  - search:
+      lang: en
 extra_css:
   - assets/css/mkdocs-extra.css
 extra_javascript:
-  - docs/assets/javascripts/google-analytics.js
+  - assets/javascripts/mkdocs-extra.js
+  - assets/javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra:
-  homepage: https://armanriazi.github.io/
-  generator: false
-  analytics: 
-    provider: google    
-    property: G-ZE57CFGDDV
-    feedback:
+  homepage: https://armanriazi.github.io/refi
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/arman-soc-riazi
+      name: ArmanRiazi on Twitter
+  feedback:
       title: Was this page helpful?
       ratings:
-        - icon: material/thumb-up-outline
-          name: This_page_was_helpful
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
           data: 1
           note: >-
             Thanks for your feedback!
-        - icon: material/thumb-down-outline
-          name: This_page_could_be_improved
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
           data: 0
           note: >- 
             Thanks for your feedback! Help us improve this page by
-            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSePtZh6Upj2tconoH43yqadxL2W-wo0coms41yjysY_Amyqzw/viewform?usp=pp_url&entry.853143515=/browser-support/" target="_blank" rel="noopener">feedback form</a>.  
-  social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/arman_riazi_science
-      name: ArmanRiazi on Twitter
-    - icon: fontawesome/brands/github
-      link: https://github.com/armanriazi
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/armanriazi            
-copyright: |
-  &copy; 2024 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
+            using Email address mailto: armanriazi.blockchain@gmail.com .
+  copyright: Copyright &copy; 2024 Arman Riazi
+  generator: false

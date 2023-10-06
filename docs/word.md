@@ -1,5 +1,9 @@
 
-# Depp dive to Conversations
+# Conversations
+
+holistically
+
+abundance
 
 contextually
 
@@ -9,7 +13,9 @@ play a crucial role
 
 accelerating this transition
 
-fostering transparency/execution/your motivation
+fostering transparency/execution/your motivation/trust
+
+The insightful discussion with the ReFi specialist unveils
 
 promote sustainable practices
 
@@ -47,6 +53,24 @@ that can provide breadth and depth to
 
 unlocking new capital flows into verifiable climate action at scale
 
+swiftly
+
+mutuality
+
+manifestations
+
+captures all the different forms
+
+stemming from forestry
+
+sequestration potential
+
+## Questions
+
+Where do you envision the future of...?
+
 ## Idiom
 
 No question is a stupid question! 
+
+akin to gazing into a crystal ball
