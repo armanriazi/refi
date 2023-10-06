@@ -37,6 +37,8 @@
 
 ###############################################################################
 # behavior for image files
+# Enforce Unix newlines
+* text=auto eol=lf
 #
 # image files are treated as binary by default.
 ###############################################################################

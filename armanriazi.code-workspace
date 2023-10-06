@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "markdown"
+	},
+	"extensions": {
+		"recommendations": [
+			"k--kato.intellij-idea-keybindings"
+		]
+	}
+}
