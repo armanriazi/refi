@@ -1,3 +1,16 @@
+---
+title: "Tasks"
+author: "Arman Riazi"
+search:
+  exclude: true
+type:  Assignment
+feature:  Assignment
+keywords:  Assignment
+author: "Arman Riazi"
+title: "Assignment"
+hide:
+  - feedback
+---
 
 !!! Arman Riazi from ReFi Talents Cohort on 25 Sep
 

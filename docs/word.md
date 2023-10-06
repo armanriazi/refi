@@ -1,4 +1,16 @@
-
+---
+title: "Sentences"
+author: "Arman Riazi"
+search:
+  exclude: true
+type:  Sentence
+feature:  Sentence
+keywords:  Sentence
+author: "Arman Riazi"
+title: "Sentences"
+hide:
+  - feedback
+---
 
 # Lexical 
 

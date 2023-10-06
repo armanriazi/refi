@@ -1,3 +1,17 @@
+---
+keywords:   armanriazi ArmanRiazi ReFi
+title: "ReFi"
+author: "Arman Riazi"
+search:
+  exclude: false
+type:  ReFi
+feature:  ReFi
+keywords:  ReFi armanriazi blockchain
+author: "Arman Riazi"
+title: "ReFi"
+show:
+  - feedback
+---
 
 Regenerative finance (ReFi) is a set of tools and ideas **built on top of blockchains**, that aim to create economies which are **regenerative, rather than extractive or exploitative**. 
 

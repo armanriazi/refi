@@ -1,3 +1,17 @@
+---
+keywords:   armanriazi ArmanRiazi ReFi References
+title: "References"
+author: "Arman Riazi"
+search:
+  exclude: false
+type:  References
+feature:  References
+keywords:  armanriazi References
+author: "Arman Riazi"
+title: "References"
+hide:
+  - feedback
+---
 
 [1]: Regenerative finance (ReFi). (n.d.). Ethereum.org. Retrieved September 25, 2023, from https://ethereum.org/en/refi/
 [2]: Blockchain for scaling Climate Action. (2023, April 25). World Economic Forum. https://www.weforum.org/whitepapers/blockchain-for-scaling-climate-action/

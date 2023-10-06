@@ -1,3 +1,16 @@
+---
+title: "Glossery"
+author: "Arman Riazi"
+search:
+  exclude: true
+type:  Glossery
+feature:  Glossery
+keywords:  Glossery
+author: "Arman Riazi"
+title: "Glossery"
+hide:
+  - feedback
+---
 
 # Shorten words
 

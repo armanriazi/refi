@@ -1,1 +1,0 @@
-Tokenized carbon assets can be traded on a secondary market, ensuring a price mechanism for [[CO2]]. That enables for example asset managers and companies to incorporate carbon offsets directly into their offerings [4].
