@@ -94,7 +94,7 @@ markdown_extensions:
       anchor_linenums: true      
 plugins:  
   - tags:
-     tags_file: tags.md
+     tags_file: tag.md
   - search:
       lang: en
 extra_css:
