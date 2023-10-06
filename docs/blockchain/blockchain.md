@@ -15,12 +15,16 @@ show:
 
 !!! Relational material
 
+    === "Blockchain"
+
+        * [Blockchain](https://armanriazi.github.io/public/blockchain/Blockchain/)
+
     === "Tokenize"
 
-        * [Tokenize](blockchain/tokenize.md)
+        * [Tokenize](tokenize.md)
     
     === "digital"
 
-        * [Digital](digital/digital.md)
+        * [Digital](../digital/digital.md)
 
 

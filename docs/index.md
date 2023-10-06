@@ -35,7 +35,7 @@ show:
 
 ---
 
-- [oOFP](ofp.md)
+- [OFP](ofp.md)
 
 ---
 
