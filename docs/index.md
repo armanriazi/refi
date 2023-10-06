@@ -14,7 +14,7 @@ show:
   - feedback
 ---
 
-[![mkdocs-ci](https://github.com/armanriazi/refi/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/armanriazi/armanriazi.github.io/actions/workflows/ci.yml)
+[![mkdocs-ci](https://github.com/armanriazi/refi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armanriazi/refi/actions/workflows/ci.yml)
 
 >  I've always enjoyed creating doc-knowledge for my work and then sharing it with others. 
 

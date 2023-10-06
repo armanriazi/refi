@@ -5,11 +5,11 @@ repo_url: https://github.com/armanriazi/refi
 nav:    
     - 'Home':
         - 'Index': 'index.md'                  
-    - 'ReFi': 
-        - 'ReFi': 'refi.md'                    
+    - 'ReFi Index': 
+        - 'ReFi': 'refi/refi.md'                    
+        - 'Quotation': 'quotation.md'  
         - 'Blockchain': 'blockchain/blockchain.md'          
-        - 'Tokenize': 'blockchain/tokenize.md'          
-        - 'Quotation': 'quotation.md'                              
+        - 'Tokenize': 'blockchain/tokenize.md'                                        
     - 'Glossery': 
         - 'Glossery': 'glossery.md'
         - 'Sentence': 'word.md'

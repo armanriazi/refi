@@ -40,3 +40,16 @@ ReFi projects realize these principles using smart contracts and decentralized f
 - [7] Honors place & community
 - [8] In right relationship
 
+!!! Relational material
+
+    === "Blockchain"
+
+        * [Blockchain](https://armanriazi.github.io/public/blockchain/Blockchain/)
+
+    === "Tokenize"
+
+        * [Refi Talent Course](refi_talents.md)
+    
+    === "digital"
+
+        * [Digital](../digital/digital.md)
