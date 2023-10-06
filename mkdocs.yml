@@ -60,7 +60,7 @@ extra:
       lang: de
   social:
     - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/armanriazi/refi.github.io'      
+      link: 'https://github.com/armanriazi/refi'      
   icon:
     admonition:
       note: octicons/tag-16
@@ -141,7 +141,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra:
-  homepage: https://refi.github.io/
+  homepage: https://armanriazi.github.io/
   generator: false
   analytics: 
     provider: google    

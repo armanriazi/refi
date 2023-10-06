@@ -1,4 +1,4 @@
-?? Arman Riazi from ReFi Talents Cohort on 25 Sep??
+!!! Arman Riazi from ReFi Talents Cohort on 25 Sep
 
 I am thrilled to share my Session 1 assignment for ReFi Talents, where I've gained invaluable insights on blockchain, ESG, planetary boundaries, and social impact through research and engaging discussions with fellow ReFi talents! ????
 I look forward to the future sessions and getting feedbacks!
