@@ -40,7 +40,7 @@ show:
 
 - [Tags](tags.md)
 
-- [Statictics](statictic.md)
+- [Statictics](statistic.md)
 
 - [Addresses](address.md)
 
