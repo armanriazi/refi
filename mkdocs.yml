@@ -11,7 +11,7 @@ nav:
         - 'Blockchain': 'blockchain/blockchain.md'          
         - 'Nature': 'nature/nature.md'                                        
     - 'Resources': 
-        - 'Statictics': 'statictic.md'          
+        - 'Statistics': 'statistic.md'          
         - 'Addresses': 'address.md'                    
     - 'Appendix': 
         - 'Glossery': 'glossery.md'

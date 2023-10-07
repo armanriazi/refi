@@ -15,4 +15,4 @@ show:
 
 [Nature Statictices](./nature/statistic_nature.md)
 
-[ReFi Statictices](./nature/statistic_refi.md)
+[ReFi Statictices](./refi/statistic_refi.md)
