@@ -22,6 +22,16 @@ hide:
 
 > `ESG` Environmental, Social, Governance
 
+> `NbS` Nature-based Solutions
+
+> `Nature Tech, NT` Interventions and actions to protect, sustainably manage and restore natural and modified ecosystems to address climate change mitigation, continued ecosystem service provisioning, sustainable economic development, and biodiversity preservation.Any technology that can be applied to enable, accelerate, or scale-up Nature-based Solutions.
+
+> `C4C` Capital for Climate 
+
+> `N4C` Nature for Climate
+
+> `VCM` Voluntary Carbon Market
+
 # Jargon
 
 ## Environment jargon
@@ -71,13 +81,6 @@ procurement Digital
 optimizing efficiency
 
 technical friction
-
-# Nature
-
-> `NbS` Nature-based Solutions
-> `Nature Tech, NT` Interventions and actions to protect, sustainably manage and restore natural and modified ecosystems to address climate change mitigation, continued ecosystem service provisioning, sustainable economic development, and biodiversity preservation.Any technology that can be applied to enable, accelerate, or scale-up Nature-based Solutions.
-> `C4C` Capital for Climate 
-> `N4C` Nature4Climate
 
 ## Segment
 

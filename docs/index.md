@@ -23,13 +23,13 @@ show:
 > Going through to ReFi contexts:
 
 
-- [ReFi talents](refi_talents/refi_talents.md)
+- [ReFi talents](refi/refi_talents/refi_talents.md)
 
-- [ReFi](refi.md)
+- [ReFi](refi/refi.md)
 
-- [Blockchain](blockchain.md)
+- [Blockchain](blockchain/blockchain.md)
 
-- [Tokenize](tokenize.md)
+- [Tokenize](blockchain/tokenize.md)
 
 - [Quotation](quotation.md)
 
@@ -42,6 +42,8 @@ show:
 ---
 
 - [Tags](tag.md)
+
+- [Statictics](statictic.md)
 
 - [Addresses](address.md)
 
