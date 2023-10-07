@@ -14,7 +14,7 @@ show:
 ---
 
 <figure markdown>
-![Decarbonization Pathways]("../../assets/attachments/refi_images/decarbonization_pathways.png"){ width="600" height="400" align=center }
+![Decarbonization Pathways]("../assets/attachments/refi_images/decarbonization_pathways.png"){ width="800" height="600" align=center }
 <figcaption>The area demarcated by the yellow rectangle represents the parts of the decarbonizing roadmap addressed by NbS. Without engaging these sectors – food, nature-based sources, and sinks – achieving net zero by 2050 will be impossible [9].</figcaption>
 </figure>
 
@@ -27,7 +27,10 @@ According to a recent McKinsey report, “Voluntary carbon credits direct privat
 projects that would not otherwise get off the ground, and they support investment into innovation required
 to lower the cost of emerging climate technologies” [2].
 
-![Carbon Markets Initiative]("..\..\assets\attachments\refi_images\vcm_mrv.png")
+<figure markdown>
+![Carbon Markets Initiative]("..\assets\attachments\refi_images\vcm_mrv.png"){ width="800" height="600" align=center }
+<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
+</figure>
 
 As the VCM has begun to scale up to meet growing corporate demand for carbon offsets to meet netzero
 targets, transparency has become a concern. For carbon markets to deliver on their promise,
