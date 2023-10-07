@@ -34,6 +34,8 @@ hide:
 
 > `PES` payments for ecosystem services
 
+> `WCW` Who Cares Wins was initiated by the UN Secretary General and UN Global Compact in 2004 in collaboration with the Swiss government.
+
 # Jargon
 
 ## Environment jargon
@@ -55,6 +57,8 @@ footprints
 decarbonization
 
 precious metals
+
+reputable carbon registries
 
 regenerative, rather than extractive or exploitative
 
@@ -84,7 +88,28 @@ optimizing efficiency
 
 technical friction
 
-## Segment
+
+## VCM
+
+`SBTi` Science Based Target Initiative - An initiative that mobilizes companies to set emission reduction targets based on climate science. A collaboration between CDP, the UN Global Compact, the WRI, and WWF, the SBTi defines and promotes best practice in science-based target setting, offers resources and guidance to reduce barriers to adoption, and independently assesses and approves companies’ targets. Adopting an SBTi-approved target is one of the We Mean Business Coalition commitments 
+
+`BVCM` Beyond Value Chain Mitigation () - Mitigation action or investment that takes place outside of an organization’s value chain. This includes activities that avoid or reduce GHG emissions, and those that remove and store GHGs from the atmosphere. The purchase of high-quality carbon credits beyond a company’s value chain is an example of BVCM
+
+`VCMI` Voluntary Carbon Markets Integrity Initiative () - An international initiative to drive credible, net zero-aligned participation in voluntary carbon markets. VCMI was established to help ensure that voluntary carbon markets make a significant, measurable, and positive contribution to achieving the Paris Agreement goals, while also promoting inclusive and sustainable development.
+
+`ICVCM`Integrity Council for the Voluntary Carbon Market () - An independent governance body that is developing and enforcing a set of Core Carbon Principles (CCPs) that establishes a new threshold standard for high-quality carbon credits in the voluntary carbon market. The ICVCM will oversee a process to determine the Eligibility of carbon-crediting programs as well as which carbon credit Categories will become CCP-Approved.
+
+`CORSIA` Carbon Offsetting and Reduction Scheme for International Aviation () - CORSIA is a global scheme to manage emissions from the international aviation industry. CORSIA compliments other carbon reduction measures by offsetting the amount of CO2 emissions that cannot be reduced through the use of technological improvements, operational improvements, and sustainable aviation fuels with emissions units from the carbon market. Specific eligibility criteria exists and is determined by the International Civil Aviation Organization. 
+
+`Climate Contribution Approach` An approach where a company purchases or invests in carbon credits or other form of beyond value chain mitigation (BVCM). In a contribution approach, retired carbon credits are not counted towards, nor represent compensation for, a company’s remaining value chain emissions. The retirement of these carbon credits represents a contribution to overall global efforts to mitigate climate change. Both money-fortonne and tonne-for-tonne approaches can both be contribution approaches if companies are using contribution claims. 
+
+`Tonne-for-tonne` A method for determining the nature and scale of a company`s commitment to beyond value chain. In addition to delivering on its science-based target (covering value chain emissions), a company would deliver mitigation beyond its value chain proportional to the climate impact of some percentage of the greenhouse gases emitted by that company in a defined period (e.g. in a given year or since the inception of the company). The volume of finance deployed towards BVCM would be determined by the price that a company pays per tCO2e of BVCM (in the case of carbon credits, this would be determined by market prices) and the percentage of unabated emissions that are being “matched" with BVCM in that defined period
+
+`Money-for-tonne` A method for determining the nature and scale of a company's commitment to beyond value chain. In addition to delivering on its science-based targets (covering value chain mitigation), a company would channel finance into BVCM based on predefined price of unabated greenhouse gas emitted by that company in a defined period (e.g. in a given year or since the inception of the company). The volume of finance deployed towards BVCM would be determined by the chosen cost of carbon (e.g. a cost of carbon or otherwise) and the unabated emissions in that defined period
+
+`Money-for-money` A method for determining the nature and scale of a company's commitment to beyond value chain. In addition to delivering on its science-based target (covering value chain emissions), a company would allocate a share of revenues or profit towards financing climate mitigation beyond the value chain. The volume of finance deployed towards BVCM would be determined by the chosen denominator (e.g. profit or revenue) and the chosen percentage
+
+## Nature Segment
 
 ### Applications
 

@@ -13,4 +13,6 @@ show:
   - feedback
 ---
 
-## ReFi
+## Net-zero
+
+If a sustainable, net-zero emission and resilient world is to be achieved this decade, climate finance must reach $4.35 trillion annually by 2030 [2].

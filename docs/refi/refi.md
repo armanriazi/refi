@@ -17,6 +17,8 @@ show:
 
 - [ReFi Statistic](statistic_refi.md)
 
+- [ReFi ESG](esg.md)
+
 !!! Relational material
 
     === "Blockchain"
@@ -58,3 +60,10 @@ ReFi projects realize these principles using smart contracts and decentralized f
 - [7] Honors place & community
 - [8] In right relationship
 
+## Personal Regeneration
+
+ReFi enables programming of incentives that lead to changed behaviour for the better of the planet – and empowers local communities to monetize stewardship of their natural capital and ecological assets – something we know is critical to ecosystem restoration and biodiversity protection [2].
+`CJ Hetherington, Co-Founder, Atlantis World`
+
+From my perspective, the economy today is extractive, focused solely on GDP growth with little regard for externalities punishing people and the planet. ReFi challenges that by creating a financial structure where the economic activity has a positive impact on the ecosystem [2].
+`Jack Policar, Product Manager,Climate Builder Hub, Toucan Protocol`

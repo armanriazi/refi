@@ -33,6 +33,9 @@ hide:
 
 [10]: Recommendations for the digital voluntary and regulated carbon markets. Weforum.org. Retrieved October 7, 2023, from https://www3.weforum.org/docs/Recommendations_for_the_Digital_Voluntary_and_Regulated_Carbon_Markets.pdf
 
+[11]: Unveiling the VCMI claims code. (n.d.). Flowcarbon.com. Retrieved October 7, 2023, from https://www.flowcarbon.com/
+
+[12]: ISSUE BRIEF. (n.d.). Who Cares Wins, 2004–08. Worldbank.org. Retrieved October 6, 2023, from https://documents1.worldbank.org/curated/en/444801491483640669/pdf/113850-BRI-IFC-Breif-whocares-PUBLIC.pdf
 
 ---
 
