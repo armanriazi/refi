@@ -35,15 +35,17 @@ show:
 
 ---
 
-- [OFP](ofp.md)
+- [Nature](./nature/nature.md)
+
+- [OFP](./nature/ofp/ofp.md)
 
 ---
 
 - [Tags](tag.md)
 
-- [Glossery](glossery.md)
+- [Addresses](address.md)
 
-- [Sentances](word.md)
+- [Glossery](glossery.md)
 
 - [References](reference.md)
 

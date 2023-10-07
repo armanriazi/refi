@@ -9,14 +9,13 @@ nav:
         - 'ReFi': 'refi/refi.md'                    
         - 'Quotation': 'quotation.md'  
         - 'Blockchain': 'blockchain/blockchain.md'          
-        - 'Tokenize': 'blockchain/tokenize.md'                                        
-    - 'Glossery': 
+        - 'Nature': 'nature/nature.md'                                        
+    - 'Appendix': 
+        - 'Addresses': 'address.md'          
         - 'Glossery': 'glossery.md'
-        - 'Sentence': 'word.md'
-    - 'References': 
-        - 'References': 'reference.md'
+        - 'References': 'reference.md'            
     - 'Tags':
-        - 'Tags': 'tag.md'                    
+        - 'Tags': 'tags.md'                    
 theme:
   name: material
   logo: assets/attachments/me.png
@@ -135,7 +134,7 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - tags:
-     tags_file: tag.md
+     tags_file: tags.md
   - search  
   - social
   - glightbox

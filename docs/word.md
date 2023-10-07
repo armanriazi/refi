@@ -24,6 +24,8 @@ real-world assets
 
 ## Verbs
 
+coincide
+
 envision
 
 pledge[n,v]

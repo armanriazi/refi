@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\workspace",
-    "\\workspace\\shareable",
-    "\\workspace\\shareable\\assignments"
+    "\\docs",
+    "\\docs\\blockchain",
+    "\\docs\\digital",
+    "\\docs\\refi",
+    "\\docs\\shareable",
+    "\\docs\\shareable\\assignments"
   ],
-  "SelectedNode": "\\workspace\\words.md",
+  "SelectedNode": "\\docs\\index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -29,6 +29,9 @@ hide:
 
 [8]: Misura, P. (2023, August 14). Regenerative finance – blockchain as a catalyst for a sustainable economy. Horn-company.de; Horn & Company. https://www.horn-company.de/blog-en/digital-assets-en/regenerative-finance/?lang=en
 
+[9]: Report: The nature tech market. Necessary, emergent, dynamic. (n.d.). Capitalforclimate.com. Retrieved October 7, 2023, from https://www.capitalforclimate.com/newsletter/report-the-nature-tech-market-necessary-emergent-dynamic
+
+
 ---
 
 [x]: Riazi, A. (n.d.). Arman riazi - Arman riazi. Github.Io. Retrieved September 25, 2023, from https://armanriazi.github.io/public/blockchain/Blockchain/
