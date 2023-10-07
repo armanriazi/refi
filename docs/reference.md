@@ -31,6 +31,8 @@ hide:
 
 [9]: Report: The nature tech market. Necessary, emergent, dynamic. (n.d.). Capitalforclimate.com. Retrieved October 7, 2023, from https://www.capitalforclimate.com/newsletter/report-the-nature-tech-market-necessary-emergent-dynamic
 
+[10]: Recommendations for the digital voluntary and regulated carbon markets. Weforum.org. Retrieved October 7, 2023, from https://www3.weforum.org/docs/Recommendations_for_the_Digital_Voluntary_and_Regulated_Carbon_Markets.pdf
+
 
 ---
 
