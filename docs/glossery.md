@@ -32,6 +32,8 @@ hide:
 
 > `VCM` Voluntary Carbon Market
 
+> `PES` payments for ecosystem services
+
 # Jargon
 
 ## Environment jargon
@@ -147,4 +149,4 @@ The ability to identify, track, and trace the provenance and journey of products
 
 ###### Capacity Building & Community Engagement
 
-Any intervention that develops and strengthens an individual’s, community’s, and/or organization’s skills and ability to adopt sustainable practices. Ideally, these interventions also support decision-making that enables economic empowerment while mitigating anthropogenic impacts on biodiversity and climate change/environment.
+Any intervention that develops and strengthens an individualâ€™s, communityâ€™s, and/or organizationâ€™s skills and ability to adopt sustainable practices. Ideally, these interventions also support decision-making that enables economic empowerment while mitigating anthropogenic impacts on biodiversity and climate change/environment.
