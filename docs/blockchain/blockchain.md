@@ -45,8 +45,8 @@ are purchasing, and so they manage reputational risk by hiring intermediaries, w
 and have no incentive to make changes and adopt emerging technologies. This stifles market activity
 and makes it even harder to meet climate targets. The lack of a standardized terminology for
 describing carbon credits makes it hard for potential buyers to compare credits from different
-sources and confidently purchase without the help of intermediaries. The use of the term “token”
-(rather than “credit”) in the blockchain industry has only added to the confusion and has raised
+sources and confidently purchase without the help of intermediaries. The use of the term â€œtokenâ€
+(rather than â€œcreditâ€) in the blockchain industry has only added to the confusion and has raised
 regulatory concerns [10].
 Using technology-based data collection tools such as digital decentralized measurement, reporting and
 verification (MRV), and making such data available in an open-source and human-readable format (e.g.
@@ -66,7 +66,7 @@ repeatable effort across a diverse group of sensors and stakeholders [10].
 > Build for systems, not silos.
 Open application programming interfaces (APIs) accessing blockchain data have the potential to improve verifiability, reduce transaction costs and, to a lesser degree, address the concerns of some
 projects. While not a new trend, the availability of welldocumented and accessible public APIs is critical. As
-industries – especially those that have been slower to adopt technology – undergo digital transformation,
+industries â€“ especially those that have been slower to adopt technology â€“ undergo digital transformation,
 accessible APIs play an important role in delivering transparency, connectivity and innovation [10].
 Appropriate use of **smart contracts would minimize manual reconciliation efforts** between disparate systems by
 creating machine-readable agreements and auditable tracking of credits throughout their life cycle [10].

@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\blockchain",
-    "\\docs\\digital",
-    "\\docs\\refi",
-    "\\docs\\shareable",
-    "\\docs\\shareable\\assignments"
+    "\\docs\\blockchain"
   ],
-  "SelectedNode": "\\docs\\index.md",
+  "SelectedNode": "\\docs\\blockchain\\blockchain.md",
   "PreviewInSolutionExplorer": false
 }
