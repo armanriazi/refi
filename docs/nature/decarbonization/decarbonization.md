@@ -28,7 +28,7 @@ projects that would not otherwise get off the ground, and they support investmen
 to lower the cost of emerging climate technologies” [2].
 
 <figure markdown>
-![Carbon Markets Initiative]("..\assets\attachments\refi_images\vcm_mrv.png"){ width="800" height="600" align=center }
+![Carbon Markets Initiative]("../assets/attachments/refi_images/vcm_mrv.png"){ width="800" height="600" align=center }
 <figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
 </figure>
 
