@@ -10,8 +10,10 @@ nav:
         - 'Quotation': 'quotation.md'  
         - 'Blockchain': 'blockchain/blockchain.md'          
         - 'Nature': 'nature/nature.md'                                        
+    - 'Resources': 
+        - 'Statictics': 'statictic.md'          
+        - 'Addresses': 'address.md'                    
     - 'Appendix': 
-        - 'Addresses': 'address.md'          
         - 'Glossery': 'glossery.md'
         - 'References': 'reference.md'            
     - 'Tags':

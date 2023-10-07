@@ -22,9 +22,6 @@ show:
 
 > Going through to ReFi contexts:
 
-
-- [ReFi talents](refi/refi_talents/refi_talents.md)
-
 - [ReFi](refi/refi.md)
 
 - [Blockchain](blockchain/blockchain.md)
@@ -41,7 +38,7 @@ show:
 
 ---
 
-- [Tags](tag.md)
+- [Tags](tags.md)
 
 - [Statictics](statictic.md)
 
