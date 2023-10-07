@@ -13,6 +13,6 @@ show:
   - feedback
 ---
 
-[Nature Statictices](./nature/statictic_nature.md)
+[Nature Statictices](./nature/statistic_nature.md)
 
-[ReFi Statictices](./nature/statictic_refi.md)
+[ReFi Statictices](./nature/statistic_refi.md)

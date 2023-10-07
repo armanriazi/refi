@@ -17,6 +17,6 @@ show:
 
 - [Decarbonization](./decarbonization/decarbonization.md)
 
-- [OFP](./ofp/OFP.md)
+- [OFP](./ofp/ofp.md)
 
-- [ReFi Nature](statictic_nature.md)
+- [ReFi Nature](statistic_nature.md)
