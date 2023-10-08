@@ -76,6 +76,9 @@ reef
 
 degradable substance
 
+deterioration over time
+
+
 ## Technology jargon
 
 emerging technologies

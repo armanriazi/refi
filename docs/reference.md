@@ -37,6 +37,9 @@ hide:
 
 [12]: ISSUE BRIEF. (n.d.). Who Cares Wins, 2004–08. Worldbank.org. Retrieved October 6, 2023, from https://documents1.worldbank.org/curated/en/444801491483640669/pdf/113850-BRI-IFC-Breif-whocares-PUBLIC.pdf
 
+[13]: Weicht, W. (2023, June 14). The pressure for regenerative economy. IMPACT FESTIVAL. https://impact-festival.earth/regenerative-economy/
+
+
 ---
 
 [x]: Riazi, A. (n.d.). Arman riazi - Arman riazi. Github.Io. Retrieved September 25, 2023, from https://armanriazi.github.io/public/blockchain/Blockchain/

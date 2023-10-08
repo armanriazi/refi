@@ -60,6 +60,10 @@ ReFi projects realize these principles using smart contracts and decentralized f
 - [7] Honors place & community
 - [8] In right relationship
 
+## Sustainability
+
+Sustainable companies aim to maintain the current state of natural systems in the present: they focus on **reducing negative impact**, **preventing further degradation**, and conserving resources. Their efforts have an inherent limitation: they usually are concerned about making processes and products “more efficient,” **using fewer resources for each product produced**,
+
 ## Personal Regeneration
 
 ReFi enables programming of incentives that lead to changed behaviour for the better of the planet – and empowers local communities to monetize stewardship of their natural capital and ecological assets – something we know is critical to ecosystem restoration and biodiversity protection [2].
