@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\blockchain"
+    "\\docs\\assets",
+    "\\docs\\assets\\attachments",
+    "\\docs\\assets\\attachments\\refi_images",
+    "\\docs\\digital",
+    "\\docs\\nature\\decarbonization"
   ],
-  "SelectedNode": "\\docs\\blockchain\\blockchain.md",
+  "SelectedNode": "\\docs\\assets\\attachments\\refi_images\\decarbonization_pathways.png",
   "PreviewInSolutionExplorer": false
 }
