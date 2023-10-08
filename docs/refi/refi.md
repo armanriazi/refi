@@ -36,11 +36,6 @@ show:
 
 
 
-<figure markdown>
-![Carbon Markets Initiative](../assets/attachments/impact.png){ width=800 height=600 align=center }
-<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
-</figure>
-
 
 Regenerative finance (ReFi) is a set of tools and ideas **built on top of blockchains**, that aim to create economies which are **regenerative, rather than extractive or exploitative**. 
 
@@ -49,6 +44,11 @@ Eventually, **extractive systems deplete the resources available and collapse; w
 ReFi operates on the assumption that the **creation of monetary value must be decoupled from the unsustainable extraction of resources** from our planet and communities. One of the foundations of ReFi is the concept of regenerative economics **pioneered by John Fullerto** [1].
 
 **ReFi also overlaps with the decentralized science (DeSci)** movement, which uses Ethereum as a platform to finance, create, review, credit, store, and disseminate scientific knowledge. DeSci tools could become useful for developing verifiable standards and practices for implementing and monitoring **regenerative activities like planting trees, removing [[plastic]] from the ocean, or [[restor]]ing a degraded ecosystem** [1].
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=800 height=600 align=center }
+<figcaption>Diagram of impact: From conventional design to regenerative design [12]</figcaption>
+</figure>
 
 ## Values of ReFi
 
@@ -69,8 +69,9 @@ ReFi projects realize these principles using smart contracts and decentralized f
 - [7] Honors place & community
 - [8] In right relationship
 
-## Sustainability
+## Sustainability vs Regenerative
 
+Regenerative is **seeking strategies** for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”.
 Sustainable companies aim to maintain the current state of natural systems in the present: they focus on **reducing negative impact**, **preventing further degradation**, and conserving resources. Their efforts have an inherent limitation: they usually are concerned about making processes and products “more efficient,” **using fewer resources for each product produced**,
 
 ## Personal Regeneration
