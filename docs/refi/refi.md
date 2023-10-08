@@ -33,6 +33,15 @@ show:
 
         * [Digital](../digital/digital.md)
 
+
+
+
+<figure markdown>
+![Carbon Markets Initiative](../assets/attachments/impact.png){ width=800 height=600 align=center }
+<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
+</figure>
+
+
 Regenerative finance (ReFi) is a set of tools and ideas **built on top of blockchains**, that aim to create economies which are **regenerative, rather than extractive or exploitative**. 
 
 Eventually, **extractive systems deplete the resources available and collapse; without regenerative mechanisms, they lack #resilience.** 
