@@ -14,12 +14,12 @@ show:
 ---
 
 <figure markdown>
-![Decarbonization Pathways]("../assets/attachments/decarbonization_pathways.png"){ width="800" height="600" align=center }
+![Decarbonization Pathways]("../../assets/attachments/decarbonization_pathways.png"){ width="800" height="600" align=center }
 <figcaption>The area demarcated by the yellow rectangle represents the parts of the decarbonizing roadmap addressed by NbS. Without engaging these sectors – food, nature-based sources, and sinks – achieving net zero by 2050 will be impossible [9].</figcaption>
 </figure>
 
 ## VCM
-Voluntary carbon market (VCM)50: Where private individuals, corporations and other actors issue,
+Voluntary carbon market: Where private individuals, corporations and other actors issue,
 buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [2].
 The voluntary carbon market (VCM) is an existing market mechanism that the global community
 can use to channel enterprise capital into land conservation and environmental stewardship.
@@ -28,7 +28,7 @@ projects that would not otherwise get off the ground, and they support investmen
 to lower the cost of emerging climate technologies” [2].
 
 <figure markdown>
-![Carbon Markets Initiative]("../assets/attachments/vcm_mrv.png"){ width="800" height="600" align=center }
+![Carbon Markets Initiative]("../../assets/attachments/vcm_mrv.png"){ width="800" height="600" align=center }
 <figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
 </figure>
 

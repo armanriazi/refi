@@ -74,6 +74,8 @@ vertebrate
 
 reef
 
+degradable substance
+
 ## Technology jargon
 
 emerging technologies
