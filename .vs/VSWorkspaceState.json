@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\assets",
-    "\\docs\\assets\\attachments",
-    "\\docs\\assets\\attachments\\refi_images",
-    "\\docs\\digital",
-    "\\docs\\nature\\decarbonization"
+    "\\docs\\nature",
+    "\\docs\\nature\\decarbonization",
+    "\\docs\\refi"
   ],
-  "SelectedNode": "\\docs\\assets\\attachments\\refi_images\\decarbonization_pathways.png",
+  "SelectedNode": "\\docs\\reference.md",
   "PreviewInSolutionExplorer": false
 }

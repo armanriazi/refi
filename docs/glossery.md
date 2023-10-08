@@ -93,6 +93,7 @@ optimizing efficiency
 
 technical friction
 
+interconnectedness
 
 ## VCM
 

@@ -39,6 +39,12 @@ hide:
 
 [13]: Weicht, W. (2023, June 14). The pressure for regenerative economy. IMPACT FESTIVAL. https://impact-festival.earth/regenerative-economy/
 
+[14]: Goerner, S. (n.d.). The art and science of creating durably vibrant human networks. Capitalinstitute.org. Retrieved October 8, 2023, from https://capitalinstitute.org/wp-content/uploads/2015/05/000-Regenerative-Devel-Final-Goerner-Sept-1-2015.pdf
+
+[15]: The Good Life Goals: Making sustainable development more personal. (2018, September 25). SEI; Stockholm Environment Institute. https://www.sei.org/about-sei/press-room/good-life-goals-making-sustainable-development-personal/
+
+[16]: Wade, J. (2023, September 12). What is regenerative finance (ReFi)? Investopedia. https://www.investopedia.com/what-is-regenerative-finance-refi-7098179
+
 
 ---
 
