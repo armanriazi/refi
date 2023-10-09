@@ -19,6 +19,8 @@ show:
 
 - [ReFi ESG](esg.md)
 
+- [ReFungible](refungible.md)
+
 !!! Relational material
 
     === "Blockchain"
@@ -46,7 +48,7 @@ ReFi operates on the assumption that the **creation of monetary value must be de
 **ReFi also overlaps with the decentralized science (DeSci)** movement, which uses Ethereum as a platform to finance, create, review, credit, store, and disseminate scientific knowledge. DeSci tools could become useful for developing verifiable standards and practices for implementing and monitoring **regenerative activities like planting trees, removing [[plastic]] from the ocean, or [[restor]]ing a degraded ecosystem** [1].
 
 <figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=800 height=600 align=center }
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=600 height=400 align=center }
 <figcaption>Diagram of impact: From conventional design to regenerative design [12]</figcaption>
 </figure>
 

@@ -95,7 +95,7 @@ technical friction
 
 interconnectedness
 
-## VCM
+## VCM [11]
 
 `SBTi` Science Based Target Initiative - An initiative that mobilizes companies to set emission reduction targets based on climate science. A collaboration between CDP, the UN Global Compact, the WRI, and WWF, the SBTi defines and promotes best practice in science-based target setting, offers resources and guidance to reduce barriers to adoption, and independently assesses and approves companies’ targets. Adopting an SBTi-approved target is one of the We Mean Business Coalition commitments 
 

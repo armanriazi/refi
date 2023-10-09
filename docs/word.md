@@ -64,6 +64,8 @@ green bonds
 
 panacea
 
+stewardship[n]
+
 will not fade away
 
 It is time to onboard yourself into the
@@ -109,6 +111,8 @@ captures all the different forms
 stemming from forestry
 
 sequestration potential
+
+get off the ground
 
 ## Questions
 
