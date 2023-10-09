@@ -19,8 +19,6 @@ show:
 
 - [ReFi ESG](esg.md)
 
-- [ReFungible](refungible.md)
-
 !!! Relational material
 
     === "Blockchain"

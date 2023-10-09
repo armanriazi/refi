@@ -45,7 +45,7 @@ hide:
 
 [16]: Wade, J. (2023, September 12). What is regenerative finance (ReFi)? Investopedia. https://www.investopedia.com/what-is-regenerative-finance-refi-7098179
 
-[17]: (N.d.-b). Github.com. Retrieved October 5, 2023, from https://github.com/UniqueNetwork/techpaper)
+[17]: Riazi, A. (2023). Towards a blanket licensing digitized of music NFT decentralized. Zenodo. https://doi.org/10.5281/ZENODO.8023208
 
 
 ---
