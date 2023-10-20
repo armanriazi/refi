@@ -19,7 +19,7 @@ show:
     === "Climate"
 
         * [Climate](./climate/climate.md)
-        * [OFP](./ofp/ofp.md)
+        * [OFP](./digital_asset/ofp/ofp.md)
 
     === "Decarbonization"
 
