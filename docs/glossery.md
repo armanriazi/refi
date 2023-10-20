@@ -16,6 +16,8 @@ hide:
 
 > `MRV` measurement, reporting and verification 
 
+> `NCS` Natural climate solutions
+
 > `Tokenomics` token + economics
 
 > `OFP` Open Forest Protocol
@@ -102,6 +104,15 @@ optimizing efficiency
 technical friction
 
 interconnectedness
+
+## Offsetting [24]
+
+Biodiversity offsetting **refers to actions, such as restoring degraded land**, that are intended to compensate for biodiversity destruction taking place at a different time and place.
+An offset market is created when a law requires companies to offset their negative impact on bi-odiversity, through actions such as restoration projects. These actions grant the right to tradable permits to destroy biodiversity elsewhere. *If a company has destroyed more biodiversity than it has permits for, it can either perform “offsetting actions” or buy permits from another company.* Correspondingly, a company that owns more permits than it has destroyed can choose to sell its excess permits to another company. The legislation that creates the market determines the rules surrounding the permits.
+
+## Net Gain [24]
+
+The ‘Net Gain’ principle on which is based the EU 2030 biodiversity strategy also outlines offsetting: Net gain is defined as ‘giving back to nature more than it receives from it’27. In other words, this means allowing destruction to continue, as long as you ‘compensate’ for just a little more than you destroy. The equivalent term in UN language is ‘land degradation neutrality.
 
 ## VCM [11]
 

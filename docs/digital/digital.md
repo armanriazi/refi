@@ -19,6 +19,10 @@ show:
 
         * [Digital Asset Frameworks](../digital_asset/digital_asset_frameworks.md)
 
+    === "NaaAC"
+
+        * [Nature as an Asset Class](../nature//NaaAC/naaac.md)
+
 ## Digital transformation 
 
 Digital transformation across the [[environment]] and [[climate]] sector is an urgent opportunity for meaningful action [2].

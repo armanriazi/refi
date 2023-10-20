@@ -47,6 +47,8 @@ Prof. Dr. Philipp Sandner Head of the Frankfurt School Blockchain Center
 
 @ClimateTrade™
 
+@Australian Renewable Energy Agency (ARENA)
+
 Prof. Dr. Philipp Sandner Head of Frankfurt School Blockchain Center
 
 #rwa #tokenization #blockchain #web3 #regenerativefinance #sustainability #carbon #smartcontracts #carboncredits #climate #climaterisk #sustainablefinance #esg #CryptoAssetsConference2023 #CAC23B #DLT #ReFi #movethedate #biodiversitycredit #biodiversity  #climatemarkets #conservation #biodiversity #ActInTime #indigenous #Global hashtag#SustainableDevelopment. 

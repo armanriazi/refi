@@ -21,6 +21,10 @@ show:
         * [Climate](./climate/climate.md)
         * [OFP](./digital_asset/ofp/ofp.md)
 
+    === "Asset"
+
+        * [Nature as an Asset Class](./NaaAC/naaac.md)
+
     === "Decarbonization"
 
         * [Decarbonization](./decarbonization/decarbonization.md)

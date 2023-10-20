@@ -57,7 +57,11 @@ hide:
 
 [22]: Baim, O. (n.d.). Curbing climate change: An analysis of the blockchain’s impact on the voluntary carbon market. Umich.edu. Retrieved October 20, 2023, from https://deepblue.lib.umich.edu/bitstream/handle/2027.42/176237/Owen%20Baim.pdf?sequence=1
 
+[23]: Nature as an asset class: Financing the transition to a regenerative economy - ethic. (n.d.). Ethic.com. Retrieved October 20, 2023, from https://www.ethic.com/insights/nature-as-an-asset-class
 
+[24]: Nature: The new asset class. (2022, April 18). Bain. https://www.bain.com/insights/nature-the-new-asset-class/
+
+[25]: (N.d.). Greens-Efa.Eu. Retrieved October 20, 2023, from https://www.greens-efa.eu/files/assets/docs/nature_as_an_asset_class_web.pdf
 
 
 ---
