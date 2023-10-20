@@ -13,13 +13,20 @@ show:
   - feedback
 ---
 
-- [ReFi Talents](refi_talents.md)
+!!! ReFi Index
 
-- [ReFi Statistic](statistic_refi.md)
+    === "Talents"
 
-- [ReFi ESG](esg.md)
+        * [Talents](refi_talents)
 
-!!! Relational material
+    === "Statistic"
+
+        * [Statistic](statistic_refi.md)
+
+---
+
+
+!!! Relation
 
     === "Blockchain"
 
@@ -27,13 +34,17 @@ show:
 
     === "Tokenize"
 
-        * [Refi Talent Course](refi_talents.md)
+        * [Tokenize](../blockchain/tokenize.md)
     
-    === "digital"
+    === "Digital"
 
         * [Digital](../digital/digital.md)
+   
+    === "ESG"
 
+        * [ESG](esg.md)
 
+---
 
 Regenerative finance (ReFi) is a set of tools and ideas **built on top of blockchains**, that aim to create economies which are **regenerative, rather than extractive or exploitative [1]**. 
 

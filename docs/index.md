@@ -26,15 +26,9 @@ show:
 
 - [Blockchain](blockchain/blockchain.md)
 
-- [Tokenize](blockchain/tokenize.md)
-
-- [Quotation](quotation.md)
-
 ---
 
 - [Nature](./nature/nature.md)
-
-- [OFP](./nature/ofp/ofp.md)
 
 ---
 
@@ -43,6 +37,8 @@ show:
 - [Statictics](statistic.md)
 
 - [Addresses](address.md)
+
+- [Quotation](quotation.md)
 
 - [Glossery](glossery.md)
 

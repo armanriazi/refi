@@ -20,11 +20,17 @@ hide:
 
 > `OFP` Open Forest Protocol
 
+> `GHG` Greenhouse gas
+
 > `ESG` Environmental, Social, Governance
+
+> `ETS` emissions trading systems
 
 > `NbS` Nature-based Solutions
 
 > `Nature Tech, NT` Interventions and actions to protect, sustainably manage and restore natural and modified ecosystems to address climate change mitigation, continued ecosystem service provisioning, sustainable economic development, and biodiversity preservation.Any technology that can be applied to enable, accelerate, or scale-up Nature-based Solutions.
+
+> `CDM` Clean Development Mechanism 
 
 > `C4C` Capital for Climate 
 
@@ -33,6 +39,8 @@ hide:
 > `VCM` Voluntary Carbon Market
 
 > `PES` payments for ecosystem services
+
+> `IPCC` Intergovernmental Panel on Climate Change released a fresh report card
 
 > `WCW` Who Cares Wins was initiated by the UN Secretary General and UN Global Compact in 2004 in collaboration with the Swiss government.
 

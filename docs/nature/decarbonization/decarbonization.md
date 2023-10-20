@@ -18,6 +18,19 @@ show:
 <figcaption>The area demarcated by the yellow rectangle represents the parts of the decarbonizing roadmap addressed by NbS. Without engaging these sectors – food, nature-based sources, and sinks – achieving net zero by 2050 will be impossible [9].</figcaption>
 </figure>
 
+
+## Two Types Of Carbon Markets
+Effective action will require concerted and sufficient investment, knowing also that the costs of inaction will be far higher. Developing countries will need up to US$6 trillion by 2030 to finance not even half of their climate action goals[17].
+**The Clean Development Mechanism (CDM)**, adopted under the *Kyoto Protocol in 1997*, is another well-known **example of an international compliance market**[17].
+One type of compliance market that many people will have heard of are **emissions trading systems (ETS)**. **Operating on a “cap-and-trade” principle**, regulated businesses – or countries, as in the case of the European Union’s ETS – are issued emission/pollution permits, or allowances by governments (which add up to a total maximum, or capped, amount). Polluters that exceed their permitted emissions must buy permits from others with permits available for sale (i.e., trade)[17].
+
+## What are carbon markets?
+
+In a nutshell, carbon markets are **trading systems** in which carbon credits are sold and bought. Companies or individuals can use carbon markets **to compensate** *for their greenhouse gas emissions by purchasing carbon credits* from entities that remove or reduce greenhouse gas emissions [17].
+carbon markets can help accelerate the transformation needed, by effectively **putting a price on pollution** and **creating an economic incentive** for reducing emissions. They can also help generate some of the vast sums needed to build resilience [17].
+
+**One tradable carbon credit equals one tonne of carbon dioxide** or the equivalent amount of a different greenhouse gas reduced, sequestered or avoided. When **a credit is used to reduce, sequester, or avoid emissions**, *it becomes an offset and is no longer tradable* [17].
+
 ## VCM
 Voluntary carbon market: Where private individuals, corporations and other actors issue,
 buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [2].

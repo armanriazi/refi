@@ -24,6 +24,8 @@ real-world assets
 
 ## Verbs
 
+sequester
+
 coincide
 
 envision
@@ -61,6 +63,8 @@ The insightful discussion with the ReFi specialist unveils
 promote sustainable practices
 
 green bonds
+
+polluters
 
 panacea
 

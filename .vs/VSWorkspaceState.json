@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs"
+    "\\docs",
+    "\\docs\\blockchain",
+    "\\docs\\nature",
+    "\\docs\\nature\\decarbonization",
+    "\\docs\\refi",
+    "\\docs\\shareable",
+    "\\docs\\shareable\\assignments"
   ],
+  "SelectedNode": "\\docs\\shareable\\assignments\\task1.md",
   "PreviewInSolutionExplorer": false
 }

@@ -47,6 +47,9 @@ hide:
 
 [17]: Riazi, A. (2023). Towards a blanket licensing digitized of music NFT decentralized. Zenodo. https://doi.org/10.5281/ZENODO.8023208
 
+[18]: What are carbon markets and why are they important? (n.d.). UNDP Climate Promise. Retrieved October 20, 2023, from https://climatepromise.undp.org/news-and-stories/what-are-carbon-markets-and-why-are-they-important
+
+
 
 ---
 

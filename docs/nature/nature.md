@@ -13,10 +13,25 @@ show:
   - feedback
 ---
 
-- [Climate](./climate/climate.md)
 
-- [Decarbonization](./decarbonization/decarbonization.md)
+!!! Nature Index
 
-- [OFP](./ofp/ofp.md)
+    === "Climate"
 
-- [ReFi Nature](statistic_nature.md)
+        * [Climate](./climate/climate.md)
+        * [OFP](./ofp/ofp.md)
+
+    === "Decarbonization"
+
+        * [Decarbonization](./decarbonization/decarbonization.md)
+    
+    === "Statistic"
+
+        * [Statistic](./statistic_nature.md)
+   
+
+!!! Relation
+
+    === "ESG"
+
+        * [ESG](esg.md)
