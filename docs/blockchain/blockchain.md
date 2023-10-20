@@ -75,3 +75,17 @@ accessible APIs play an important role in delivering transparency, connectivity 
 Appropriate use of **smart contracts would minimize manual reconciliation efforts** between disparate systems by
 creating machine-readable agreements and auditable tracking of credits throughout their life cycle [10].
 
+
+## Carbon Market
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/carbon_trade_blockchain.png){ width=600 height=400 align=center }
+<figcaption>Schematic overview of carbon trading on a blockchain versus a centralized platform [19]</figcaption>
+</figure>
+
+The top panel shows the simplified steps required for a [[carbon_trade]] to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [19].
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/trl_blockchain.png){ width=600 height=400 align=center }
+<figcaption>The technology readiness level of blockchain solutions in carbon markets [19]</figcaption>
+</figure>

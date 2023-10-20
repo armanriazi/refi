@@ -51,6 +51,7 @@ hide:
 
 [19]: Sipthorpe, A., Brink, S., Van Leeuwen, T., & Staffell, I. (2022). Blockchain solutions for carbon markets are nearing maturity. One Earth (Cambridge, Mass.), 5(7), 779–791. https://doi.org/10.1016/j.oneear.2022.06.004
 
+[20]: Ludeña, C., de Miguel, C., & Schuschny, A. (n.d.). Climate change and carbon markets: implications for developing countries. Cepal.org. Retrieved October 20, 2023, from https://repositorio.cepal.org/server/api/core/bitstreams/0bf4391b-5049-41e5-94b3-132227abf88b/content
 
 
 ---

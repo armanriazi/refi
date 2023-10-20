@@ -26,6 +26,8 @@ show:
 
 - [Blockchain](blockchain/blockchain.md)
 
+- [Protocols](./protocols.md)
+
 ---
 
 - [Nature](./nature/nature.md)

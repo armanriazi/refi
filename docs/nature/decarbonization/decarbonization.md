@@ -21,7 +21,7 @@ show:
 
 ## Two Types Of Carbon Markets
 Effective action will require concerted and sufficient investment, knowing also that the costs of inaction will be far higher. Developing countries will need up to US$6 trillion by 2030 to finance not even half of their climate action goals[17].
-**The Clean Development Mechanism (CDM)**, adopted under the *Kyoto Protocol in 1997*, is another well-known **example of an international compliance market**[17].
+**The Clean Development Mechanism (CDM)**, adopted under the *[[Kyoto]] [[Protocol]] in 1997*, is another well-known **example of an international compliance market**[17].
 One type of compliance market that many people will have heard of are **emissions trading systems (ETS)**. **Operating on a “cap-and-trade” principle**, regulated businesses – or countries, as in the case of the European Union’s ETS – are issued emission/pollution permits, or allowances by governments (which add up to a total maximum, or capped, amount). Polluters that exceed their permitted emissions must buy permits from others with permits available for sale (i.e., trade)[17].
 
 ## What are carbon markets?
