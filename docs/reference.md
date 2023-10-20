@@ -49,6 +49,8 @@ hide:
 
 [18]: What are carbon markets and why are they important? (n.d.). UNDP Climate Promise. Retrieved October 20, 2023, from https://climatepromise.undp.org/news-and-stories/what-are-carbon-markets-and-why-are-they-important
 
+[19]: Sipthorpe, A., Brink, S., Van Leeuwen, T., & Staffell, I. (2022). Blockchain solutions for carbon markets are nearing maturity. One Earth (Cambridge, Mass.), 5(7), 779–791. https://doi.org/10.1016/j.oneear.2022.06.004
+
 
 
 ---

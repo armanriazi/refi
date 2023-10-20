@@ -13,7 +13,7 @@ show:
   - feedback
 ---
 
-!!! Relational material
+!!! Blockchain Index
 
     === "Blockchain"
 
@@ -23,6 +23,10 @@ show:
 
         * [Tokenize](tokenize.md)
     
+---
+
+!!! Relational material
+
     === "digital"
 
         * [Digital](../digital/digital.md)

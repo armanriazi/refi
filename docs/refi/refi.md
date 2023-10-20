@@ -30,7 +30,7 @@ show:
 
     === "Blockchain"
 
-        * [Blockchain](https://armanriazi.github.io/public/blockchain/Blockchain/)
+        * [Blockchain](../blockchain/blockchain.md)
 
     === "Tokenize"
 
