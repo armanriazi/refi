@@ -19,11 +19,11 @@ show:
     === "Climate"
 
         * [Climate](./climate/climate.md)
-        * [OFP](./digital_asset/ofp/ofp.md)
+        * [OFP](../digital_asset/ofp/ofp.md)
 
     === "Asset"
 
-        * [Nature as an Asset Class](./NaaAC/naaac.md)
+        * [Nature as an Asset Class](../NaaAC/naaac.md)
 
     === "Decarbonization"
 
