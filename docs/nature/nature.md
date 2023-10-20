@@ -23,7 +23,7 @@ show:
 
     === "Asset"
 
-        * [Nature as an Asset Class](../NaaAC/naaac.md)
+        * [Nature as an Asset Class](./NaaAC/naaac.md)
 
     === "Decarbonization"
 
