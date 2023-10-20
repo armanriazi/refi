@@ -13,6 +13,12 @@ show:
   - feedback
 ---
 
+!!! Relational material
+
+    === "Digital"
+
+        * [Digital Asset Frameworks](../digital_asset/digital_asset_frameworks.md)
+
 ## Digital transformation 
 
 Digital transformation across the [[environment]] and [[climate]] sector is an urgent opportunity for meaningful action [2].

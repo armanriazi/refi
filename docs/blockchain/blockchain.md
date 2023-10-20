@@ -30,7 +30,7 @@ show:
     === "Digital"
 
         * [Digital](../digital/digital.md)
-
+        * [Digital Asset Frameworks](../digital_asset/digital_asset_frameworks.md)
 
 Blockchain can be used to create a variety of applications that can have a positive social and environmental impact [DeFi Talent Slides]:
 
@@ -38,6 +38,10 @@ Blockchain can be used to create a variety of applications that can have a posit
 - [x] **transparent and efficient** regenerative agriculture supply chain, connecting farmers directly to consumers and reducing waste.
 - [x] **DeFi** applications which make financial services more accessible to people in developing countries and other underserved communities.
 
+<figure markdown>
+![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/blockchain_features.png){ width=800 height=600 align=center }
+<figcaption> Blockchain Key Properties [22]</figcaption>
+</figure>
 
 Without auditability and visibility into the supply chain, it is difficult for buyers to make informed
 decisions. This is where blockchain technology could play a role, although systems that use

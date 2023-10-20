@@ -19,6 +19,7 @@ show:
     === "Digital"
 
         * [Digital](../digital/digital.md)
+        * [Digital Asset Frameworks](../digital_asset/digital_asset_frameworks.md)
 
     === "ReFungible"
         

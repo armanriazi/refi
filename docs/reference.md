@@ -55,6 +55,9 @@ hide:
 
 [21]: Mitchell Board. (1651745309000). What is ReFi — The intersection of crypto and climate. Linkedin.com. https://www.linkedin.com/pulse/what-refi-intersection-crypto-climate-mitchell-board
 
+[22]: Baim, O. (n.d.). Curbing climate change: An analysis of the blockchain’s impact on the voluntary carbon market. Umich.edu. Retrieved October 20, 2023, from https://deepblue.lib.umich.edu/bitstream/handle/2027.42/176237/Owen%20Baim.pdf?sequence=1
+
+
 
 
 ---

@@ -45,6 +45,13 @@ projects that would not otherwise get off the ground, and they support investmen
 to lower the cost of emerging climate technologies” [2].
 
 <figure markdown>
+![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/issues_vcm.png){ width=800 height=600 align=center }
+<figcaption> Issues with the Voluntary Carbon Market [22].</figcaption>
+</figure>
+
+---
+
+<figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/vcm_mrv.png){ width=800 height=600 align=center }
 <figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
 </figure>
