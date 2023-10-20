@@ -1,6 +1,6 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Talents Quotation
-title: "ReFi Quotations"
+keywords:   armanriazi ArmanRiazi ReFi Protocols Climate
+title: "Protocols"
 author: "Arman Riazi"
 search:
   exclude: false
@@ -8,7 +8,7 @@ type:  Blockchain
 feature:  Blockchain
 keywords:  github armanriazi blockchain
 author: "Arman Riazi"
-title: "ReFi Quotations"
+title: "Protocols"
 show:
   - feedback
 ---
@@ -17,6 +17,13 @@ show:
 ## Kyoto
 
 While the Kyoto Protocol provided a framework for **reducing the greenhouse gas** emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an **updated version of the [[gtap]]-e** general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios [20].
+
+> we formulate four primary scenarios [20]:
+
+- [x] Kyoto Protocol without emissions trading (Kyontr),
+- [x] Kyoto Protocol with emissions trading between Annex I countries (Kyotr),
+- [x] Kyoto Protocol with emissions trading between Annex I countries and participation by some developing countries (Kyotr3 and Kyotrla),
+- [x] Kyoto Protocol with worldwide emissions trading (Kyowtr).
 
 The [[Kyoto]] Protocol has established three main market mechanisms for reducing greenhouse gases [20]:
 

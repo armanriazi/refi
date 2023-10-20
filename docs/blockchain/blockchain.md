@@ -27,7 +27,7 @@ show:
 
 !!! Relational material
 
-    === "digital"
+    === "Digital"
 
         * [Digital](../digital/digital.md)
 

@@ -53,6 +53,9 @@ hide:
 
 [20]: Ludeña, C., de Miguel, C., & Schuschny, A. (n.d.). Climate change and carbon markets: implications for developing countries. Cepal.org. Retrieved October 20, 2023, from https://repositorio.cepal.org/server/api/core/bitstreams/0bf4391b-5049-41e5-94b3-132227abf88b/content
 
+[21]: Mitchell Board. (1651745309000). What is ReFi — The intersection of crypto and climate. Linkedin.com. https://www.linkedin.com/pulse/what-refi-intersection-crypto-climate-mitchell-board
+
+
 
 ---
 

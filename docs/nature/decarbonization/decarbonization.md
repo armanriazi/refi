@@ -31,6 +31,10 @@ carbon markets can help accelerate the transformation needed, by effectively **p
 
 **One tradable carbon credit equals one tonne of carbon dioxide** or the equivalent amount of a different greenhouse gas reduced, sequestered or avoided. When **a credit is used to reduce, sequester, or avoid emissions**, *it becomes an offset and is no longer tradable* [17].
 
+Finally, it needs to be remarked that dynamic effects are not considered in this assessment, and the longterm incentives a carbon #tax may create for investment allocation around the world and among economic sectors, and changes in future competitiveness, remain a matter for future reseach. Winners and losers from a trading scheme might change depending on countries’ ability to adapt their economies in a dynamic context. Nevertheless, the short-term costs are low enough to justify action, and trading schemes that provided flexibility would be beneficial [20].
+
+One of the major problems of carbon markets is the potential for fraud or double-counting of credits. By building [[ReFi]] on the blockchain a new form of transparency is introduced that would eliminate the possibility of the same credit being counted twice. On-chain carbon credits are #traceable and #immutable meaning that no two people are able to claim the same credit twice. Burning (or retiring) on-chain credits ensures that they cannot be used again. One company enabling carbon on-chain is Toucan Protocol [21].
+
 ## VCM
 Voluntary carbon market: Where private individuals, corporations and other actors issue,
 buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [2].
