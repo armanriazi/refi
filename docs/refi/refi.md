@@ -17,7 +17,7 @@ show:
 
     === "Talents"
 
-        * [Talents](refi_talents)
+        * [Talents](refi_talents.md)
 
     === "Statistic"
 

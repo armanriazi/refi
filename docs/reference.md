@@ -73,6 +73,9 @@ hide:
 
 [30]: TRST. (2022, September 19). Regenerative finance ReFi - TRST01 Sustainable Supply Chain, ESG reporting , dMRV. Climate change TRST01 Sustainable Supply Chain, ESG reporting , dMRV. Climate Change Blockchain -. TRST01 Sustainable Supply Chain, ESG Reporting , dMRV. Climate Change. https://trst01.com/refi/
 
+[31]: (N.d.-c). Verra.org. Retrieved November 2, 2023, from https://verra.org/wp-content/uploads/Verra-DMRV-WG-TOR-final.pdf
+
+[32]: Climate connect digital. (n.d.). Climateconnect.Digital. Retrieved November 2, 2023, from https://climateconnect.digital/news_and_insights/technological-advancements-in-dmrv/
 
 ---
 
