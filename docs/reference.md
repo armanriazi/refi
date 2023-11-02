@@ -63,6 +63,12 @@ hide:
 
 [25]: (N.d.). Greens-Efa.Eu. Retrieved October 20, 2023, from https://www.greens-efa.eu/files/assets/docs/nature_as_an_asset_class_web.pdf
 
+[26]: O ikigai. (n.d.). Ikigai. Retrieved November 2, 2023, from https://ikigai.cz/o-ikigai/
+
+[27]: Scherer, G. (2022, August 4). We’ve crossed the land use change planetary boundary, but solutions await. Mongabay Environmental News. https://news.mongabay.com/2022/08/weve-crossed-the-land-use-change-planetary-boundary-but-solutions-await/
+
+[28] Steffen, W., Richardson, K., Rockström, J., Cornell, S. E., Fetzer, I., Bennett, E. M., Biggs, R., Carpenter, S. R., de Vries, W., de Wit, C. A., Folke, C., Gerten, D., Heinke, J., Mace, G. M., Persson, L. M., Ramanathan, V., Reyers, B., & Sörlin, S. (2015). Planetary boundaries: Guiding human development on a changing planet. Science (New York, N.Y.), 347(6223). https://doi.org/10.1126/science.1259855
+
 
 ---
 

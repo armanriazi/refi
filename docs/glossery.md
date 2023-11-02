@@ -12,7 +12,7 @@ hide:
   - feedback
 ---
 
-# Shorten words
+# LIST OF ABBREVIATIONS
 
 > `MRV` measurement, reporting and verification 
 
@@ -51,43 +51,83 @@ hide:
 ## Environment jargon
 
 planetary boundaries and frontier
+مرزها و مرزهای سیاره ای
 
 biodiversity loss
+از دست دادن تنوع زیستی
 
 disaster displacement
+جابجایی فاجعه
 
 energy grid deficiencies
+کمبودهای شبکه انرژی
 
 carbon accounting systems
+سیستم های حسابداری کربن
 
 emissions reduction
+کاهش انتشار
 
 footprints
 
 decarbonization
 
 precious metals
+فلزات گرانبها
 
 reputable carbon registries
+ثبت های کربن معتبر
 
 regenerative, rather than extractive or exploitative
+احیا کننده، به جای استخراج یا بهره برداری
 
 degraded ecosystem
+اکوسیستم تخریب شده
 
 facilitate large-scale collaboration on global issues such as climate change
+تسهیل همکاری در مقیاس بزرگ در مورد مسائل جهانی مانند تغییرات آب و هوا
 
 eroding
+در حال فرسایش
 
 terrestrial
+زمینی
 
 vertebrate
+مهره داران
 
 reef
+تپه دریایی
 
 degradable substance
+ماده تجزیه پذیر
 
 deterioration over time
+بدتر شدن در طول زمان
 
+planetary boundary
+مرز سیاره ای
+
+boreal forest
+جنگل شمالی
+
+biosphere
+زیست کره
+
+acidification
+اسیدی شدن
+
+forest tenure
+تصدی جنگل
+
+territories
+قلمروها
+
+human perturbation(deviation)
+اغتشاش انسانی (انحراف)
+
+terrestrial biomes: forests, woodlands, savannas, grasslands, shrublands, tundra
+زیست‌های زمینی: جنگل‌ها، جنگلزار، ساواناها، مراتع، بوته‌ها، تاندرا
 
 ## Technology jargon
 
@@ -113,6 +153,18 @@ An offset market is created when a law requires companies to offset their negati
 ## Net Gain [24]
 
 The ‘Net Gain’ principle on which is based the EU 2030 biodiversity strategy also outlines offsetting: Net gain is defined as ‘giving back to nature more than it receives from it’27. In other words, this means allowing destruction to continue, as long as you ‘compensate’ for just a little more than you destroy. The equivalent term in UN language is ‘land degradation neutrality.
+
+## ikigai [26]
+In France they would say "raison d'être" which means "reason for being". The Japanese express the same thing with one old word – ikigai. It was created by combining the expression for life ikiru and the word kai, which can be translated as "to have value, use, benefit, or even result, effect". Together, therefore, ikigai = the meaning of life.
+
+### A blend of four basic values:
+
+- [x] What I love — we really enjoy and bring us joy.
+- [x] What I'm really good at —  i.e. "do your best". 
+- [x] What will support me — let's look for an activity that will not only provide for our daily needs, but will also entertain us and we will do it to the best of our ability. As actor Will Smith and many others have said, "Too many people spend money they haven't earned on things they don't need to impress people they don't like."
+- [x] What the world needs — In every activity you can find a need for the world. Rather than looking for ways to change my profession, let's think about why I do what I do? What is the meaning of my work? 
+
+> Ikigai is the answer to all four points. It's not about a concept, but about a feeling that we've been searching for all our lives. 
 
 ## VCM [11]
 

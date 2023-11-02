@@ -29,9 +29,9 @@ Three types of NCS funds are emerging with different sources for returns and tar
 ## Offseting 
 
 Creating a biodiversity [[offset]] market requires 3 things [24]:
+
 - [x] New legislation introducing mandatory restoration targets, in order to create the demand
-- [x] A policy framework that considers that restoration compensates for destruction taking
-place elsewhere and at a different time;
+- [x] A policy framework that considers that restoration compensates for destruction taking place elsewhere and at a different time;
 - [x] A market framework allowing for the free trading of offset permits.
 
 Let’s take the **example** of a company wanting to build an airport in the South of Spain in an area that is a habitat for flamingos. With biodiversity offsetting, the law would allow the construction of the airport, provided that the company tries to avoid or minimize the impact on biodiversity. Any residual impact must be offset by recreating a habitat for flamingos within a radius of X kilometres.
