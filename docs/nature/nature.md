@@ -19,6 +19,7 @@ show:
     === "Climate"
 
         * [Climate](./climate/climate.md)
+        * [Climate](./planet/planet.md)
         * [OFP](../digital_asset/ofp/ofp.md)
 
     === "Asset"

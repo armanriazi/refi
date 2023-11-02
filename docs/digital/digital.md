@@ -18,6 +18,7 @@ show:
     === "Digital"
 
         * [Digital Asset Frameworks](../digital_asset/digital_asset_frameworks.md)
+        * [dMRV](./dmrv.md)
 
     === "NaaAC"
 

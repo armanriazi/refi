@@ -14,7 +14,7 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
-> `MRV` measurement, reporting and verification 
+> `dMRV` Digital measurement, reporting and verification 
 
 > `NCS` Natural climate solutions
 
@@ -132,18 +132,28 @@ terrestrial biomes: forests, woodlands, savannas, grasslands, shrublands, tundra
 ## Technology jargon
 
 emerging technologies
+فناوری های نوظهور
 
 digital transformation 
+تحول دیجیتال
 
 digital environmental assets
+دارایی های زیست محیطی دیجیتال
 
 procurement Digital
+تدارکات دیجیتال
 
 optimizing efficiency
+بهینه سازی بهره وری
 
 technical friction
+اصطکاک فنی
 
 interconnectedness
+به هم پیوستگی
+
+credit issuance
+صدور اعتبار
 
 ## Offsetting [24]
 

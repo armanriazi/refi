@@ -24,6 +24,15 @@ Effective action will require concerted and sufficient investment, knowing also 
 **The Clean Development Mechanism (CDM)**, adopted under the *[[Kyoto]] [[Protocol]] in 1997*, is another well-known **example of an international compliance market**[17].
 One type of compliance market that many people will have heard of are **emissions trading systems (ETS)**. **Operating on a “cap-and-trade” principle**, regulated businesses – or countries, as in the case of the European Union’s ETS – are issued emission/pollution permits, or allowances by governments (which add up to a total maximum, or capped, amount). Polluters that exceed their permitted emissions must buy permits from others with permits available for sale (i.e., trade)[17].
 
+## What are carbon credits?
+
+A forest [[carbon_credit]] is an **emissions reduction due to forest conservation or reforestation**
+that would not have occurred without carbon crediting. The carbon emissions (or uptake in the case of reforestation) expected **in the absence of the project is called the baseline.**
+At its simplest, 
+> *credit issuance equals: baseline emissions minus project emissions.*
+
+Leakage: We also have to **deduct emissions that “leak out” of the project**, because stopping deforestation in the project may cause some deforestation to just move elsewhere. This is called leakage. So total credit issuance can be reduced to a single core crediting equation.
+
 ## What are carbon markets?
 
 In a nutshell, carbon markets are **trading systems** in which carbon credits are sold and bought. Companies or individuals can use carbon markets **to compensate** *for their greenhouse gas emissions by purchasing carbon credits* from entities that remove or reduce greenhouse gas emissions [17].
