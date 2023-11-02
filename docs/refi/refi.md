@@ -80,6 +80,43 @@ ReFi projects realize these principles using smart contracts and decentralized f
 - [7] Honors place & community
 - [8] In right relationship
 
+### The eight principles describe [30]
+
+#### Principle #1: In Right Relationship 
+
+There is a growing momentum to see beyond shareholders’ value maximization. Corporations include Environment, Social and Governance measures in their Business Report.
+
+#### Principle #2: Views Wealth Holistically
+
+Wealth is beyond one just Financial goals; Perhaps it is a satisfying social network, access to parks and natural spaces, the ability to pursue curiosity and develop intellectually, or spiritual fulfilment.
+
+#### Principle #3: Innovative, Adaptive, Responsive
+
+To Solve problems creatively. Let us create Businesses that do that well are the ones that survive. Creative business models are often the best at not only solving challenging issues in a way but also benefiting local communities and the planet.
+
+#### Principle #4: Empowered Participation
+
+Decentralized leadership is a way to ensure everyone has a voice and buy-in to the company’s goals and empowers professional relationships. Support policies that are good for both people and the planet.
+
+#### Principle #5: Honors Community and Place
+
+Each human community consists of peoples, traditions, beliefs, and institutions uniquely shaped by long-term pressures of geography, human history, culture, local environment, and changing human needs. 
+
+A Regenerative Economy nurtures healthy and resilient communities and regions, each uniquely informed by the essence of its individual history and place.”
+
+#### Principle #6: Edge Effect Abundance
+
+More diverse employees are more innovative, create more profits, and have more satisfied employees. Diversity in perspectives helps groups make informed decisions, lead to greater creativity, and fosters environments of respect. This business “edge effect” is a feature of more regenerative economic systems.
+
+#### Principle #7: Robust Circulatory Flow
+
+Nature is a cyclic, regenerative system in which each part serves a purpose. In Nature, there is no waste, and a fallen log becomes home to fungus and food for termites. Find ways to reduce or reuse “waste” in our own life or introduce them into our company.
+
+#### Principle #8: Seeks Balance
+
+Corporations should balance the profit motive with an equal emphasis on people and the planet. Business can be a force that helps social, ecological, and economic systems operate in a healthy balance. Balance is a theme that runs through each of the Regenerative Principles. Things work better when they are in balance.
+Decentralized finance (DeFi) eliminates intermediaries by allowing people, merchants, and businesses to conduct financial transactions through Blockchain Technology.
+
 ## Sustainability vs Regenerative
 
 Regenerative is **seeking strategies** for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”.

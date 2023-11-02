@@ -27,11 +27,12 @@ One type of compliance market that many people will have heard of are **emission
 ## What are carbon credits?
 
 A forest [[carbon_credit]] is an **emissions reduction due to forest conservation or reforestation**
-that would not have occurred without carbon crediting. The carbon emissions (or uptake in the case of reforestation) expected **in the absence of the project is called the baseline.**
-At its simplest, 
-> *credit issuance equals: baseline emissions minus project emissions.*
+that would not have occurred without carbon crediting. The carbon emissions (or uptake in the case of reforestation) expected **in the absence of the project is called the baseline** [29]. At its simplest, 
+> *credit issuance equals: baseline emissions minus project emissions [29].*
 
-Leakage: We also have to **deduct emissions that “leak out” of the project**, because stopping deforestation in the project may cause some deforestation to just move elsewhere. This is called leakage. So total credit issuance can be reduced to a single core crediting equation.
+### Leakage
+
+ We also have to **deduct emissions that “leak out” of the project**, because stopping deforestation in the project may cause some deforestation to just move elsewhere. This is called leakage. So total credit issuance can be reduced to a single core crediting equation [29].
 
 ## What are carbon markets?
 

@@ -71,6 +71,8 @@ hide:
 
 [29]: Johnson, A. (2023, February 14). Building the modern carbon market the planet demands. Pachama. https://pachama.com/blog/building-the-modern-carbon-market-the-planet-demands/
 
+[30]: TRST. (2022, September 19). Regenerative finance ReFi - TRST01 Sustainable Supply Chain, ESG reporting , dMRV. Climate change TRST01 Sustainable Supply Chain, ESG reporting , dMRV. Climate Change Blockchain -. TRST01 Sustainable Supply Chain, ESG Reporting , dMRV. Climate Change. https://trst01.com/refi/
+
 
 ---
 
