@@ -86,8 +86,7 @@ to lower the cost of emerging climate technologies” [2].
 As the VCM has begun to scale up to meet growing corporate demand for carbon offsets to meet netzero
 targets, transparency has become a concern. For carbon markets to deliver on their promise,
 corporate buyers (and the general public) need to have confidence in their quality and integrity: carbon
-offsets need to transparently demonstrate causal and durable change to GHG concentrations while proving they are free from credibility concerns like
-double counting or leakage [2].
+offsets need to transparently demonstrate causal and durable change to GHG concentrations while proving they are free from credibility concerns like double counting or leakage [2].
 
 Due to their public, accessible and machinereadable format, blockchains can provide a
 transparent foundation necessary for a trustworthy and scalable VCM. When carbon registries are

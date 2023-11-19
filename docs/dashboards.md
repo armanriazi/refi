@@ -16,3 +16,7 @@ show:
 > #loan #tokenization
 
 - [State of the Digital Carbon Market](https://data.klimadao.finance/)
+> #dao #carbon
+
+- [Kumu web3 climate map](https://kumu.io/climate-collective/web3-climate-map)
+> #project #develop #platform #infrastructure

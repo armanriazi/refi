@@ -89,7 +89,8 @@ regenerative, rather than extractive or exploitative
 degraded ecosystem
 اکوسیستم تخریب شده
 
-facilitate large-scale collaboration on global issues such as climate change
+facilitate large-scale collaboration on global issues such as climate 
+
 تسهیل همکاری در مقیاس بزرگ در مورد مسائل جهانی مانند تغییرات آب و هوا
 
 eroding
@@ -132,6 +133,7 @@ human perturbation(deviation)
 اغتشاش انسانی (انحراف)
 
 terrestrial biomes: forests, woodlands, savannas, grasslands, shrublands, tundra
+
 زیست‌های زمینی: جنگل‌ها، جنگلزار، ساواناها، مراتع، بوته‌ها، تاندرا
 
 ## Technology jargon
@@ -161,20 +163,23 @@ credit issuance
 صدور اعتبار
 
 
+## ReFi Jargon
 
-## Offsetting [24]
+### Offsetting [24]
 
 Biodiversity offsetting **refers to actions, such as restoring degraded land**, that are intended to compensate for biodiversity destruction taking place at a different time and place.
 An offset market is created when a law requires companies to offset their negative impact on bi-odiversity, through actions such as restoration projects. These actions grant the right to tradable permits to destroy biodiversity elsewhere. *If a company has destroyed more biodiversity than it has permits for, it can either perform “offsetting actions” or buy permits from another company.* Correspondingly, a company that owns more permits than it has destroyed can choose to sell its excess permits to another company. The legislation that creates the market determines the rules surrounding the permits.
 
-## Net Gain [24]
+> `carbon offsets=illiquid assets`
+
+### Net Gain [24]
 
 The ‘Net Gain’ principle on which is based the EU 2030 biodiversity strategy also outlines offsetting: Net gain is defined as ‘giving back to nature more than it receives from it’27. In other words, this means allowing destruction to continue, as long as you ‘compensate’ for just a little more than you destroy. The equivalent term in UN language is ‘land degradation neutrality.
 
-## ikigai [26]
+### Ikigai [26]
 In France they would say "raison d'être" which means "reason for being". The Japanese express the same thing with one old word – ikigai. It was created by combining the expression for life ikiru and the word kai, which can be translated as "to have value, use, benefit, or even result, effect". Together, therefore, ikigai = the meaning of life.
 
-### A blend of four basic values:
+#### A blend of four basic values:
 
 - [x] What I love — we really enjoy and bring us joy.
 - [x] What I'm really good at —  i.e. "do your best". 
@@ -183,7 +188,7 @@ In France they would say "raison d'être" which means "reason for being". The Ja
 
 > Ikigai is the answer to all four points. It's not about a concept, but about a feeling that we've been searching for all our lives. 
 
-## VCM [11]
+### VCM [11]
 
 `SBTi` Science Based Target Initiative - An initiative that mobilizes companies to set emission reduction targets based on climate science. A collaboration between CDP, the UN Global Compact, the WRI, and WWF, the SBTi defines and promotes best practice in science-based target setting, offers resources and guidance to reduce barriers to adoption, and independently assesses and approves companies’ targets. Adopting an SBTi-approved target is one of the We Mean Business Coalition commitments 
 

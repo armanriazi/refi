@@ -97,6 +97,12 @@ hide:
 
 [42]: Jirásek, M. (2023b). Klima DAO: a crypto answer to carbon markets. Journal of Organization Design. https://doi.org/10.1007/s41469-023-00146-w
 
+[43]: A.N. (2023, November 10). Blockchain-based tokenization for decentralized issuance and exchange of carbon offsets. Zanders. https://zandersgroup.com/en/insights/blog/blockchain-based-tokenisation-for-decentralised-issuance-and-exchange-of-carbon-offsets
+
+[44]: Wadhwani, K. (2023, October 27). Understanding the carbon credit tokenization. Blockchain Technology, Mobility, AI and IoT Development Company USA, Canada. https://www.solulab.com/carbon-credit-tokenization/
+
+[45]: Tokens:, Q. (n.d.). Verra’s approach to third-party crypto instruments and tokens. Verra.org. Retrieved November 19, 2023, from https://verra.org/wp-content/uploads/2023/01/Verras-Approach-To-Third-Party-Crypto-Instruments-And-Tokens-Public-Consultation-Summary-of-Comments-1-1.pdf
+
 
 
 

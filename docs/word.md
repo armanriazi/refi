@@ -42,6 +42,11 @@ depicted
 
 exert a positive long-term effect
 
+# Adjective
+
+illiquid
+غیر قابل تبدیل به پول
+
 # Conversations
 
 holistically
