@@ -25,3 +25,8 @@ Think of it as a compass for human prosperity in the 21st century, with the aim 
 ![dMRV](https://armanriazi.github.io/refi/assets/attachments/Seven ways to think like a 21st century economist 100dpi.png){ width=600 height=400 align=center }
 <figcaption>Seven ways to think like a 21st century economist [40].</figcaption>
 </figure>
+
+The focus on scarce resources has led many people to see endless growth as a positive, or “more is better”. However, in reality, **economic growth is measured only by an increasing GDP, completely ignoring the finite nature of Earth’s resources and the consequences of our actions** [41].
+
+Doughnut Economics is based on an economy that is both regenerative and distributive by design.
+The ultimate goal of this framework is to enable societies to make positive choices and *live in balance in order to thrive economically, socially, and environmentally*. This new economic vision cannot be achieved by an individual or a single organisation. Rather, it requires intention, planning, collaboration, and contributions from all stakeholders. What the doughnut offers is a metaphor that helps us visualise an economic system [41].

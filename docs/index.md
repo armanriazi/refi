@@ -24,6 +24,8 @@ show:
 
 - [Blockchain](blockchain/blockchain.md)
 
+- [Digital](./digital/digital.md)
+
 ---
 
 - [Protocols](./protocols.md)
@@ -36,9 +38,7 @@ show:
 
 - [Nature](./nature/nature.md)
 
-- [Digital](./digital/digital.md)
-
-
+- [Human](./human/human.md)
 
 ---
 

@@ -93,6 +93,9 @@ hide:
 
 [40]: DEAL. (n.d.). Doughnuteconomics.org. Retrieved November 19, 2023, from https://doughnuteconomics.org/
 
+[41]: International Coral Reef Initiative, Usa, B. F., The Orangutan Project, Fletcher, C., Khattak, R., Walker, S., Lane, B., Nissenbaum, D., & Blakey, V. (n.d.). Earth.org. Earth.org. Retrieved November 19, 2023, from https://earth.org
+
+
 
 
 ---
