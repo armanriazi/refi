@@ -36,6 +36,12 @@ In the recent years, tokenization of (physical) assets and the creation of a dig
 <figcaption>Process flow of a blockchain-based carbon offset solution [43].</figcaption>
 </figure>
 
+<figure markdown>
+![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=600 height=400 align=center }
+<figcaption>Toucan carbon credit model [46].</figcaption>
+</figure>
+
+
 ## How can carbon credit tokenization help the VCM [46]?
 
 - [x] Efficiency & Disintermediation
