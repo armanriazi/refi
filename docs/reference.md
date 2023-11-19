@@ -89,6 +89,10 @@ hide:
 
 [38]: The greenpaper: Overview of the Ecosapiens platform. (n.d.). Mirror.Xyz. Retrieved November 19, 2023, from https://mirror.xyz/0x22fbdE4fBB8FF152638cf8e6bB051FF0967c02D2/cyYJOgWQybssWx1NDRZwq3YqSK_ZVgdxayGTcUMG8g8
 
+[39]: Jensen, C. (2020, April 17). EcoSoul partners - climate solutions for business and nonprofit organizations. Ecosoul.Io; Carbon Credit Cart. https://www.ecosoul.io
+
+[40]: DEAL. (n.d.). Doughnuteconomics.org. Retrieved November 19, 2023, from https://doughnuteconomics.org/
+
 
 
 ---

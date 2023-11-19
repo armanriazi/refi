@@ -28,9 +28,18 @@ One type of compliance market that many people will have heard of are **emission
 
 ## What are carbon credits?
 
+A carbon credit is a unit of measure generated from a specific project activity that **destroys, sequesters or avoids greenhouse gas (GHG) emissions**. **One credit is equivalent to 1 Mt (metric tonne) of greenhouse gas emissions.** **A carbon credit and a [[carbon_offset]] are effectively equivalent, i.e. different terms for the same thing** [39].
+
 A forest [[carbon_credit]] is an **emissions reduction due to forest conservation or reforestation**
 that would not have occurred without carbon crediting. The carbon emissions (or uptake in the case of reforestation) expected **in the absence of the project is called the baseline** [29]. At its simplest, 
 > *credit issuance equals: baseline emissions minus project emissions [29].*
+
+## How do carbon credits work [39]?
+- [x] Real – the project’s carbon reduction is measurable.
+- [x] Additional – the value of reductions must be beyond “business as usual.”
+- [x] Verified – An independent and qualified third party has conducted a detailed reviewed of all aspects of the carbon project, and attests to the emission reduction claim.
+- [x] Registered – Carbon credits are unique, serialized, tracked and can be retired only once.
+- [x] Permanent – The GHG removal, represented by carbon credits, is permanent and cannot be reversed. For forest projects, the project registrar provides a robust buffer system to account for any unforeseen reversals (forest fire, etc.).
 
 ### Leakage
 

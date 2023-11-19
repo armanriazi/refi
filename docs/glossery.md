@@ -41,11 +41,15 @@ hide:
 
 > `VCM` Voluntary Carbon Market
 
+> `VOC` Stands for Volatile Organic Compound and are organic and man-made chemicals that impact indoor air quality and may pose health risks. A VOC is not a GHG. VOC’s are often found in building materials, home and personal products, and activities such as smoking cigarettes or burning wood.
+
 > `PES` payments for ecosystem services
 
 > `IPCC` Intergovernmental Panel on Climate Change released a fresh report card
 
 > `WCW` Who Cares Wins was initiated by the UN Secretary General and UN Global Compact in 2004 in collaboration with the Swiss government.
+
+> `WRC` Stands for Water Restoration Certificate and is a certificate confirming the purchase of 1,000 gallons of water to offset water usage and restore critical rivers or streams, particularly at times when water is needed the most.
 
 # Jargon
 
@@ -156,6 +160,8 @@ interconnectedness
 credit issuance
 صدور اعتبار
 
+
+
 ## Offsetting [24]
 
 Biodiversity offsetting **refers to actions, such as restoring degraded land**, that are intended to compensate for biodiversity destruction taking place at a different time and place.
@@ -184,6 +190,7 @@ In France they would say "raison d'être" which means "reason for being". The Ja
 `BVCM` Beyond Value Chain Mitigation () - Mitigation action or investment that takes place outside of an organization’s value chain. This includes activities that avoid or reduce GHG emissions, and those that remove and store GHGs from the atmosphere. The purchase of high-quality carbon credits beyond a company’s value chain is an example of BVCM
 
 `VCMI` Voluntary Carbon Markets Integrity Initiative () - An international initiative to drive credible, net zero-aligned participation in voluntary carbon markets. VCMI was established to help ensure that voluntary carbon markets make a significant, measurable, and positive contribution to achieving the Paris Agreement goals, while also promoting inclusive and sustainable development.
+
 
 `ICVCM`Integrity Council for the Voluntary Carbon Market () - An independent governance body that is developing and enforcing a set of Core Carbon Principles (CCPs) that establishes a new threshold standard for high-quality carbon credits in the voluntary carbon market. The ICVCM will oversee a process to determine the Eligibility of carbon-crediting programs as well as which carbon credit Categories will become CCP-Approved.
 
