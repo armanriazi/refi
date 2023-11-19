@@ -37,7 +37,7 @@ In the recent years, tokenization of (physical) assets and the creation of a dig
 </figure>
 
 <figure markdown>
-![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=600 height=400 align=center }
+![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/toucan-carbon-credit-model.png){ width=600 height=400 align=center }
 <figcaption>Toucan carbon credit model [46].</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Smart contracts automate credit issuance, payments, transfers, and retirement, s
 
 ### Price Discovery
 
-Tokenization provides transparent pricing data, increasing market efficiency and competition.
+Tokenization provides transparent pricing data, increasing market efficiency and competition[44].
 
 
 ## How carbon credits are generated?
