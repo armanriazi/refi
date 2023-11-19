@@ -14,3 +14,7 @@ show:
 ## NFT
 
 [Ecosapiens](ecosapiens/ecosapiens.md)
+
+## DAO
+
+[Klima DAO](klimadao/klimadao.md)

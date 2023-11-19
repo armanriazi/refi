@@ -15,3 +15,4 @@ show:
 - [Tokenized Asset Market Intelligence](https://app.rwa.xyz/)
 > #loan #tokenization
 
+- [State of the Digital Carbon Market](https://data.klimadao.finance/)

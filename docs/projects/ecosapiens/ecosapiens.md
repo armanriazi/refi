@@ -1,6 +1,5 @@
 ---
 keywords:   armanriazi ArmanRiazi ecosapiens project
-title: "ReFi-Decarbonization"
 author: "Arman Riazi"
 search:
   exclude: false

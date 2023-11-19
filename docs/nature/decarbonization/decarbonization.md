@@ -77,6 +77,12 @@ to lower the cost of emerging climate technologies” [2].
 <figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
 </figure>
 
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/kimadao_issues_vcm.png){ width=800 height=600 align=center }
+<figcaption>Source: Credits and capital flows on the voluntary carbon market[42]</figcaption>
+</figure>
+
 As the VCM has begun to scale up to meet growing corporate demand for carbon offsets to meet netzero
 targets, transparency has become a concern. For carbon markets to deliver on their promise,
 corporate buyers (and the general public) need to have confidence in their quality and integrity: carbon

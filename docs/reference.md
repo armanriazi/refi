@@ -95,6 +95,8 @@ hide:
 
 [41]: International Coral Reef Initiative, Usa, B. F., The Orangutan Project, Fletcher, C., Khattak, R., Walker, S., Lane, B., Nissenbaum, D., & Blakey, V. (n.d.). Earth.org. Earth.org. Retrieved November 19, 2023, from https://earth.org
 
+[42]: Jirásek, M. (2023b). Klima DAO: a crypto answer to carbon markets. Journal of Organization Design. https://doi.org/10.1007/s41469-023-00146-w
+
 
 
 
