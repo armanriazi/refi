@@ -7,7 +7,6 @@ type:  Glossery
 feature:  Glossery
 keywords:  Glossery
 author: "Arman Riazi"
-title: "Glossery"
 hide:
   - feedback
 ---
@@ -35,6 +34,8 @@ hide:
 > `CDM` Clean Development Mechanism 
 
 > `C4C` Capital for Climate 
+
+> `COTI` Certification of Origin and Traceability Implementation Initiative 
 
 > `N4C` Nature for Climate
 

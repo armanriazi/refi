@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi Climate Decarbonization
-title: "ReFi-Nature"
+keywords:   armanriazi ArmanRiazi Climate Decarbonization Nature
+title: "ReFi Nature"
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Nature
 feature:  Climate Decarbonization
-keywords:  armanriazi Climate Nature Decarbonization
 author: "Arman Riazi"
-title: "ReFi-Nature"
 show:
   - feedback
 ---

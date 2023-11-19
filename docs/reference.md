@@ -77,6 +77,20 @@ hide:
 
 [32]: Climate connect digital. (n.d.). Climateconnect.Digital. Retrieved November 2, 2023, from https://climateconnect.digital/news_and_insights/technological-advancements-in-dmrv/
 
+[33]: Bankless Publishing. (n.d.). Reinventing economics with ReFi. Banklesspublishing.com. Retrieved November 19, 2023, from https://banklesspublishing.com/reinventing-economics-with-refi/
+
+[34]: Khodai, E. (n.d.). Institutional DeFi in 2023: Exploring regenerative finance - CoinChange research report. Coinchange.Io. Retrieved November 19, 2023, from https://www.coinchange.io/research-reports/institutional-defi-in-2023-regenerative-finance
+
+[35]: Khodai, E. (2023, January 10). The Digital VCM will come to prominence in 2023. Toucan Protocol. https://blog.toucan.earth/digital-vcm-outlook-2023/
+
+[36]: Bryant, M. M. (2023, May 4). A common framework for ReFi. ReFi DAO. https://blog.refidao.com/ecological-benefits-activator/
+
+[37]: Why buy carbon credits? (n.d.). Goldstandard.org. Retrieved November 19, 2023, from https://www.goldstandard.org/blog-item/why-buy-carbon-credits
+
+[38]: The greenpaper: Overview of the Ecosapiens platform. (n.d.). Mirror.Xyz. Retrieved November 19, 2023, from https://mirror.xyz/0x22fbdE4fBB8FF152638cf8e6bB051FF0967c02D2/cyYJOgWQybssWx1NDRZwq3YqSK_ZVgdxayGTcUMG8g8
+
+
+
 ---
 
 [x]: Riazi, A. (n.d.). Arman riazi - Arman riazi. Github.Io. Retrieved September 25, 2023, from https://armanriazi.github.io/public/blockchain/Blockchain/

@@ -8,7 +8,6 @@ type:  Statictic
 feature:  Nature Statictic
 keywords:  armanriazi Nature Statictic
 author: "Arman Riazi"
-title: "ReFi Nature Statictic"
 show:
   - feedback
 ---

@@ -1,14 +1,12 @@
 ---
 keywords:   armanriazi ArmanRiazi Planetary Boundary
-title: "ReFi-Decarbonization"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Planetary Boundary
+type:  Planetary Boundaries
 feature:  Planetary Boundary
-keywords:  armanriazi Planetary Boundary
 author: "Arman Riazi"
-title: "ReFi-Planetary Boundary"
+title: "ReFi Planetary Boundary"
 show:
   - feedback
 ---

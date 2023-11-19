@@ -1,8 +1,9 @@
 ---
 keywords:  Tags ArmanRiazi
 feature:  Tags
+type: Tags
 author: "Arman Riazi"
-title: "Tags"
+title: "ReFi Tags"
 ---
 
 [TAGS]

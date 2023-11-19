@@ -4,11 +4,9 @@ title: "ReFi ESG"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ESG
+type:  ESGs
 feature:  ESG
-keywords:  armanriazi ESG
 author: "Arman Riazi"
-title: "ReFi ESG"
 show:
   - feedback
 ---

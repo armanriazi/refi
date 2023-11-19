@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi
+keywords:   armanriazi ArmanRiazi ReFi blockchain
 title: "ReFi"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
+type:  REFIs
 feature:  ReFi
-keywords:  ReFi armanriazi blockchain
 author: "Arman Riazi"
-title: "ReFi"
 show:
   - feedback
 ---
@@ -61,13 +59,22 @@ ReFi operates on the assumption that the **creation of monetary value must be de
 <figcaption>Diagram of impact: From conventional design to regenerative design [12]</figcaption>
 </figure>
 
+the focus of regenerative finance is on initiatives that have the potential to go beyond addressing existing problems and actively work to restore and rebuild natural systems and build resilience for the future [34].
+
+“ReFi stands for Regenerative Finance and refers to a large-scale financial system that operates in a non-extractive way. A portion of the value generated and transferred flows back to the planet, and climate-positive actions become financially rewarding.”  - Toucan protocol [35]
+
+“ReFi stands for Regenerative Finance, and it broadly relates to a movement aiming to use finance as a way to support regenerative and restorative outcomes in social, environmental, and economic systems.” - ReFiDAO [36]
+
 ## Values of ReFi
 
 Instead, ReFi aims to **solve environmental, communal, or social problems** by creating regenerative cycles. These systems create value for participants while simultaneously benefiting ecosystems and communities [1].
+ReFi’s value lies inherently in its thesis  —  that money can be used as an instrument to address systemic inequities and bring forth sustainable solutions [33].
+A future where positive externalities are rewarded, **economies are self-sustaining and regenerative, and financial prosperity is equitable and inclusive**. ReFi has the potential to *reshape the global economy and make tangible impacts on the lives of people and societies*. In addition to being applied to concerns like environmental sustainability, ReFi has the potential to provide **solutions for global poverty, healthcare, education, and a myriad of social issues** [33].
 
 ## Behaviors of ReFi
 
 ReFi projects realize these principles using smart contracts and decentralized finance (DeFi) applications to incentivize regenerative behaviors, e.g. restoring degraded ecosystems, and **facilitate large-scale collaboration on global issues such as climate change and biodiversity loss** [1].
+Accumulating wealth is no longer the goal; rather, wealth is a means to the goal. The capabilities of purpose-driven missions, such as impact investing, are elevated through ReFi’s technology [33].
 
 ## Eight Principles of a regenerative economy
 

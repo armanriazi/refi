@@ -21,19 +21,17 @@ This course brings people to share their thoughts on how to do #Tokenization of 
 These are my insights and reflections from the class. I hope they inspire and inform everyone!
  Immense gratitude to Frankfurt Blockchain School for the knowledge voyage and to my stellar colleagues Polina Kozel, Arun C Devan, Afina Suleimanova, Cristian BEZA, Tahriima Sultana, Sabrina Goerlich, Soraia Carmo, SzuTung Chen, Alex Hong and mentors Alison Filler, Susanne Fromm, Sunny Jiang, Esther Val .
 
-A special thanks to the course coordinator Abdullah Melik Yildiz ,European Carbon Offset Tokenization Association (ECOTA) 
+A special thanks to the course coordinator Abdullah Melik Yildiz,European Carbon Offset Tokenization Association (ECOTA)
 
 Prof. Dr. Philipp Sandner Head of the Frankfurt School Blockchain Center
 
-Frankfurt School Blockchain Center 
+Frankfurt School Blockchain Center
 
 Frankfurt School of Finance & Management
 
-PARTICULA 
+Particula 
 
 Vanagon.vc
-
-Carbon Pulse 
 
 EthicHub 
 
@@ -49,29 +47,21 @@ Niuron Financial Blockchain Consortium
 
 Texas Blockchain Council 
 
-Blockchain Netherlands (BCNL Foundation) 
+Blockchain Netherlands (BCNL Foundation)  
 
-Untitled INC Interaction 
- 
-Design Foundation (IxDF) 
-
-Timm Reinsdorf  Co-Founder and CEO Particula
+Timm Reinsdorf Co-Founder and CEO Particula
 
 Prof. Dr. Philipp Sandner Head of the Frankfurt School Blockchain Center
 
-!!! Arman Riazi from ReFi Talents Cohort 1, set out the presentation on 9 Oct
+!!! Arman Riazi from ReFi Talents Cohort 1, set out the presentation on Nov
 
-Nadine Wilke Co-Founder and CGO Particula
+Nadine Wilke  Co-Founder and CGO Particula
 
-EthicHub 
+ClimateTrade™ 
 
-ClimateTrade™ ™
-
-Australian Renewable Energy Agency (ARENA) 
+Australian Renewable Energy Agency (ARENA) )
 
 Climate Change Fund 
 
-Prof. Dr. Philipp Sandner Head of the Frankfurt School Blockchain Center
-
-#rwa #tokenization #blockchain #web3 #regenerativefinance #sustainability #carbon #smartcontracts #carboncredits #climate #climaterisk #sustainablefinance #esg #CryptoAssetsConference2023 #CAC23B #DLT #ReFi #movethedate #biodiversitycredit #biodiversity  #climatemarkets #conservation #biodiversity #ActInTime #indigenous #Global #SustainableDevelopment #WizardInWeb3 #CarbonMarkets #NatureEquity #DeSci
+#rwa #tokenization #blockchain #web3 #regenerativefinance #sustainability #carbon #smartcontracts #carboncredits #climate #climaterisk #sustainablefinance #esg #CryptoAssetsConference2023 #CAC23B #DLT #ReFi #movethedate #biodiversitycredit #biodiversity  #climatemarkets #conservation #biodiversity #ActInTime #indigenous #Global #SustainableDevelopment #WizardInWeb3 #CarbonMarkets #NatureEquity #DeSci #rwa #planetaryboundaries #consumption
 

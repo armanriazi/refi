@@ -1,17 +1,19 @@
 ---
 keywords:   armanriazi ArmanRiazi decarbonization Developer
-title: "ReFi-Decarbonization"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  decarbonization
-feature:  decarbonization
-keywords:  armanriazi decarbonization
+type:  Decarbonizations
+feature:  Decarbonization
 author: "Arman Riazi"
-title: "ReFi-Decarbonization"
+title: "ReFi Decarbonization"
 show:
   - feedback
 ---
+
+Natural assets can now be priced by their value as “carbon sinks,” a.k.a. society’s valuation of a ton of carbon removed from the atmosphere. When we remove carbon from the air, we reap cleaner air, lower temperatures, and create other positive externalities. These positive effects can be financially quantified by the tonne and qualified into what is a carbon credit [37].
+
+In essence, the price of a ton of carbon is derived not from the creation of a ton of emissions; instead, it is based on the value of the positive externalities derived from the removal of a ton of carbon emissions [37].
 
 <figure markdown>
 ![Decarbonization Pathways](https://armanriazi.github.io/refi/assets/attachments/decarbonization_pathways.png){ width=600 height=400 align=center }

@@ -1,18 +1,15 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Protocols Climate
-title: "Protocols"
+keywords:   armanriazi ArmanRiazi ReFi Protocols Climate blockchain
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Blockchain
-feature:  Blockchain
-keywords:  github armanriazi blockchain
+type:  Protocols
+feature:  Protocol
 author: "Arman Riazi"
-title: "Protocols"
+title: "ReFi Protocols"
 show:
   - feedback
 ---
-
 
 ## Kyoto
 

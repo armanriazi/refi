@@ -1,15 +1,13 @@
 ---
 keywords:   armanriazi ArmanRiazi Github Blockchain Developer ReFi
 feature:  ReFi 
-title: "Regenerative finance"
+title: "Regenerative Finance"
 author: "Arman Riazi"
 search:
     exclude: true
-type:  Link
-keywords:  github armanriazi
-feature:  ReFi
+type:  Links
+feature:  ReFi Link
 author: "Arman Riazi"
-title: "Regenrative finance"
 show:
   - feedback
 ---
@@ -27,6 +25,10 @@ show:
 - [Blockchain](blockchain/blockchain.md)
 
 - [Protocols](./protocols.md)
+
+- [Projects](./projects/projects.md)
+
+- [Standards](./standards.md)
 
 ---
 

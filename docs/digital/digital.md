@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Digital
-title: "ReFi Talents"
+keywords:   armanriazi ArmanRiazi ReFi Digital inovation
+title: "ReFi Digital"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
-feature:  ReFi
-keywords:  armanriazi inovation refi digital
+type:  Digital
+feature:  Digital
 author: "Arman Riazi"
-title: "Digital"
 show:
   - feedback
 ---

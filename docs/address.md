@@ -1,14 +1,12 @@
 ---
 keywords:   armanriazi ArmanRiazi address
-title: "ReFi-Addresses"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
-feature:  address
-keywords: armanriazi Address
+type:  Addresses
+feature:  Address
 author: "Arman Riazi"
-title: "ReFi-Addresses"
+title: "ReFi Addresses"
 show:
   - feedback
 ---

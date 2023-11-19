@@ -1,18 +1,18 @@
 ---
-keywords:   armanriazi ArmanRiazi Statictic
-title: "ReFi Statictics"
+keywords:   armanriazi ArmanRiazi Statistic Number
+title: "ReFi Statistics"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Statictic
-feature:  Statictic
-keywords:  armanriazi Accounting Statictic Number
+type:  Statistics
+feature:  Statistic
 author: "Arman Riazi"
-title: "ReFi Statictics"
 show:
-  - feedback
+  - feedbac
 ---
 
-[Nature Statictices](./nature/statistic_nature.md)
+[Nature Statistics](./nature/statistic_nature.md)
 
-[ReFi Statictices](./refi/statistic_refi.md)
+[ReFi Statistics](./refi/statistic_refi.md)
+
+[Projects Statistics](./projects/statistic_projects.md)

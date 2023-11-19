@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Talents Quotation
+keywords:   armanriazi ArmanRiazi ReFi Talents Quotation blockchain
 title: "ReFi Quotations"
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Blockchain
 feature:  Blockchain
-keywords:  github armanriazi blockchain
 author: "Arman Riazi"
-title: "ReFi Quotations"
 show:
   - feedback
 ---

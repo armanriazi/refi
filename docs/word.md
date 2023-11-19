@@ -92,6 +92,9 @@ hindrance[n]
 
 offset[v]
 
+musings[n]
+تفکرات
+
 comply with the deadlines given
 
 we seek to empower ambitious innovators to get involved with ReFi

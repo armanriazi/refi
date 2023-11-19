@@ -1,14 +1,12 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Digital Asset
-title: "ReFi Talents"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
-feature:  ReFi
-keywords:  armanriazi asset refi digital
+type:  DigitalAssets
+feature:  Digital Asset
 author: "Arman Riazi"
-title: "Digital Asset Frameworks"
+title: "ReFi Digital Asset Frameworks"
 show:
   - feedback
 ---

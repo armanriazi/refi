@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Digital dMRV
-title: "ReFi Digital MRV"
+keywords:   armanriazi ArmanRiazi ReFi Digital dMRV reporting  monitoring  verificatio MRV
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
-feature:  ReFi
-keywords:  armanriazi dMRV monitoring reporting verification MRV
+type:  MRV
+feature:  MRV dMRV
 author: "Arman Riazi"
-title: "Digital MRV"
+title: "ReFi Digital MRV"
 show:
   - feedback
 ---
@@ -103,7 +101,7 @@ Having an **independent source of data (such as SCADA) to verify the amount of c
 
 Identifying which SDGs a project contributes to is a crucial task, and one that can be very time consuming for companies or project developers who rely solely on manual methods. However, AI can be used to intelligently extract SDGs relevant to a particular project based on the unstructured content contained in related documents (e.g. images and text). This method relies on Natural Language Processing (NLP) [32].
 
-CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters. CCD utilises the following AI models for SDG extraction from project documents [32]:
+CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters. CCD utilises the following **AI models for SDG extraction** from project documents [32]:
 
 - [x] GPT2
 - [x] All-mpnet-base-v2

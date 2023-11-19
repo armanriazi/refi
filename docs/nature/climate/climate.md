@@ -1,14 +1,12 @@
 ---
 keywords:   armanriazi ArmanRiazi Climate
-title: "ReFi-Climate"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Climate
+type:  Climates
 feature:  Climate
-keywords:  armanriazi Climate
 author: "Arman Riazi"
-title: "ReFi-Climate"
+title: "ReFi Climate"
 show:
   - feedback
 ---

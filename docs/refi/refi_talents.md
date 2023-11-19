@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Talents
+keywords:   armanriazi ArmanRiazi ReFi Talents blockchain
 title: "ReFi Talents"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
+type:  REFIs
 feature:  ReFi
-keywords:  armanriazi blockchain refi
 author: "Arman Riazi"
-title: "ReFi Talents"
 show:
   - feedback
 ---

@@ -4,9 +4,8 @@ title: "ReFi Nature Statictics"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Statictic
+type:  Statictics
 feature:  Nature Statictic
-keywords:  armanriazi Nature Statictic
 author: "Arman Riazi"
 title: "ReFi Nature Statictic"
 show:

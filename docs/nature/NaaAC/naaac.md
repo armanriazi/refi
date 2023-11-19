@@ -1,14 +1,12 @@
 ---
 keywords:   armanriazi ArmanRiazi Climate Nature Asset Class NaaAC
-title: "ReFi-Nature as an Asset Class"
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Nature
 feature:  Climate Nature NaaAC
-keywords:  armanriazi Climate Nature Asset NaaAC
 author: "Arman Riazi"
-title: "ReFi-Nature as an Asset Class"
+title: "ReFi Nature as an Asset Class"
 show:
   - feedback
 ---

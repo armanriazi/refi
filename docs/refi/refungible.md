@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFungible
+keywords:   armanriazi ArmanRiazi ReFungible blockchain NFT
 title: "ReFungible"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  ReFi
+type:  REFIs
 feature:  ReFungible
-keywords:  ReFi armanriazi blockchain ReFungible
 author: "Arman Riazi"
-title: "ReFungible"
 show:
   - feedback
 ---

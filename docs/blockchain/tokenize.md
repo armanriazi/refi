@@ -1,14 +1,12 @@
 ---
-keywords:   Tokenized
-title: "ReFi-Blockchain"
+keywords:   Tokenized Blockchain Tokenization
+title: "ReFi Tokenization"
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Tokenized
-feature:  Tokenized
-keywords:  Tokenized blockchain
+feature:  Tokenized Asset
 author: "Arman Riazi"
-title: "Tokenized"
 show:
   - feedback
 ---

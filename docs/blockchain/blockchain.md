@@ -1,14 +1,12 @@
 ---
-keywords:   armanriazi ArmanRiazi Github Blockchain Developer
-title: "ReFi-Blockchain"
+keywords:   armanriazi ArmanRiazi Github Blockchain Developer blockchain
+title: "ReFi Blockchain"
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Blockchain
 feature:  Blockchain
-keywords:  github armanriazi blockchain
 author: "Arman Riazi"
-title: "ReFi-Blockchain"
 show:
   - feedback
 ---
