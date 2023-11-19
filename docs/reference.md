@@ -103,6 +103,8 @@ hide:
 
 [45]: Tokens:, Q. (n.d.). Verra’s approach to third-party crypto instruments and tokens. Verra.org. Retrieved November 19, 2023, from https://verra.org/wp-content/uploads/2023/01/Verras-Approach-To-Third-Party-Crypto-Instruments-And-Tokens-Public-Consultation-Summary-of-Comments-1-1.pdf
 
+[46]: Khodai, E. (2022, December 1). Tokenization of carbon credits. Toucan Protocol. https://blog.toucan.earth/
+
 
 
 

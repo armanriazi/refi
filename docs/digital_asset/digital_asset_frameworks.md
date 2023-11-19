@@ -30,3 +30,8 @@ show:
 ![Flowcarbon Digital Asset Creation](https://armanriazi.github.io/refi/assets/attachments/flowcarbon_digital_asset.png){ width=600 height=400 align=center }
 <figcaption>Flowcarbon Digital Asset Creation [22]</figcaption>
 </figure>
+
+<figure markdown>
+![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/vera.png){ width=600 height=400 align=center }
+<figcaption>Vera Registry & de-tokenize VCU [45].</figcaption>
+</figure>

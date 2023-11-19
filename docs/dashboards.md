@@ -19,4 +19,4 @@ show:
 > #dao #carbon
 
 - [Kumu web3 climate map](https://kumu.io/climate-collective/web3-climate-map)
-> #project #develop #platform #infrastructure
+> #project #develop #platform #infrastructure #blockchain

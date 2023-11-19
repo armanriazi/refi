@@ -36,6 +36,17 @@ In the recent years, tokenization of (physical) assets and the creation of a dig
 <figcaption>Process flow of a blockchain-based carbon offset solution [43].</figcaption>
 </figure>
 
+## How can carbon credit tokenization help the VCM [46]?
+
+- [x] Efficiency & Disintermediation
+- [x] Healthier and more open markets
+- [x] Liquid marketplaces
+- [x] Price discovery
+- [x] Eliminate double counting
+- [x] New sources of demand
+- [x] Better financing for developers
+- [x] Fractionalization
+
 ## Benefits of Tokenized Carbon Credits
 
 <figure markdown>
@@ -52,7 +63,9 @@ Carbon markets become more accessible as tokenization removes geographical restr
 
 Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint[44].
 
-: Search "fractionalized" result 54  [45].
+> `Search "fractionalized" result 54  [45].`
+
+Tokenized carbon credits can be ‘fractionalized’ into units that are *smaller than 1 metric tonne* — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for **sub-tonne carbon credits**, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight [46].
 
 ### Enhanced Liquidity
 
@@ -69,3 +82,17 @@ Smart contracts automate credit issuance, payments, transfers, and retirement, s
 ### Price Discovery
 
 Tokenization provides transparent pricing data, increasing market efficiency and competition.
+
+
+## How carbon credits are generated?
+
+Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs [46].
+
+The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance[46].
+
+> Average time elapsed before the developer can secure funding: 1-2 years [46].
+
+> Average time from project inception to credit issuance: 3-5 years [46].
+
+> Average cost to get the first project certification: $50-100k [46].
+
