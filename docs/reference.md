@@ -107,6 +107,14 @@ hide:
 
 [47]: Bit2Me Academy. (2022, December 6). What is the MiCA Law approved in Europe? Bit2Me Academy. https://academy.bit2me.com/en/que-es-la-ley-mica-aprobada-en-europa/
 
+[48]: Markets in crypto Assets Regulation (MiCAR). (n.d.). Centralbank.Ie. Retrieved December 2, 2023, from https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation
+
+[49] European Commission. Joint Research Centre, Anderberg A., Andonova E., Bellia M., Calès L., Inamorato dos Santos A., Kounelis I., Nai Fovino I., Petracco Giudici M., Papanagiotou E., Sobolewski M., Rossetti F., & Spirito L. (2019). Blockchain now and tomorrow : assessing multidimensional impacts of distributed ledger technologies. Publications Office.
+
+[50] Britannica Money. (n.d.). In Encyclopedia Britannica.
+
+
+
 
 
 
