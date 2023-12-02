@@ -113,6 +113,11 @@ hide:
 
 [50] Britannica Money. (n.d.). In Encyclopedia Britannica.
 
+[51]: The ESRS adopts the CSRD! (2023, August 29). Linkedin.com. https://www.linkedin.com/pulse/esrs-adopts-csrd-greenly-earth/
+
+[52]: Cohen, B., & CEO IoMob, P. D. (2023, July 5). ReFi won’t solve the climate crisis alone! Medium. https://boydcohen.medium.com/refi-wont-solve-the-climate-crisis-alone-5214977667cc
+
+[53]: (N.d.-d). Desa.un.org. Retrieved December 2, 2023, from https://financing.desa.un.org/sites/default/files/2023-04/2023%20FSDR%20Report.pdf
 
 
 

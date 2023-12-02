@@ -13,6 +13,8 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
+> `CSRD` Corporate Sustainability Reporting Directive
+
 > `dMRV` Digital measurement, reporting and verification 
 
 > `NCS` Natural climate solutions
