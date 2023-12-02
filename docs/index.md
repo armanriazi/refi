@@ -34,6 +34,8 @@ show:
 
 - [Standards](./standards.md)
 
+- [Laws](./laws.md)
+
 ---
 
 - [Nature](./nature/nature.md)
@@ -45,8 +47,6 @@ show:
 - [Tags](tags.md)
 
 - [Statictics](statistic.md)
-
-- [Addresses](address.md)
 
 - [Quotation](quotation.md)
 

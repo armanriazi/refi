@@ -105,6 +105,8 @@ hide:
 
 [46]: Khodai, E. (2022, December 1). Tokenization of carbon credits. Toucan Protocol. https://blog.toucan.earth/
 
+[47]: Bit2Me Academy. (2022, December 6). What is the MiCA Law approved in Europe? Bit2Me Academy. https://academy.bit2me.com/en/que-es-la-ley-mica-aprobada-en-europa/
+
 
 
 

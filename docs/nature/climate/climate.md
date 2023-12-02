@@ -19,3 +19,8 @@ The Nature Tech Market - Necessary, Emergent, Dynamic.
 ## N4C 
 
 Nature4Climate is a communications and advocacy platform that works to increase investment in and action on nature-based solutions. N4C is composed of 20 of the world’s leading conservation, multilateral, and business organizations and seeks to further catalyze partnerships between governments, civil society, businesses, and investors, based on the urgency to protect, restore, and fund nature-based solutions. N4C believes in the importance of integrating nature across all government decision-making, that NDCs can be greatly enhanced using nature-based solutions, and that finance flows to nature-based solutions need to be increased, and in many areas, reformed.
+
+---
+
+Table of Nature Tech Companies Directory [9].
+how do we drive – and finance – the transformation needed to address the climate crisis? Many countries are looking to carbon markets as part of the answer [17].
