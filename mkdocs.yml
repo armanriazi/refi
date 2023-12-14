@@ -1,7 +1,7 @@
 ## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
 
 site_name: Regenerative Finance
-repo_url: https://github.com/armanriazi/refi
+repo_url: https://github.com/armanriazi/
 nav:    
     - 'Home':
         - 'Index': 'index.md'                  
@@ -176,4 +176,4 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/armanriazi            
 copyright: |
-  &copy; 2024 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
+  &copy; 2023-2024 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>

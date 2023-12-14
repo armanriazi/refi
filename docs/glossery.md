@@ -55,6 +55,8 @@ hide:
 
 > `WRC` Stands for Water Restoration Certificate and is a certificate confirming the purchase of 1,000 gallons of water to offset water usage and restore critical rivers or streams, particularly at times when water is needed the most.
 
+> `COP` Conference of the Parties
+
 # Jargon
 
 ## Environment jargon
