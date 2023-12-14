@@ -16,3 +16,5 @@ show:
 [ReFi Statistics](./refi/statistic_refi.md)
 
 [Projects Statistics](./projects/statistic_projects.md)
+
+[COP Statistics](./aspect/statistic_cop.md)

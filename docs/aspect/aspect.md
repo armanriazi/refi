@@ -22,5 +22,8 @@ show:
         
         * [FLICC](./FLICC.md)
 
+    === "COP"
+        
+        * [COP](./COP.md)
 
 

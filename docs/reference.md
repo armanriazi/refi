@@ -123,6 +123,10 @@ hide:
 
 [55]: A history of FLICC: the 5 techniques of science denial. (n.d.). Skeptical Science. Retrieved December 14, 2023, from https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html
 
+[56]: (n.d.-c). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop
+
+[57]: (n.d.-d). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/cop28
+
 
 
 

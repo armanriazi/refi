@@ -40,11 +40,11 @@ show:
 
 - [Nature](./nature/nature.md)
 
-- [Human](./human/human.md)
-
 ---
 
 - [Tags](tags.md)
+
+- [Some Related Aspects](./aspect/aspect.md)
 
 - [Statictics](statistic.md)
 

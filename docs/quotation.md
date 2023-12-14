@@ -11,6 +11,10 @@ show:
   - feedback
 ---
 
+“Whilst we didn’t turn the page on the fossil fuel era in Dubai, this outcome is the beginning of the end,” , “Now all governments and businesses need to turn these pledges into real-economy outcomes, without delay.” [57]
+
+> `UN Climate Change Executive Secretary Simon Stiell in his closing speech`
+
 When you zoom out and look at all the new technologies coming online — AI, machine learning, remote sensors, blockchain, the list goes on — there’s just an incredible potential for unlocking new capital flows into verifiable climate action at scale.
 
 > `Anna Lerner, Chief Executive Officer, Climate Collective`
@@ -22,5 +26,4 @@ The insightful discussion with the ReFi specialist unveils: The marketplace for 
 One of the core instruments in doing that is redesigning money itself in a way that writes a new story for what it actually means to be an integral human being living on a shared planet. A story that encapsulates the values of caring, mutuality and human flourishing [5].
 **Redesigning money requires understanding tokens (digital assets with a specific value) and tokenomics (token + economics)**, which makes visible and captures all the different forms and the **eight manifestations of capital*: 
 *social, material, financial, living, intellectual, experiential, spiritual and cultural* [5].
-
 > `Philipp Misura, Top management consultant with Nadine Wilke, Co-Founder of Particula`
