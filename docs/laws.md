@@ -76,11 +76,12 @@ Countries around the world have a wide range of rules for digital currencies. He
 - [x] Switzerland. This Nordic country takes a notably progressive approach to regulating cryptocurrency. Lawmakers in 2020 passed a law on distributed ledger technologies (DLTs), introducing the concept of “DLT securities” and enabling tokenization for rights, claims, and financial instruments. Taxpayers in Switzerland may owe income tax or the wealth tax on their crypto holdings.
 - [x] El Salvador. This Central American nation stands out for being the only country to declare Bitcoin as legal tender. Bitcoin can be used nationwide; in fact, its acceptance by merchants is compulsory. El Salvador accepts tax payments in Bitcoin and exempts foreigners from paying any taxes on income from their Bitcoin gains.
 
-## CSRD
+## CSRD as a legal standard
 
 The European Union’s sustainable finance strategy has **three components**: the **green taxonomy**, which entered into force in July 2020; the Sustainable Finance Disclosure regulation (**SFDR**), which has been applicable as of March 2021; and the Corporate Sustainability Reporting Directive (**CSRD**), which entered into force in January 2023 [53].
 On July 31st, the European Commission adopted the first set of 12 European Sustainability Reporting Standards (ESRS), marking a historic milestone in our transition towards a more sustainable economy. The ESRS establishes the rules and requirements for companies to **report** *on sustainability-related impacts*, **opportunities and risks** under the Corporate Sustainable Reporting Directive (CSRD) [51].
-Approximately 50 000 European companies will be subject to the first round of CSRD Reporting under the ESRS [51].
+
+Approximately 50.000 European companies will be subject to the first round of CSRD Reporting under the ESRS [51].
 
 The CSRD is one of the first legal standards of its kind to be approved and applicable to multiple countries, across industries and should be a force for change *not only in EU but to serve as a guide for other countries and regions around the world* [52].
 The CSRD can be a good first step towards this process because only when standard guidelines are applied to the capture of impact data can we then move to credible pricing schemes whereby the real cost of products can be measured and then **policy can be applied to ensure** *those costs are reflected in the actual costs via things through tools that put a price on ecosystem services (e.g. carbon, energy, land use, biodiversity, clean air, etc)* [52].

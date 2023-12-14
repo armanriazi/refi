@@ -14,13 +14,23 @@ hide:
 
 # Lexical 
 
-## Compounds nouns
+## Compounds & nouns 
 
 evidence-based climate innovation
 
 planet-positive economy
 
 real-world assets
+
+conspiracy /kənˈspɪrəsi/
+```markdown
+a secret agreement between two or more people to perform an unlawful act.
+```
+
+fallacy /ˈfæləsi/
+```markdown
+A fallacy is a misleading argument or belief based on a falsehood. If you oppose state testing in schools, you think it is a fallacy that educational quality can be measured by standardized tests.
+```
 
 ## Verbs
 
@@ -46,6 +56,12 @@ exert a positive long-term effect
 
 illiquid
 غیر قابل تبدیل به پول
+
+Denial /dɪˈnaɪəl/
+: refusal to believe or accept something as the truth
+```markdown
+refusal to believe or accept something as the truth
+```
 
 # Conversations
 

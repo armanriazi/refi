@@ -13,6 +13,8 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
+> `FLICC` Fake experts, Logical fallacies, Impossible expectations, Cherry picking, and Conspiracy theories
+
 > `CSRD` Corporate Sustainability Reporting Directive
 
 > `dMRV` Digital measurement, reporting and verification 
