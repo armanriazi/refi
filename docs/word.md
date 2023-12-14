@@ -32,6 +32,11 @@ fallacy /ˈfæləsi/
 A fallacy is a misleading argument or belief based on a falsehood. If you oppose state testing in schools, you think it is a fallacy that educational quality can be measured by standardized tests.
 ```
 
+premises /ˈprɛməsəz/
+```markdown
+The premises of a property consist of the land and buildings on it, usually of a business or organization.
+```
+
 ## Verbs
 
 sequester
@@ -58,7 +63,6 @@ illiquid
 غیر قابل تبدیل به پول
 
 Denial /dɪˈnaɪəl/
-: refusal to believe or accept something as the truth
 ```markdown
 refusal to believe or accept something as the truth
 ```

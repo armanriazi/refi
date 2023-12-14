@@ -119,6 +119,11 @@ hide:
 
 [53]: (N.d.-d). Desa.un.org. Retrieved December 2, 2023, from https://financing.desa.un.org/sites/default/files/2023-04/2023%20FSDR%20Report.pdf
 
+[54]: Grade Level. (n.d.). 1. About the Lesson Plan. Monash.edu. Retrieved December 14, 2023, from https://www.monash.edu/__data/assets/pdf_file/0007/2625919/Year-10-English-FLICC-and-Cranky-Uncle.pdf
+
+[55]: A history of FLICC: the 5 techniques of science denial. (n.d.). Skeptical Science. Retrieved December 14, 2023, from https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html
+
+
 
 
 
