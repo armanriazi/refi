@@ -1,5 +1,10 @@
 ---
 keywords:   armanriazi ArmanRiazi Statistic Number
+tags:
+  - Number
+  - Amount
+  - Estimate
+  - Statistic 
 title: "ReFi Statistics"
 author: "Arman Riazi"
 search:

@@ -1,5 +1,10 @@
 ---
 keywords:   armanriazi ArmanRiazi Klima DAO project
+tags:
+  - Company
+  - Project
+  - Klima
+  - DAO
 author: "Arman Riazi"
 search:
   exclude: false

@@ -1,5 +1,8 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Standards blockchain
+keywords:   armanriazi ArmanRiazi ReFi Standard
+tags:
+  - Standard
+  - ReFi
 title: "ReFi Standards"
 author: "Arman Riazi"
 search:

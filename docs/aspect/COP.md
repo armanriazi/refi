@@ -1,12 +1,17 @@
 ---
-keywords:   armanriazi ArmanRiazi human FLICC
+keywords:   armanriazi ArmanRiazi human COP
+tags:
+  - COP
+  - COP28
+  - Conferance
+  - Human 
 author: "Arman Riazi"
 search:
   exclude: false
 type:  Human
-feature:  Human FLICC
+feature:  Human COP COP28
 author: "Arman Riazi"
-title: "FLICC"
+title: "ReFi COP"
 show:
   - feedback
 ---

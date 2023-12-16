@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Protocols Climate blockchain
+tags:
+  - Protocol
+  - ReFi
 author: "Arman Riazi"
 search:
   exclude: false

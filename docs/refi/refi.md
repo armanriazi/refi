@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi blockchain
+tags:
+  - ReFi
+  - Main
 title: "ReFi"
 author: "Arman Riazi"
 search:

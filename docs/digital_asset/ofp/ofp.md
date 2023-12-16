@@ -1,5 +1,11 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi OFP Forest blockchain
+tags:
+  - Forest
+  - Project
+  - OFP
+  - Company
+  - Digital
 author: "Arman Riazi"
 search:
   exclude: false

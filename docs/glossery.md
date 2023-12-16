@@ -1,5 +1,7 @@
 ---
 title: "Glossery"
+tags:
+  - Glossery  
 author: "Arman Riazi"
 search:
   exclude: true

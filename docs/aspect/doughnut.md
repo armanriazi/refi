@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi human doughnut
+tags:
+  - Doughnut
+  - Human 
+  - Aspect
 author: "Arman Riazi"
 search:
   exclude: false

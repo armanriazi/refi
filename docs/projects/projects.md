@@ -1,6 +1,9 @@
 ---
-keywords:   armanriazi ArmanRiazi Statistic projects ecosapiens
+keywords:   armanriazi ArmanRiazi Statistic projects
 author: "Arman Riazi"
+tags:
+  - Company
+  - Project    
 search:
   exclude: false
 type:  Statistic

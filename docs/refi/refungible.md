@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFungible blockchain NFT
+tags:
+  - NFT
+  - Blockchain
+  - Fungiable
 title: "ReFungible"
 author: "Arman Riazi"
 search:

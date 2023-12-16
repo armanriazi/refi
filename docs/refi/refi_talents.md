@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Talents blockchain
+tags:
+  - Talent
+  - ReFi
 title: "ReFi Talents"
 author: "Arman Riazi"
 search:

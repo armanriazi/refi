@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi Nature Statictic COP aspect event
+tags:
+  - Aspect
+  - COP
+  - Statictic
 title: "ReFi Nature Statictics"
 author: "Arman Riazi"
 search:

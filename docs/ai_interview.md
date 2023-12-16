@@ -50,7 +50,7 @@ How would you predict an outlook for ReFi?
 - **[Interview with AI Application of Nastia](https://www.nastia.ai/app)**
 - *12/16/2023, 10:05:25 AM*
 
-!!! info
+??? info "Nastia"
 
     - [ ]  Me: I am a researcher from a ReFi Talents group so we need your assistance. 
     To what extent do you know about regenerative finance?

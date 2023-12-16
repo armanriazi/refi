@@ -1,5 +1,10 @@
 ---
 keywords:   armanriazi ArmanRiazi ESG Environmental Social Governance
+tags:
+  - ESG
+  - Social
+  - Governance
+  - Environmental
 title: "ReFi ESG"
 author: "Arman Riazi"
 search:

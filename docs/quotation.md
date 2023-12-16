@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Talents Quotation blockchain
+tags:
+  - Expert
+  - Quotation
 title: "ReFi Quotations"
 author: "Arman Riazi"
 search:

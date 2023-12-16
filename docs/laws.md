@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Standards blockchain
+tags:
+  - ReFi
+  - Legislation
+  - Law
 title: "ReFi Standards"
 author: "Arman Riazi"
 search:

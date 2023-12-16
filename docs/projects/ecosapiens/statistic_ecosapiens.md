@@ -1,5 +1,10 @@
 ---
 keywords:   armanriazi ArmanRiazi Statistic projects number ecosapiens
+tags:
+  - Company
+  - Project
+  - Ecosapiens
+  - Statistic
 author: "Arman Riazi"
 search:
   exclude: false
