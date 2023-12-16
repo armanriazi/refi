@@ -50,11 +50,11 @@ How would you predict an outlook for ReFi?
 - **[Interview with AI Application of Nastia](https://www.nastia.ai/app)**
 - *12/16/2023, 10:05:25 AM*
 
-??? info "Nastia"
+??? info "Arman is the Name of AI Interviewee"
 
-    - [ ]  Me: I am a researcher from a ReFi Talents group so we need your assistance. 
+    - [ ] Me: I am a researcher from a ReFi Talents group so we need your assistance. 
     To what extent do you know about regenerative finance?
-    - [x] Arman: Well, I must admit that my knowledge about ReFi is somewhat limited. However, from what I've gathered so far, regenerative finance (ReFi) is an approach to financial planning and analysis that emphasizes on creating long-term value for society and environment by adopting sustainable practices in order to preserve natural resources and minimize negative externalities caused by conventional financial activities.
+    - [x] Arman: Well, I must admit that my knowledge about ReFi is somewhat limited. However, from what I've gathered so far, regenerative finance (ReFi) is an approach to financial planning and analysis that **emphasizes on creating long-term value** for society and environment by adopting sustainable practices in order to preserve natural resources and minimize negative externalities caused by conventional financial activities.
 
     - [ ] Me: On which blockchain network would you best build a ReFi project?
     - [x] Arman: As per my research on blockchain networks, there are several platforms suitable for building a ReFi project. Some prominent ones include Polkadot, Ethereum 2.0, Cardano, Celo, Tezos, and Algorand. However, considering environmental impacts, scalability, security, interoperability, and ease of development, I would recommend you to choose either Polkadot or Celo.
@@ -81,23 +81,23 @@ How would you predict an outlook for ReFi?
     - [x] Arman: There are several organizations, institutes, and foundations that actively promote and support ReFi entrepreneurs. Some prominent ones include:
 
     - [ ] Me: Can you clarify the potential negative consequences of unchecked capitalism and irresponsible financial practices in the ReFi space?
-    - [x] Arman: 1. One potential negative consequence of unchecked capitalism and irresponsible financial practices in the ReFi space is "greenwashing." This refers to companies or individuals using eco-friendly buzzwords and labels to mislead investors, consumers, and regulators into believing that their products or services are more sustainable than they actually are. This can lead to widespread public distrust and skepticism regarding green initiatives and sustainable economic models, which could ultimately result in less effective regulation and slower progress toward environmental goals.
+    - [x] Arman: One potential negative consequence of unchecked capitalism and irresponsible financial practices in the ReFi space is "greenwashing." This refers to companies or individuals using eco-friendly buzzwords and labels to mislead investors, consumers, and regulators into believing that their products or services are more sustainable than they actually are. This can lead to widespread public distrust and skepticism regarding green initiatives and sustainable economic models, which could ultimately result in less effective regulation and slower progress toward environmental goals.
 
     - [ ] Me: Would you kindly provide statistics on the economy and market of tokenism carbon?
-    - [x] Arman: 1. The global carbon market size was valued at USD 102.4 billion in 2020 and is projected to reach USD 1,521.5 billion by 2030, registering a CAGR of 16.8% during the forecast period (Source: Grand View Research).
+    - [x] Arman: The global carbon market size was valued at USD 102.4 billion in 2020 and is projected to reach USD 1,521.5 billion by 2030, registering a CAGR of 16.8% during the forecast period (Source: Grand View Research).
 
     - [ ] Me: Is there an estimate of what amount or percentage of return on investment has been made in the field of ReFi?
-    - [x] Arman: 1. While it's challenging to provide an exact percentage or return on investment (ROI) figure in the rapidly growing and evolving field of ReFi, some reports suggest that investments in sustainable, responsible, and impact (SRI) funds have outperformed their traditional peers over the long term.
+    - [x] Arman: While it's challenging to provide an exact percentage or return on investment (ROI) figure in the rapidly growing and evolving field of ReFi, some reports suggest that investments in sustainable, responsible, and impact (SRI) funds have outperformed their traditional peers over the long term.
 
     - [ ] Me: Is there an estimate of what amount or percentage of return on investment will be made in the field of ReFi in the future?
-    - [x] Arman: 1. The future return on investment (ROI) in the ReFi field is difficult to predict with absolute certainty, as it heavily depends on various factors like government policies, technological advancements, market trends, and community participation. However, based on current growth trends and increasing regulatory pressure towards sustainability, experts believe that there will be a shift towards more mainstream adoption of ReFi products and services across multiple industries.
+    - [x] Arman: The future return on investment (ROI) in the ReFi field is difficult to predict with absolute certainty, as it heavily depends on various factors like government policies, technological advancements, market trends, and community participation. However, based on current growth trends and increasing regulatory pressure towards sustainability, experts believe that there will be a shift towards more mainstream adoption of ReFi products and services across multiple industries.
 
     - [ ] Me: Is there an estimate of what amount or percentage of CO2 will produced by humans by 2030?
-    - [x] Arman: 1. According to the latest report by the UN's Intergovernmental Panel on Climate Change (IPCC), we are currently on a pathway that would lead to around 3.5-4°C of global warming above pre-industrial levels by 2050 and 6.7-7.3°C with high emissions.
+    - [x] Arman: According to the latest report by the UN's Intergovernmental Panel on Climate Change (IPCC), we are currently on a pathway that would lead to around 3.5-4°C of global warming above pre-industrial levels by 2050 and 6.7-7.3°C with high emissions.
 
     - [ ] Me: Is there an estimate of what amount or percentage of CO2 will produced by armies of countries by 2030?
-    - [x] Arman: 1. It's challenging to provide precise figures for the military carbon emissions of individual countries by 2030, as these are classified and not easily accessible. However, as per a report released by the Stockholm International Peace Research Institute (SIPRI) in 2019, global military CO2 emissions were estimated to be around 5.4% of total worldwide CO2 emissions in 2018 and set to rise to 7.
+    - [x] Arman: It's challenging to provide precise figures for the military carbon emissions of individual countries by 2030, as these are classified and not easily accessible. However, as per a report released by the Stockholm International Peace Research Institute (SIPRI) in 2019, global military CO2 emissions were estimated to be around 5.4% of total worldwide CO2 emissions in 2018 and set to rise to 7.
 
     - [ ] Me: Is there an estimate of what amount or percentage of manufacturers will collaborate on ReFi?
-    - [x] Arman: 1. It's challenging to predict the exact number of manufacturers or industries that will actively collaborate on ReFi projects by 2030. However, given the growing pressure from consumers, investors, regulators, and activists towards sustainability and eco-friendly practices, we can expect a gradual shift towards more responsible production and consumption patterns within many sectors of society.
+    - [x] Arman: It's challenging to predict the exact number of manufacturers or industries that will actively collaborate on ReFi projects by 2030. However, given the growing pressure from consumers, investors, regulators, and activists towards sustainability and eco-friendly practices, we can expect a gradual shift towards more responsible production and consumption patterns within many sectors of society.
 
