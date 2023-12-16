@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Digital Asset
+tags:
+  - Frameworks
+  - Digital 
+  - Asset
 author: "Arman Riazi"
 search:
   exclude: false

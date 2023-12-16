@@ -1,12 +1,14 @@
 ---
-keywords:   armanriazi ArmanRiazi Nature Statictic
-title: "ReFi Nature Statictics"
+keywords:   armanriazi ArmanRiazi Nature Statistic
+tags:
+  - Nature
+  - Statistic 
+title: "ReFi Nature Statistics"
 author: "Arman Riazi"
 search:
   exclude: false
-type:  Statictic
-feature:  Nature Statictic
-keywords:  armanriazi Nature Statictic
+type:  Statistic
+feature:  Nature Statistic
 author: "Arman Riazi"
 show:
   - feedback

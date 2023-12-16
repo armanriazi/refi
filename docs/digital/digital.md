@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi ReFi Digital inovation
+tags:
+  - Inovation
+  - Digital
 title: "ReFi Digital"
 author: "Arman Riazi"
 search:

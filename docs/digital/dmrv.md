@@ -1,5 +1,10 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Digital dMRV reporting  monitoring  verificatio MRV
+keywords:   armanriazi ArmanRiazi ReFi Digital dMRV reporting  monitoring  verification MRV
+tags:
+  - MRV
+  - Reporting  
+  - Monitoring
+  - Verification
 author: "Arman Riazi"
 search:
   exclude: false
