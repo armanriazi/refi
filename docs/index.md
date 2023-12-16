@@ -14,9 +14,7 @@ show:
 
 [![mkdocs-ci](https://github.com/armanriazi/refi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/armanriazi/refi/actions/workflows/ci.yml)
 
->  I've always enjoyed creating doc-knowledge for my work and then sharing it with others. 
-
->  The philosophy behind the creation of this page is to solve this issue.
+>  I've always enjoyed creating documentation of knowledged-based for my work and then sharing it with others. 
 
 > Going through to ReFi contexts:
 
@@ -40,15 +38,19 @@ show:
 
 - [Nature](./nature/nature.md)
 
+- [Some Related Aspects](./aspect/aspect.md)
+
+---
+
+- [Quotation of experts](quotation.md)
+
+- [Interview with AI](ai_interview.md)
+
 ---
 
 - [Tags](tags.md)
 
-- [Some Related Aspects](./aspect/aspect.md)
-
 - [Statictics](statistic.md)
-
-- [Quotation](quotation.md)
 
 - [Glossery](glossery.md)
 

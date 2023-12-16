@@ -20,3 +20,9 @@ https://www.ecosoul.io/registry/american-carbon-registry-acr-2/
 https://www.ecosoul.io/registry/verra-ccb-standard/
 
 https://www.ecosoul.io/carbon-credits-101/
+
+Different requlations and blockchain implications
+CSRD OR ESRS
+EU Taxonomy
+CSDDD
+Battery Pass

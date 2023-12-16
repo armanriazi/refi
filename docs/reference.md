@@ -128,10 +128,6 @@ hide:
 [57]: (n.d.-d). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/cop28
 
 
-
-
-
-
 ---
 
 [x]: Riazi, A. (n.d.). Arman riazi - Arman riazi. Github.Io. Retrieved September 25, 2023, from https://armanriazi.github.io/public/blockchain/Blockchain/
