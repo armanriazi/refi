@@ -1,5 +1,10 @@
 ---
 keywords:   armanriazi ArmanRiazi Climate Nature Asset Class NaaAC
+tags:
+  - Nature
+  - Asset
+  - NaaAC
+  - Class
 author: "Arman Riazi"
 search:
   exclude: false

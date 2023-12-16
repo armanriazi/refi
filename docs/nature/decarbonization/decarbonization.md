@@ -1,5 +1,9 @@
 ---
 keywords:   armanriazi ArmanRiazi decarbonization Developer
+tags:
+  - Nature
+  - decarbonization
+  - Weather
 author: "Arman Riazi"
 search:
   exclude: false

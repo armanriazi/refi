@@ -1,5 +1,8 @@
 ---
 keywords:   armanriazi ArmanRiazi Planetary Boundary
+tags:
+  - Boundry
+  - Planet
 author: "Arman Riazi"
 search:
   exclude: false
