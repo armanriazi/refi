@@ -22,6 +22,10 @@ Unchecked capitalism
 
 Unscrupulous lenders
 
+Refurbishment 
+
+Fabrication
+
 planet-positive economy
 
 real-world assets
