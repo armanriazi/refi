@@ -15,6 +15,14 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
+> `ROI` return on investment
+
+> `SRI` sustainable, responsible, and impact
+
+> `EDF` The Environmental Defense Fund
+
+> `HFI` Healthy Forests Initiative
+
 > `FLICC` Fake experts, Logical fallacies, Impossible expectations, Cherry picking, and Conspiracy theories
 
 > `CSRD` Corporate Sustainability Reporting Directive
@@ -58,6 +66,8 @@ hide:
 > `WRC` Stands for Water Restoration Certificate and is a certificate confirming the purchase of 1,000 gallons of water to offset water usage and restore critical rivers or streams, particularly at times when water is needed the most.
 
 > `COP` Conference of the Parties
+
+> `IPCC` Intergovernmental Panel on Climate Change
 
 # Jargon
 

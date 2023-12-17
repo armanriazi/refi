@@ -69,6 +69,14 @@ refusal to believe or accept something as the truth
 
 # Conversations
 
+<number> months of consistent dedication.
+
+depends on your risk appetite, investment horizon, and desired return on investment (ROI)
+
+key players in the field such as investors, regulators, NGOs, and other industry participants.
+
+friendly buzzwords 
+
 holistically
 
 abundance
