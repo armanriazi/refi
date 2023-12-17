@@ -14,37 +14,38 @@ show:
 # Template of Questions
 ## ReFi Convestation
 
-Hi Dear, I am a researcher from a ReFi Talents group so we need your assistance. 
-To what extent do you know about regenerative finance?
+Hi Dear, I am a researcher from a ReFi Talents group and we need your assistance. 
+
+- To what extent do you know about regenerative finance?
 
 ## Covered ReFi Stakeholders
 
 ### Development
-On which blockchain network would you best build a ReFi project?
-Which blockchain network is preferable for building ReFi projects—Polkadot or Celo, in your opinion?
-How long will it take to learn how to develop a ReFi project based on blockchain?
-
+- On which blockchain network would you best build a ReFi project?
+- Which blockchain network is preferable for building ReFi projects—Polkadot or Celo, in your opinion?
+- How long will it take to learn how to develop a ReFi project based on blockchain?
+- 
 ### Entrepreneurs & Economy
-What is the most effective way to invest in the ReFi field?
-Would you kindly provide an elaboration on the economy and market of tokenism carbon?
-What advice would you provide to a ReFi entrepreneur looking to build wealth for themselves and their group?
-How long will it take to build a ReFi project?
-Which institutions supports ReFi entrepreneurs?
-Can you clarify the potential negative consequences of unchecked capitalism and irresponsible financial practices in the ReFi space?
-
+- What is the most effective way to invest in the ReFi field?
+- Would you kindly provide an elaboration on the economy and market of tokenism carbon?
+- What advice would you provide to a ReFi entrepreneur looking to build wealth for themselves and their group?
+- How long will it take to build a ReFi project?
+- Which institutions supports ReFi entrepreneurs?
+- Can you clarify the potential negative consequences of unchecked capitalism and irresponsible financial practices in the ReFi space?
+- 
 ## Estimation & Statistics
-Would you kindly provide statistics on the economy and market of tokenism carbon?
-Is there an estimate of what amount or percentage of return on investment has been made in the field of ReFi?
-Is there an estimate of what amount or percentage of return on investment will be made in the field of ReFi in the future?
-Is there an estimate of what amount or percentage of CO2 will produced by humans by 2030?
-Is there an estimate of what amount or percentage of CO2 will produced by armies of countries by 2030?
-Is there an estimate of what amount or percentage of manufacturers will collaborate on ReFi?
-
+- Would you kindly provide statistics on the economy and market of tokenism carbon?
+- Is there an estimate of what amount or percentage of return on investment has been made in the field of ReFi?
+- Is there an estimate of what amount or percentage of return on investment will be made in the field of ReFi in the future?
+- Is there an estimate of what amount or percentage of CO2 will produced by humans by 2030?
+- Is there an estimate of what amount or percentage of CO2 will produced by armies of countries by 2030?
+- Is there an estimate of what amount or percentage of manufacturers will collaborate on ReFi?
+- 
 ## Extra Question
-Which is the best picture you have been influenced of Regenerative Finance, please send it to me.
-Which is the worst picture you have been influenced of Regenerative Finance, please send it to me.
-How would you predict an outlook for ReFi?
-Could you please make a list of all cited references in our early conversation?
+- Which is the best picture you have been influenced of Regenerative Finance, please send it to me.
+- Which is the worst picture you have been influenced of Regenerative Finance, please send it to me.
+- How would you predict an outlook for ReFi?
+- Could you please make a list of all cited references in our early conversation?
 
 ---
 
