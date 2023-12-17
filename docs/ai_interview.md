@@ -24,7 +24,7 @@ Hi Dear, I am a researcher from a ReFi Talents group and we need your assistance
 - On which blockchain network would you best build a ReFi project?
 - Which blockchain network is preferable for building ReFi projects—Polkadot or Celo, in your opinion?
 - How long will it take to learn how to develop a ReFi project based on blockchain?
-- 
+
 ### Entrepreneurs & Economy
 - What is the most effective way to invest in the ReFi field?
 - Would you kindly provide an elaboration on the economy and market of tokenism carbon?
@@ -32,7 +32,7 @@ Hi Dear, I am a researcher from a ReFi Talents group and we need your assistance
 - How long will it take to build a ReFi project?
 - Which institutions supports ReFi entrepreneurs?
 - Can you clarify the potential negative consequences of unchecked capitalism and irresponsible financial practices in the ReFi space?
-- 
+
 ## Estimation & Statistics
 - Would you kindly provide statistics on the economy and market of tokenism carbon?
 - Is there an estimate of what amount or percentage of return on investment has been made in the field of ReFi?
@@ -40,7 +40,7 @@ Hi Dear, I am a researcher from a ReFi Talents group and we need your assistance
 - Is there an estimate of what amount or percentage of CO2 will produced by humans by 2030?
 - Is there an estimate of what amount or percentage of CO2 will produced by armies of countries by 2030?
 - Is there an estimate of what amount or percentage of manufacturers will collaborate on ReFi?
-- 
+
 ## Extra Question
 - Which is the best picture you have been influenced of Regenerative Finance, please send it to me.
 - Which is the worst picture you have been influenced of Regenerative Finance, please send it to me.
