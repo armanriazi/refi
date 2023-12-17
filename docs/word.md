@@ -18,6 +18,10 @@ hide:
 
 evidence-based climate innovation
 
+Unchecked capitalism
+
+Unscrupulous lenders
+
 planet-positive economy
 
 real-world assets
@@ -68,6 +72,8 @@ refusal to believe or accept something as the truth
 ```
 
 # Conversations
+
+Rather than trying to be a jack-of-all-trades, specialize in a specific niche domain
 
 <number> months of consistent dedication.
 

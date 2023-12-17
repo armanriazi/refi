@@ -73,6 +73,10 @@ hide:
 
 > `IPCC` Intergovernmental Panel on Climate Change
 
+ > `IEA` International Energy Agency's
+
+ > `RFI` Refurbishment and Fabrication Integration
+ 
 # Jargon
 
 ## Environment jargon
