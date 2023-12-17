@@ -15,6 +15,10 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
+> `MBS` Mortgage-backed securities 
+
+> `REITs` Real estate investment trusts
+
 > `ROI` return on investment
 
 > `SRI` sustainable, responsible, and impact
