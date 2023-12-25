@@ -36,6 +36,6 @@ show:
 </figure>
 
 <figure markdown>
-![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/vera.png){ width=600 height=400 align=center }
+![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/vera1.png){ width=600 height=400 align=center }
 <figcaption>Vera Registry & de-tokenize VCU [45].</figcaption>
 </figure>

@@ -81,14 +81,14 @@ Accumulating wealth is no longer the goal; rather, wealth is a means to the goal
 
 ## Eight Principles of a regenerative economy
 
-- [1] Edge effect abundance
-- [2] Seeks balance
-- [3] Empowered participation
-- [4] Views wealth holistically
-- [5] Innovative adaptive responsive
-- [6] Robust circulation
-- [7] Honors place & community
-- [8] In right relationship
+1.  Edge effect abundance
+2.  Seeks balance
+3.  Empowered participation
+4.  Views wealth holistically
+5.  Innovative adaptive responsive
+6.  Robust circulation
+7.  Honors place & community
+8.  In right relationship
 
 ### The eight principles describe [30]
 
@@ -129,14 +129,13 @@ Decentralized finance (DeFi) eliminates intermediaries by allowing people, merch
 
 ## Sustainability vs Regenerative
 
-Regenerative is **seeking strategies** for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”.
-Sustainable companies aim to maintain the current state of natural systems in the present: they focus on **reducing negative impact**, **preventing further degradation**, and conserving resources. Their efforts have an inherent limitation: they usually are concerned about making processes and products “more efficient,” **using fewer resources for each product produced**,
+Regenerative is **seeking strategies** for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”. Sustainable companies aim to maintain the current state of natural systems in the present: they focus on **reducing negative impact**, **preventing further degradation, and conserving resources**. Their efforts have an inherent limitation: they usually are concerned about making processes and products “more efficient,” **using fewer resources for each product produced** [13].
 
 ## Regenerative economics
 
 Regenerative economics can be viewed as applying the **natural laws** and **patterns of systemic health, self-organization, self-renewal, and regenerative vitality** to socioeconomic systems [12].
 Regenerative economics follows a holistic, systemic approach that **recognizes** the interconnectedness of all aspects of a system [12].
-It can also help **identify** feedback loops, leverage points, and unintended consequences of specific actions or interventions.
+It can also help **identify** feedback loops, leverage points, and unintended consequences of specific actions or interventions [13].
 
 For businesses redefining their value and purpose, new sets of metrics and KPIs will be required to monitor success. For proper
 tracking and monitoring, accounting processes should also be adapted to include the social and
