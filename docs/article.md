@@ -12,11 +12,11 @@ the focus of regenerative finance is on initiatives that have the potential to g
 “ReFi stands for Regenerative Finance, and it broadly relates to a movement aiming to use finance as a way to support regenerative and restorative outcomes in social, environmental, and economic systems.” - ReFiDAO [^36]
 
 <figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=600 height=400 align=center }
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=400 height=200 align=center }
 <figcaption>Diagram of impact: From conventional design to regenerative design [12]</figcaption>
 </figure>
 
-# Eight Principles of a regenerative economy
+## Eight Principles of a regenerative economy
 
 1.  Edge effect abundance
 2.  Seeks balance
@@ -27,7 +27,7 @@ the focus of regenerative finance is on initiatives that have the potential to g
 7.  Honors place & community
 8.  In right relationship
 
-# Sustainability vs Regenerative
+## Sustainability vs Regenerative
 
 Regenerative is seeking strategies for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”. Sustainable companies aim to maintain the current state of natural systems in the present: they focus on reducing negative impact, preventing further degradation, and conserving resources [^13]
 
@@ -52,6 +52,66 @@ Blockchain is one of several emerging technologies being explored to address urg
 Blockchain can democratize ownership and reallocate resources to shift power dynamics to the people most knowledgeable of, and most vulnerable to, the effects of climate change. Blockchain could also improve the transparency and integrity of existing decarbonization mechanisms like carbon markets. When paired with digital tools for measurement, reporting and verification (MRV) – such as remote sensors, drone imagery and AI – digital environmental assets and carbon accounting systems can provide real-time visibility into the effectiveness of emissions reduction and sequestration efforts [2].
 
 
+# dMRV
+
+<figure markdown>
+![dMRV](https://armanriazi.github.io/refi/assets/attachments/dmrv.png){ width=600 height=400 align=center }
+<figcaption>DMRV Platform [29].</figcaption>
+</figure>
+
+Key characteristics of DMRV that distinguish it from manual MRV include [^31]:
+
+- [x] Digitally native platforms that can receive data from a range of sensors and data sources, including manual inputs, and automatically analyze and process data using algorithms and advanced models [^31].
+- [x] Checkpoints and checklists within the platforms that ensure consistency and accuracy [^31].
+- [x] A platform that can be periodically certified for use within specified project parameters this allows some project validation and verification procedures to be automated to streamline project development while ensuring integrity [^31].
+
+## Credit Issuance 
+
+Credit issuance is ultimately a process of (MRV) monitoring, reporting, and verification: monitoring to calculate a project’s emissions reductions (i.e., credits), reporting to document the calculations before a credit registry, and verification of the calculations by independent auditors.[^29].
+
+DMRV platforms would modernize credit issuance in at least 4 critical ways [^29].
+
+1.  Shift from manual data collection to satellite observation [^29].
+2.  Shift from inconsistent, manual calculation to uniform, automated calculation [^29].
+3.  Shift from auditing projects to certifying platforms [^29].
+4.  Shift from static documents to interactive, digital visualization [^29].
+
+## Carbon Credit
+
+Credit registries, such as Verra, now refer to future digital crediting platforms as digital MRV (DMRV) platforms. Since our founding in 2018, Pachama has sought to lead the way in DMRV and become the first registry-certified DMRV platform. Carbon credit to calculate each term in this equation, a DMRV must produce three core outputs [29]: 
+
+- [x] an estimate of baseline emissions [^29].
+- [x] a map of forest carbon [^29].
+- [x] a map of forest cover change (deforestation and/or reforestation) to know where carbon has been lost or gained [^29].
+
+## DMRV for Renewables
+
+CCD has developed ML-based models to estimate canopy height and above-ground biomass (AGB) over woodlands at sub-national scale. This allows for identification of forest deforestation and disturbance, and aids efforts to conserve biodiversity hotspots. CCD offers forecasting and scheduling services for independent power producers [^32].
+
+### Data sources
+
+SCADA systems or other third party sources; India’s Central Transmission Utility (CTU); daily generation reports (DGRs) [^32].
+
+### Data collection
+
+SCADA data is compared with other sources to understand the issuance of carbon credits. Real-time data is also shared daily with the Global Carbon Council (GCC), for both energy and carbon credits [^32].
+
+### Data auditing
+
+SCADA data is audited against other sources to identify discrepancies with meter data. This audit provides an optimised estimation of the issued carbon credits through SCADA data [^32].
+
+Having an independent source of data (such as SCADA) to verify the amount of carbon credits being claimed by projects on a registry can significantly reduce the costs associated with verification. Another major benefit is that this can accelerate the issuance of carbon credits, allowing new issuances on a bi-annual or monthly basis rather than once a year [^32].
+
+### Automated SDG extraction from project documents
+
+Identifying which SDGs a project contributes to is a crucial task, and one that can be very time consuming for companies or project developers who rely solely on manual methods. However, AI can be used to intelligently extract SDGs relevant to a particular project based on the unstructured content contained in related documents (e.g. images and text). This method relies on Natural Language Processing (NLP) [^32].
+
+CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters. CCD utilises the following AI models for SDG extraction from project documents [^32]:
+
+- [x] GPT2
+- [x] All-mpnet-base-v2
+- [x] All-distilroberta-v1
+- [x] miniLM-L12-v2
 
 ---
 
@@ -64,6 +124,12 @@ Blockchain can democratize ownership and reallocate resources to shift power dyn
 [^13]
 
 [^14]
+
+[^29].
+
+[^31]:
+
+[^32]:
 
 [^33]:
 

@@ -30,8 +30,8 @@ DMRV platforms would modernize credit issuance in at least 4 critical ways [29].
 
 # A Core Crediting Equation
 
-[[carbon_credit]]
-To calculate each term in this equation, a DMRV must produce three core outputs [29]: 
+[[carbon_credit]] to calculate each term in this equation, a DMRV must produce three core outputs [29]: 
+
 - [x] an estimate of baseline emissions
 - [x] a map of forest carbon
 - [x] a map of forest cover change (deforestation and/or reforestation) to know where carbon has been lost or gained
