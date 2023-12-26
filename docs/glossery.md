@@ -25,6 +25,8 @@ hide:
 
 > `EDF` The Environmental Defense Fund
 
+> `GCC` Global Carbon Council
+
 > `HFI` Healthy Forests Initiative
 
 > `FLICC` Fake experts, Logical fallacies, Impossible expectations, Cherry picking, and Conspiracy theories
@@ -32,6 +34,8 @@ hide:
 > `CSRD` Corporate Sustainability Reporting Directive
 
 > `dMRV` Digital measurement, reporting and verification 
+
+> `SDG` Sustainable Development Goal
 
 > `NCS` Natural climate solutions
 

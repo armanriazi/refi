@@ -13,7 +13,7 @@ the focus of regenerative finance is on initiatives that have the potential to g
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=400 height=200 align=center }
-<figcaption>Diagram of impact: From conventional design to regenerative design [12]</figcaption>
+<figcaption>Diagram of impact: From conventional design to regenerative design [^12]</figcaption>
 </figure>
 
 ## Eight Principles of a regenerative economy
@@ -56,7 +56,7 @@ Blockchain can democratize ownership and reallocate resources to shift power dyn
 
 <figure markdown>
 ![dMRV](https://armanriazi.github.io/refi/assets/attachments/dmrv.png){ width=600 height=400 align=center }
-<figcaption>DMRV Platform [29].</figcaption>
+<figcaption>DMRV Platform [^29].</figcaption>
 </figure>
 
 Key characteristics of DMRV that distinguish it from manual MRV include [^31]:
@@ -104,14 +104,139 @@ Having an independent source of data (such as SCADA) to verify the amount of car
 
 ### Automated SDG extraction from project documents
 
-Identifying which SDGs a project contributes to is a crucial task, and one that can be very time consuming for companies or project developers who rely solely on manual methods. However, AI can be used to intelligently extract SDGs relevant to a particular project based on the unstructured content contained in related documents (e.g. images and text). This method relies on Natural Language Processing (NLP) [^32].
+Identifying which SDGs a project contributes to is a crucial task, and one that can be very time consuming for companies or project developers who rely solely on manual methods. However, AI can be used to intelligently extract Sustainable Development Goals (SDGs) relevant to a particular project based on the unstructured content contained in related documents (e.g. images and text). This method relies on Natural Language Processing (NLP) [^32].
 
-CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters. CCD utilises the following AI models for SDG extraction from project documents [^32]:
+CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters [^32]:
 
-- [x] GPT2
-- [x] All-mpnet-base-v2
-- [x] All-distilroberta-v1
-- [x] miniLM-L12-v2
+# NCS
+Natural climate solutions are ways to sequester carbon through conservation, restoration, and improved land management of the world’s forests, grasslands, and wetlands. Three types of NCS funds are emerging with different sources for returns and target investors (see Figure below).
+
+- [x] Sustainable product funds: focus on greening supply chains for those with net-zero and sustainable sourcing commitments.
+- [x] Nature+ funds: invest directly in NCS to provide financial and nonfinancial returns for long-term investors.
+- [x] Carbon pure play funds: secure carbon credits from NCS investments within a broader carbon sequestration portfolio.
+
+<figure markdown>
+![NCS Funds](https://armanriazi.github.io/refi/assets/attachments/NCS_funds.png){ width=800 height=600 align=center }
+<figcaption>Three categories of natural climate solutions funds [^24]</figcaption>
+</figure>
+
+# Offsetting
+
+Carbon offset processes are currently dominated by private actors providing legitimacy for the market. The two largest of these, Verra and Gold Standard, provide auditing services, carbon registries and a marketplace to sell carbon offsets, making them ubiquitous in the whole process [43].
+
+Biodiversity offsetting refers to actions, such as restoring degraded land, that are intended to compensate for biodiversity destruction taking place at a different time and place [^24].
+An offset market is created when a law requires companies to offset their negative impact on bi-odiversity, through actions such as restoration projects. These actions grant the right to tradable permits to destroy biodiversity elsewhere. If a company has destroyed more biodiversity than it has permits for, it can either perform “offsetting actions” or buy permits from another company. Correspondingly, a company that owns more permits than it has destroyed can choose to sell its excess permits to another company. The legislation that creates the market determines the rules surrounding the permits [^24].
+
+Creating a biodiversity offset market requires three things [^24]:
+
+- [x] New legislation introducing mandatory restoration targets, in order to create the demand.
+- [x] A policy framework that considers that restoration compensates for destruction taking place elsewhere and at a different time;
+- [x] A market framework allowing for the free trading of offset permits.
+
+Let’s take the example of a company wanting to build an airport in the South of Spain in an area that is a habitat for flamingos. With biodiversity offsetting, the law would allow the construction of the airport, provided that the company tries to avoid or minimize the impact on biodiversity. Any residual impact must be offset by recreating a habitat for flamingos within a radius of X kilometres [^24].
+
+
+
+## Put a Price on Nature
+
+There are two main methods [^24]:
+
+1.  Revealed preference methods: Prices are inferred from the prices of goods and services traded in markets. For example, let’s imagine two identical flats where only the second one has a view over Central Park. The first one sold for $1 million, whereas the second one sold for $1,5 million.This method will consider that the price difference represents the value of a view over Central Park and a meaningful factor in determining the value of Central Park [^24].
+
+2.  Stated preference methods: these methods are mostly based on surveys. People are being asked how much they are willing to pay for a natural site not to be destroyed, or inversely how much they want to receive in exchange for its destruction. As an example, a 1980 survey asked residents of Chicago how much they would be willing to pay to preserve the visibility over the Grand Canyon. The average price was $90. A similar survey was conducted a year and a half later, and the average answer came this time at $169 [^24].
+
+# Blockchain
+
+In the recent years, tokenization of (physical) assets and the creation of a digital version that is stored on the blockchain gained more interest. By utilizing blockchain technology, asset ownership can be tokenized, which enables fractional ownership, reduces intermediaries, and provides a secure and transparent ledger. This not only increases liquidity but also expands access to previously illiquid assets (like carbon offsets). The blockchain ledger allows for real-time settlement of transactions, increasing efficiency and reducing the risk of fraud. Additionally, tokens can be programmed to include certain rules and restrictions, such as limiting the number of tokens that can be issued or specifying how they can be traded, which can provide greater transparency and control over the asset [^43].
+
+
+## Towards Generating Value Carbon Reduction for Carbon Offset Footprint to Produce Carbon Credit
+
+`Carbon offset solution`
+
+The solar panels provide information regarding their electricity generation, from which a figure is derived that represents the amount of carbon avoided and fed into a smart contract. A smart contract is a self-executing application that exist on the blockchain and performs actions based on its underlying code. In the blockchain-based carbon offset process, smart contracts convert the different tokens and send them to the owner’s wallet. The tokens used within the process are compliant with the ERC-721 Non-Fungible Token (NFT) standard, which represents a unique token that is distinguishable from others and cannot be exchanged for other units of the same asset. A practical example is a work of art that, even if replicated, is always slightly different [^43].
+
+In the first stage of the process, the owner claims a carbon receipt, based on the amount of carbon avoided by the solar panel. Thereby the aggregated amount of carbon avoided (also stored in a database just for replication purposes) is sent to the smart contract, which issues a carbon receipt of the corresponding figure to the owner. Carbon receipts can further be exchanged for a uniform amount of carbon credits (e.g. 5 kg, 10 kg, 15 kg) by interacting with the second smart contract. Carbon credits are designed to be traded on the decentralised marketplace, where the price is determined by the supply and demand of its participants. Ultimately, carbon credits can be exchanged for carbon certificates indicating the certificate owner and the amount of carbon offset. Comparable with a university diploma, carbon certificates are tied to the address of the owner that initiated the exchange and are therefore non-tradable. Figure 1 illustrates the process of the described blockchain-based carbon offset solution [^43]:
+
+<figure markdown>
+![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=600 height=400 align=center }
+<figcaption>Process flow of a blockchain-based carbon offset solution [^43].</figcaption>
+</figure>
+
+<figure markdown>
+![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/toucan-carbon-credit-model.png){ width=600 height=400 align=center }
+<figcaption>Toucan carbon credit model [^46].</figcaption>
+</figure>
+
+### Re-fungibility
+
+Re-fungibility is an important step towards building real life models of ownership rights. Often a unique item may be owned by multiple entities in different proportions. The examples of such shared ownership are abundant: Timeshares, co-ownership of art, fractional car ownership, etc. For that purpose, Unique Network provides the special mode of Collection: Re-Fungible. The Re-fungible token can be minted and then partially transferred to multiple owners [17].
+
+##### Fungible collection mode
+Fungible collection mode is targeted at the same set of use cases as ERC-20 tokens. Any non-unique and divisible resource can be represented as a Fungible token. While these use cases are not the prime focus of Unique Network, many applications need this functionality in parallel to the NFT the examples include: non-unique game resources, rating points in applications with social networking capabilities, voting tokens, etc [17].
+
+### Tokenization
+Tokenized carbon assets can be traded on a secondary market, ensuring a price mechanism for CO2. That enables for example asset managers and companies to incorporate carbon offsets directly into their offerings [^4].
+
+Tokenization can aid the voluntary carbon market in a range of ways, including by increasing liquidity and accessibility. Buyers and sellers can more easily trade credits, which can help to increase demand for credits and reduce volatility in the market. Tokenization can also help to reduce transaction costs and provide faster settlement times. The use of blockchain technology also increases transparency and tracking: it allows for the creation of a permanent, immutable record of all transactions, thereby enhancing the VCM’s credibility, as it provides a clear record of the history of each carbon credit. It can also help to reduce the risk of fraud and ensure that carbon credits are properly accounted for [^11].
+
+### How carbon credits are generated?
+
+Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs [^46].
+
+The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance [^46].
+
+> Average time elapsed before the developer can secure funding: 1-2 years [^46].
+> Average time from project inception to credit issuance: 3-5 years [^46].
+> Average cost to get the first project certification: $50-100k [^46].
+
+### How can carbon credit tokenization help the VCM [^46]?
+
+- [x] Efficiency & Disintermediation
+- [x] Healthier and more open markets
+- [x] Liquid marketplaces
+- [x] Price discovery
+- [x] Eliminate double counting
+- [x] New sources of demand
+- [x] Better financing for developers
+- [x] Fractionalization
+
+### Benefits of Tokenized Carbon Credits
+
+<figure markdown>
+![Benefits of Tokenized Carbon Credits](https://armanriazi.github.io/refi/assets/attachments/sulolab.jpg){ width=600 height=400 align=center }
+<figcaption>Benefits of Tokenized Carbon Credits [^44].</figcaption>
+</figure>
+
+
+#### Increased Accessibility
+
+Carbon markets become more accessible as tokenization removes geographical restrictions. Anyone across the world can purchase, trade, and retire tokenized carbon credits through digital platforms [^44].
+
+#### Fractional Ownership
+
+Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint [^44].
+
+> `Search "fractionalized" result 54  [^45].`
+
+Tokenized carbon credits can be ‘fractionalized’ into units that are *smaller than 1 metric tonne* — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for **sub-tonne carbon credits**, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight [^46].
+
+#### Enhanced Liquidity
+
+Tokens can be seamlessly traded on decentralized exchanges, eliminating intermediaries and reducing costs [^44].
+
+#### Transparency
+
+The blockchain provides an immutable record of a credit’s origins and ownership history, preventing double-counting or other fraud [^44].
+
+#### Automation
+
+Smart contracts automate credit issuance, payments, transfers, and retirement, streamlining the process [^44].
+
+#### Price Discovery
+
+Tokenization provides transparent pricing data, increasing market efficiency and competition [^44].
+
 
 ---
 
@@ -119,13 +244,15 @@ CCD has conducted R&D and testing on more than 50 documents in order to develop 
 
 [^2]:
 
-[^12]
+[^12]:
 
-[^13]
+[^13]:
 
-[^14]
+[^14]:
 
-[^29].
+[^24]:
+
+[^29]:
 
 [^31]:
 
@@ -138,3 +265,10 @@ CCD has conducted R&D and testing on more than 50 documents in order to develop 
 [^35]:
 
 [^36]:
+
+[^44]:
+
+[^45]:
+
+[^46]:
+

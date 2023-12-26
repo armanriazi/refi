@@ -53,9 +53,9 @@ Natural capital is a very specific framing of nature that has emerged over the p
 
 There are two main methods to put a price on nature [24]:
 
-- [1] Revealed preference methods: Prices are inferred from the prices of goods and services traded in markets. For example, let’s imagine two identical flats where only the second one has a view over Central Park. The first one sold for $1 million, whereas the second one sold for $1,5 million.This method will consider that the price difference represents the value of a view over Central Park and a meaningful factor in determining the value of Central Park.
+1.  Revealed preference methods: Prices are inferred from the prices of goods and services traded in markets. For example, let’s imagine two identical flats where only the second one has a view over Central Park. The first one sold for $1 million, whereas the second one sold for $1,5 million.This method will consider that the price difference represents the value of a view over Central Park and a meaningful factor in determining the value of Central Park.
 
-- [2] Stated preference methods: these methods are mostly based on surveys. People are being asked how much they are willing to pay for a natural site not to be destroyed, or inversely how much they want to receive in exchange for its destruction. As an example, a 1980 survey asked residents of Chicago how much they would be willing to pay to preserve the visibility over the Grand Canyon. The average price was $90. A similar survey was conducted a year and a half later, and the average answer came this time at $169.
+2.  Stated preference methods: these methods are mostly based on surveys. People are being asked how much they are willing to pay for a natural site not to be destroyed, or inversely how much they want to receive in exchange for its destruction. As an example, a 1980 survey asked residents of Chicago how much they would be willing to pay to preserve the visibility over the Grand Canyon. The average price was $90. A similar survey was conducted a year and a half later, and the average answer came this time at $169.
 
 ## What Do We Mean by NaaAC?
 
