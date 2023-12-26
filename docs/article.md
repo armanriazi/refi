@@ -186,9 +186,10 @@ Everyone who is taking actions that remove or avoid emissions — for example co
 
 The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance [^46].
 
-> Average time elapsed before the developer can secure funding: 1-2 years [^46].
-> Average time from project inception to credit issuance: 3-5 years [^46].
-> Average cost to get the first project certification: $50-100k [^46].
+`Averages`
+:    Time elapsed before the developer can secure funding: 1-2 years [^46].
+:    Time from project inception to credit issuance: 3-5 years [^46].
+:    Cost to get the first project certification: $50-100k [^46].
 
 ### How can carbon credit tokenization help the VCM [^46]?
 
@@ -217,8 +218,6 @@ Carbon markets become more accessible as tokenization removes geographical restr
 
 Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint [^44].
 
-> `Search "fractionalized" result 54  [^45].`
-
 Tokenized carbon credits can be ‘fractionalized’ into units that are *smaller than 1 metric tonne* — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for **sub-tonne carbon credits**, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight [^46].
 
 #### Enhanced Liquidity
@@ -237,6 +236,16 @@ Smart contracts automate credit issuance, payments, transfers, and retirement, s
 
 Tokenization provides transparent pricing data, increasing market efficiency and competition [^44].
 
+# Protocol
+## Kyoto
+
+While the Kyoto Protocol provided a framework for reducing the greenhouse gas emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an updated version of the gtap-e general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios [^20].
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
+<figcaption>Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
+25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model. [^20]</figcaption>
+</figure>
 
 ---
 
@@ -249,6 +258,8 @@ Tokenization provides transparent pricing data, increasing market efficiency and
 [^13]:
 
 [^14]:
+
+[^20]:
 
 [^24]:
 
