@@ -28,7 +28,7 @@ The MiCA Law is the first comprehensive regulation for cryptocurrencies in the E
 
 ### Crypto-Asset Service Providers (CASPs)
 
-the Law establishes a global framework that sets the requirements for the operation and governance of the **main issuers of** *crypto assets and CASP service providers (Contracted Application Service Provider or Contracted Application Service Provider)*. It also makes clear the protection framework for holders of crypto assets and other clients of service providers [47].
+the Law establishes a global framework that sets the requirements for the operation and governance of the **main issuers of** *crypto assets and CASP service providers (Contracted Application Service Provider)*. It also makes clear the protection framework for holders of crypto assets and other clients of service providers [47].
 
 CASPs shall require authorisation in order to operate within the EU. The types of services covered by MiCAR comprise of [48]:
 

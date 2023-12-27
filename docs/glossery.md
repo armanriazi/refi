@@ -15,6 +15,8 @@ hide:
 
 # LIST OF ABBREVIATIONS
 
+> `PB` Planetary Boundary
+
 > `MBS` Mortgage-backed securities 
 
 > `REITs` Real estate investment trusts
@@ -68,6 +70,8 @@ hide:
 > `C4C` Capital for Climate 
 
 > `COTI` Certification of Origin and Traceability Implementation Initiative 
+
+> `NaaAC` Nature Qualify as an Asset Class
 
 > `N4C` Nature for Climate
 
