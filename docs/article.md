@@ -76,9 +76,9 @@ Blockchain can democratize ownership and reallocate resources to shift power dyn
 
 Key characteristics of DMRV that distinguish it from manual MRV include[^31]:
 
--[x] Digitally native platforms that can receive data from a range of sensors and data sources, including manual inputs, and automatically analyze and process data using algorithms and advanced models[^31].
--[x] Checkpoints and checklists within the platforms that ensure consistency and accuracy[^31].
--[x] A platform that can be periodically certified for use within specified project parameters this allows some project validation and verification procedures to be automated to streamline project development while ensuring integrity[^31].
+- [x] Digitally native platforms that can receive data from a range of sensors and data sources, including manual inputs, and automatically analyze and process data using algorithms and advanced models[^31].
+- [x] Checkpoints and checklists within the platforms that ensure consistency and accuracy[^31].
+- [x] A platform that can be periodically certified for use within specified project parameters this allows some project validation and verification procedures to be automated to streamline project development while ensuring integrity[^31].
 
 ## Credit Issuance 
 
@@ -93,11 +93,13 @@ DMRV platforms would modernize credit issuance in at least 4 critical ways[^29].
 
 ## Carbon Registry
 
+Pachama or Open Forest Protocol (OFP), both marketplaces adopt digital technologies, which are essential to enable digital methods in project monitoring, reporting, and verification (D-MRV). Recent technological developments and innovations to reduce the cost of emerging technologies have opened the door to the use of AI, machine learning, satellite imagery, blockchain, smart sensors, the internet of things (IoT), cloud computing, and drones in MRV systems [6].
+
 Credit registries, such as Verra, now refer to future digital crediting platforms as digital MRV (DMRV) platforms. Since our founding in 2018, Pachama has sought to lead the way in DMRV and become the first registry-certified DMRV platform. Carbon credit to calculate each term in this equation, a DMRV must produce three core outputs[29]: 
 
--[x] an estimate of baseline emissions[^29].
--[x] a map of forest carbon[^29].
--[x] a map of forest cover change (deforestation and/or reforestation) to know where carbon has been lost or gained[^29].
+- [x] an estimate of baseline emissions[^29].
+- [x] a map of forest carbon[^29].
+- [x] a map of forest cover change (deforestation and/or reforestation) to know where carbon has been lost or gained[^29].
 
 Natural assets can now be priced by their value as “carbon sinks,” a.k.a. society’s valuation of a ton of carbon removed from the atmosphere[37].
 
@@ -133,9 +135,9 @@ CCD has conducted R&D and testing on more than 50 documents in order to develop 
 # NCS
 Natural climate solutions are ways to sequester carbon through conservation, restoration, and improved land management of the world’s forests, grasslands, and wetlands. Three types of NCS funds are emerging with different sources for returns and target investors (see Figure below).
 
--[x] Sustainable product funds: focus on greening supply chains for those with net-zero and sustainable sourcing commitments.
--[x] Nature+ funds: invest directly in NCS to provide financial and nonfinancial returns for long-term investors.
--[x] Carbon pure play funds: secure carbon credits from NCS investments within a broader carbon sequestration portfolio.
+- [x] Sustainable product funds: focus on greening supply chains for those with net-zero and sustainable sourcing commitments.
+- [x] Nature+ funds: invest directly in NCS to provide financial and nonfinancial returns for long-term investors.
+- [x] Carbon pure play funds: secure carbon credits from NCS investments within a broader carbon sequestration portfolio.
 
 <figure markdown>
 ![NCS Funds](https://armanriazi.github.io/refi/assets/attachments/NCS_funds.png){ width=800 height=600 align=center }
@@ -151,9 +153,9 @@ An offset market is created when a law requires companies to offset their negati
 
 Creating a biodiversity offset market requires three things[^24]:
 
--[x] New legislation introducing mandatory restoration targets, in order to create the demand.
--[x] A policy framework that considers that restoration compensates for destruction taking place elsewhere and at a different time;
--[x] A market framework allowing for the free trading of offset permits.
+- [x] New legislation introducing mandatory restoration targets, in order to create the demand.
+- [x] A policy framework that considers that restoration compensates for destruction taking place elsewhere and at a different time;
+- [x] A market framework allowing for the free trading of offset permits.
 
 Let’s take the example of a company wanting to build an airport in the South of Spain in an area that is a habitat for flamingos. With biodiversity offsetting, the law would allow the construction of the airport, provided that the company tries to avoid or minimize the impact on biodiversity. Any residual impact must be offset by recreating a habitat for flamingos within a radius of X kilometres[^24].
 
@@ -217,11 +219,11 @@ Everyone who is taking actions that remove or avoid emissions — for example co
 
 One carbon credit is a unique, independently verified reduction of greenhouse gases (GHGs) traceable back to the carbon project that generated the emission reduction. Project types include forestry and other land use projects, emission reductions in industrial processes; carbon projects are[^60]:
 
--[x] Real – the project’s carbon reduction is measurable[^60].
--[x] Additional – the value of reductions must be beyond “business as usual.”[^60].
--[x] Verified – An independent and qualified third party has conducted a detailed reviewed of all aspects of the carbon project, and attests to the emission reduction claim[^60].
--[x] Registered – Carbon credits are unique, serialized, tracked and can be retired only once[^60].
--[x] Permanent – The GHG removal, represented by carbon credits, is permanent and cannot be reversed. For forest projects, the project registrar provides a robust buffer system to account for any unforeseen reversals (forest fire, etc.)[^60].
+- [x] Real – the project’s carbon reduction is measurable[^60].
+- [x] Additional – the value of reductions must be beyond “business as usual.”[^60].
+- [x] Verified – An independent and qualified third party has conducted a detailed reviewed of all aspects of the carbon project, and attests to the emission reduction claim[^60].
+- [x] Registered – Carbon credits are unique, serialized, tracked and can be retired only once[^60].
+- [x] Permanent – The GHG removal, represented by carbon credits, is permanent and cannot be reversed. For forest projects, the project registrar provides a robust buffer system to account for any unforeseen reversals (forest fire, etc.)[^60].
 
 The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance[^46].
 
@@ -305,14 +307,14 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 </figure>
 
 <figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/vcm_mrv.png){ width=800 height=600 align=center }
-<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2]</figcaption>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/vcm_mrv.png){ width=600 height=400 align=center }
+<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[^2]</figcaption>
 </figure>
 
 
 <figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/kimadao_issues_vcm.png){ width=800 height=600 align=center }
-<figcaption>Source: Credits and capital flows on the voluntary carbon market[42]</figcaption>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/kimadao_issues_vcm.png){ width=600 height=800 align=center }
+<figcaption>Source: Credits and capital flows on the voluntary carbon market[^42]</figcaption>
 </figure>
 
 ### Real Carbon Credit
@@ -320,11 +322,11 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 `How do I know that a carbon credit is real? What are the standards used to verify carbon credits?`
 :   Carbon projects are governed by the GHG Registries[^60].
 
--[x] Climate Action Reserve (CAR) –  A carbon offset registry for the U.S., Mexico and Canad[^60].
--[x] VERRA – Verra registers carbon projects under a several different standards. The recognizable Verified Carbon Standard (VCS) is the largest carbon project registry for the worldwide voluntary carbon market. Other Verra standards ensure that carbon projects are also meeting human and ecological needs, such as the Climate Community and Biodiversity standard and the Sustainable Development Verified Impact Standard (SD VISta) ensures that the carbon projects are also meeting both human and ecological needs[^60].
--[x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets[^60].
--[x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals[^60].
--[x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world[^60].
+- [x] Climate Action Reserve (CAR) –  A carbon offset registry for the U.S., Mexico and Canad[^60].
+- [x] VERRA – Verra registers carbon projects under a several different standards. The recognizable Verified Carbon Standard (VCS) is the largest carbon project registry for the worldwide voluntary carbon market. Other Verra standards ensure that carbon projects are also meeting human and ecological needs, such as the Climate Community and Biodiversity standard and the Sustainable Development Verified Impact Standard (SD VISta) ensures that the carbon projects are also meeting both human and ecological needs[^60].
+- [x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets[^60].
+- [x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals[^60].
+- [x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world[^60].
 
 # Standards
 
