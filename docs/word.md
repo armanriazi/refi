@@ -142,6 +142,8 @@ musings[n]
 
 comply with the deadlines given
 
+The area demarcated by the yellow rectangle 
+
 we seek to empower ambitious innovators to get involved with ReFi
 
 meaningful action
