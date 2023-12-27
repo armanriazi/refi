@@ -1,5 +1,5 @@
 ---
-keywords:   armanriazi ArmanRiazi ReFi Standard
+keywords:   armanriazi ArmanRiazi ReFi Standard CCB CAR Vera GSF GHG
 tags:
   - Standard
   - ReFi
@@ -46,10 +46,7 @@ The Climate Action Reserve is the premier North American GHG registry. Its publi
 `What sets it apart from other standards?`
 : CAR protocols are used by the California Air Resource Board and their administration of the California Cap-and-Trade program [60].
 
+# CDM
+The Clean Development Mechanism, allows a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in developing countries. Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets [61].
 
-
-Different requlations and blockchain implications
-CSRD OR ESRS
-EU Taxonomy
-CSDDD
-Battery Pass
+The mechanism is seen by many as a trailblazer. It is the first global, environmental investment and credit scheme of its kind, providing a standardized emissions offset instrument, CERs. A CDM project activity might involve, for example, a rural electrification project using solar panels or the installation of more energy-efficient boilers. The mechanism stimulates sustainable development and emission reductions, while giving industrialized countries some flexibility in how they meet their emission reduction or limitation targets [61].

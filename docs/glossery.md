@@ -47,6 +47,8 @@ hide:
 
 > `CAR` Climate Action Reserve
 
+> `CDM` The Clean Development Mechanism
+
 > `Tokenomics` token + economics
 
 > `OFP` Open Forest Protocol

@@ -145,14 +145,21 @@ There are two main methods [^24]:
 
 2.  Stated preference methods: these methods are mostly based on surveys. People are being asked how much they are willing to pay for a natural site not to be destroyed, or inversely how much they want to receive in exchange for its destruction. As an example, a 1980 survey asked residents of Chicago how much they would be willing to pay to preserve the visibility over the Grand Canyon. The average price was $90. A similar survey was conducted a year and a half later, and the average answer came this time at $169 [^24].
 
-# Blockchain
+
+# Towards Generating Value Carbon Reduction for Carbon Offset Footprint to Produce Carbon Credit
+
+## Blockchain
 
 In the recent years, tokenization of (physical) assets and the creation of a digital version that is stored on the blockchain gained more interest. By utilizing blockchain technology, asset ownership can be tokenized, which enables fractional ownership, reduces intermediaries, and provides a secure and transparent ledger. This not only increases liquidity but also expands access to previously illiquid assets (like carbon offsets). The blockchain ledger allows for real-time settlement of transactions, increasing efficiency and reducing the risk of fraud. Additionally, tokens can be programmed to include certain rules and restrictions, such as limiting the number of tokens that can be issued or specifying how they can be traded, which can provide greater transparency and control over the asset [^43].
 
+### Re-fungibility
 
-## Towards Generating Value Carbon Reduction for Carbon Offset Footprint to Produce Carbon Credit
+Re-fungibility is an important step towards building real life models of ownership rights. Often a unique item may be owned by multiple entities in different proportions. The examples of such shared ownership are abundant: Timeshares, co-ownership of art, fractional car ownership, etc. For that purpose, Unique Network provides the special mode of Collection: Re-Fungible. The Re-fungible token can be minted and then partially transferred to multiple owners [17].
 
-`Carbon offset solution`
+### Fungible collection mode
+Fungible collection mode is targeted at the same set of use cases as ERC-20 tokens. Any non-unique and divisible resource can be represented as a Fungible token. While these use cases are not the prime focus of Unique Network, many applications need this functionality in parallel to the NFT the examples include: non-unique game resources, rating points in applications with social networking capabilities, voting tokens, etc [17].
+
+## Carbon offset solution
 
 The solar panels provide information regarding their electricity generation, from which a figure is derived that represents the amount of carbon avoided and fed into a smart contract. A smart contract is a self-executing application that exist on the blockchain and performs actions based on its underlying code. In the blockchain-based carbon offset process, smart contracts convert the different tokens and send them to the owner’s wallet. The tokens used within the process are compliant with the ERC-721 Non-Fungible Token (NFT) standard, which represents a unique token that is distinguishable from others and cannot be exchanged for other units of the same asset. A practical example is a work of art that, even if replicated, is always slightly different [^43].
 
@@ -168,21 +175,31 @@ In the first stage of the process, the owner claims a carbon receipt, based on t
 <figcaption>Toucan carbon credit model [^46].</figcaption>
 </figure>
 
-### Re-fungibility
-
-Re-fungibility is an important step towards building real life models of ownership rights. Often a unique item may be owned by multiple entities in different proportions. The examples of such shared ownership are abundant: Timeshares, co-ownership of art, fractional car ownership, etc. For that purpose, Unique Network provides the special mode of Collection: Re-Fungible. The Re-fungible token can be minted and then partially transferred to multiple owners [17].
-
-##### Fungible collection mode
-Fungible collection mode is targeted at the same set of use cases as ERC-20 tokens. Any non-unique and divisible resource can be represented as a Fungible token. While these use cases are not the prime focus of Unique Network, many applications need this functionality in parallel to the NFT the examples include: non-unique game resources, rating points in applications with social networking capabilities, voting tokens, etc [17].
 
 ### Tokenization
 Tokenized carbon assets can be traded on a secondary market, ensuring a price mechanism for CO2. That enables for example asset managers and companies to incorporate carbon offsets directly into their offerings [^4].
 
 Tokenization can aid the voluntary carbon market in a range of ways, including by increasing liquidity and accessibility. Buyers and sellers can more easily trade credits, which can help to increase demand for credits and reduce volatility in the market. Tokenization can also help to reduce transaction costs and provide faster settlement times. The use of blockchain technology also increases transparency and tracking: it allows for the creation of a permanent, immutable record of all transactions, thereby enhancing the VCM’s credibility, as it provides a clear record of the history of each carbon credit. It can also help to reduce the risk of fraud and ensure that carbon credits are properly accounted for [^11].
 
-### How carbon credits are generated?
+### Carbon Credit
+
+A carbon credit is a unit of exchange that businesses, organizations and individuals can use to offset their greenhouse gas emissions. One carbon credit is equivalent to one metric ton of greenhouse gases removed from the atmosphere. A carbon credit and a carbon offset are synonymous terminology [60].
+
+#### Who’s buying carbon credits?
+
+There are two flavors of carbon markets, the large worldwide compliance market and the smaller voluntary market [60].
+
+#### How carbon credits are generated?
 
 Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs [^46].
+
+One carbon credit is a unique, independently verified reduction of greenhouse gases (GHGs) traceable back to the carbon project that generated the emission reduction. Project types include forestry and other land use projects, emission reductions in industrial processes; carbon projects are [60]:
+
+- [x] Real – the project’s carbon reduction is measurable [60].
+- [x] Additional – the value of reductions must be beyond “business as usual.”  [60].
+- [x] Verified – An independent and qualified third party has conducted a detailed reviewed of all aspects of the carbon project, and attests to the emission reduction claim [60].
+- [x] Registered – Carbon credits are unique, serialized, tracked and can be retired only once [60].
+- [x] Permanent – The GHG removal, represented by carbon credits, is permanent and cannot be reversed. For forest projects, the project registrar provides a robust buffer system to account for any unforeseen reversals (forest fire, etc.) [60].
 
 The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance [^46].
 
@@ -191,7 +208,7 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 :    Time from project inception to credit issuance: 3-5 years [^46].
 :    Cost to get the first project certification: $50-100k [^46].
 
-### How can carbon credit tokenization help the VCM [^46]?
+#### How can carbon credit tokenization help the VCM [^46]?
 
 - [x] Efficiency & Disintermediation
 - [x] Healthier and more open markets
@@ -208,7 +225,6 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 ![Benefits of Tokenized Carbon Credits](https://armanriazi.github.io/refi/assets/attachments/sulolab.jpg){ width=600 height=400 align=center }
 <figcaption>Benefits of Tokenized Carbon Credits [^44].</figcaption>
 </figure>
-
 
 #### Increased Accessibility
 
@@ -236,18 +252,19 @@ Smart contracts automate credit issuance, payments, transfers, and retirement, s
 
 Tokenization provides transparent pricing data, increasing market efficiency and competition [^44].
 
-# Protocol
-## Kyoto
 
-While the Kyoto Protocol provided a framework for reducing the greenhouse gas emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an updated version of the gtap-e general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios [^20].
+### How do I know that a carbon credit is real? 
 
-<figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
-<figcaption>Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
-25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model. [^20]</figcaption>
-</figure>
+`What are the standards used to verify carbon credits?`
+:   Carbon projects are governed by the GHG Registries.
 
-# Standard
+- [x] Climate Action Reserve (CAR) –  A carbon offset registry for the U.S., Mexico and Canada.
+- [x] VERRA – Verra registers carbon projects under a several different standards. The recognizable Verified Carbon Standard (VCS) is the largest carbon project registry for the worldwide voluntary carbon market. Other Verra standards ensure that carbon projects are also meeting human and ecological needs, such as the Climate Community and Biodiversity standard and the Sustainable Development Verified Impact Standard (SD VISta) ensures that the carbon projects are also meeting both human and ecological needs.
+- [x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets.
+- [x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals.
+- [x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world.
+
+# Standards
 
 ## CCB
  The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation [58].
@@ -266,6 +283,20 @@ Gold Standard Foundation established by the World Wildlife Fund in 2003 and base
 ## CAR
 
 The Climate Action Reserve is the premier North American GHG registry. Its published protocols are used by the California Cap-and-Trade program [60].
+
+# CDM
+The Clean Development Mechanism, allows a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in developing countries. Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets [61].
+
+# Protocols
+## Kyoto
+
+While the Kyoto Protocol provided a framework for reducing the greenhouse gas emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an updated version of the gtap-e general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios [^20].
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
+<figcaption>Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
+25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model. [^20]</figcaption>
+</figure>
 
 ---
 
