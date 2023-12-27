@@ -39,6 +39,14 @@ hide:
 
 > `NCS` Natural climate solutions
 
+> `CCB Standards` Community and Biodiversity Standards
+
+> `GSF` Gold Standard Foundation
+
+> `ACR` American Carbon Registry
+
+> `CAR` Climate Action Reserve
+
 > `Tokenomics` token + economics
 
 > `OFP` Open Forest Protocol

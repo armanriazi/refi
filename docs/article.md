@@ -247,6 +247,26 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model. [^20]</figcaption>
 </figure>
 
+# Standard
+
+## CCB
+ The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation [58].
+
+### Vera CCB
+The Verra Registry is the central repository for all information and documentation related to CCB projects. The registry facilitates public comment periods, and records the generation, retirement, and cancellation of all Verified Carbon Units that bear a CCB label, which indicates that an emission reduction unit was generated during a CCB-verified period [59].
+
+### American CCB
+
+American Carbon Registry(ACR) Founded as a nonprofit entity in 1996 by Winrock International, American Carbon Registry (ACR) is the first voluntary offset program and **focuses on the voluntary market** and the **California Cap-and-Trade program** in the U.S. CCB Projects are predominantly specific to land use. An independent third-party verifies the social benefits that accompany a CCB certified carbon project [60].
+
+## GSF
+
+Gold Standard Foundation established by the World Wildlife Fund in 2003 and based in Geneva, Switzerland, the Gold Standard Foundation administers a secure and transparent transaction between climate funders, climate security, and sustainable development [60].
+
+## CAR
+
+The Climate Action Reserve is the premier North American GHG registry. Its published protocols are used by the California Cap-and-Trade program [60].
+
 ---
 
 [^1]:

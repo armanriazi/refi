@@ -127,6 +127,12 @@ hide:
 
 [57]: (n.d.-d). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/cop28
 
+[58]: CCBA. (n.d.). Climate-standards.org. Retrieved December 27, 2023, from https://www.climate-standards.org/
+
+[59]: Climate, community & biodiversity standards. (2022, October 17). Verra. https://verra.org/programs/ccbs/
+
+[60]: Registries archive - EcoSoul partners. (n.d.). Ecosoul.Io. Retrieved December 27, 2023, from https://www.ecosoul.io/registry/
+
 
 ---
 
