@@ -28,7 +28,7 @@ the focus of regenerative finance is on initiatives that have the potential to g
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=400 height=200 align=center }
-<figcaption>Diagram of impact: From conventional design to regenerative design[^12]</figcaption>
+<figcaption>Diagram of impact: From conventional design to regenerative design [^12]</figcaption>
 </figure>
 
 ## Eight Principles of a regenerative economy
@@ -460,10 +460,10 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 
 [^48]: Markets in crypto Assets Regulation (MiCAR). (n.d.). Centralbank.Ie. Retrieved December 2, 2023, from https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation
 
-[^49] (European Commission. Joint Research Centre et al., 2019)
+[^49]: (European Commission. Joint Research Centre et al., 2019)
 European Commission. Joint Research Centre, Anderberg A., Andonova E., Bellia M., Calès L., Inamorato dos Santos A., Kounelis I., Nai Fovino I., Petracco Giudici M., Papanagiotou E., Sobolewski M., Rossetti F., & Spirito L. (2019). Blockchain now and tomorrow : assessing multidimensional impacts of distributed ledger technologies. Publications Office. from https://dx.doi.org/10.2760/901029
 
-[^50] (“Britannica Money: Where your financial journey begins,” n.d.) Britannica Money: Where your financial journey begins. (n.d.). In Encyclopedia Britannica. https://www.britannica.com/money
+[^50]: (“Britannica Money: Where your financial journey begins,” n.d.) Britannica Money: Where your financial journey begins. (n.d.). In Encyclopedia Britannica. https://www.britannica.com/money
 
 [^51]: The ESRS adopts the CSRD! (2023, August 29). Linkedin.com. https://www.linkedin.com/pulse/esrs-adopts-csrd-greenly-earth/
 
