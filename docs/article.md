@@ -1,3 +1,18 @@
+---
+tags:
+  - Standard
+  - ReFi
+title: "ReFi Article"
+author: "Arman Riazi"
+search:
+  exclude: false
+type:  Standards
+feature:  Standard
+author: "Arman Riazi"
+show:
+  - feedback
+---
+
 # Regenerative Finance
 Regenerative finance (ReFi) also overlaps with the decentralized science (DeSci) movement, ReFi is a set of tools and ideas built on top of blockchains, that aim to create economies which are regenerative, rather than extractive or exploitative. Eventually, extractive systems deplete the resources available and collapse; without regenerative mechanisms, they lack resilience [^1].
 
@@ -203,10 +218,12 @@ One carbon credit is a unique, independently verified reduction of greenhouse ga
 
 The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance [^46].
 
+<!--
 `Averages`
 :    Time elapsed before the developer can secure funding: 1-2 years [^46].
 :    Time from project inception to credit issuance: 3-5 years [^46].
 :    Cost to get the first project certification: $50-100k [^46].
+-->
 
 #### How can carbon credit tokenization help the VCM [^46]?
 
@@ -256,13 +273,13 @@ Tokenization provides transparent pricing data, increasing market efficiency and
 ### How do I know that a carbon credit is real? 
 
 `What are the standards used to verify carbon credits?`
-:   Carbon projects are governed by the GHG Registries.
+:   Carbon projects are governed by the GHG Registries [60].
 
-- [x] Climate Action Reserve (CAR) –  A carbon offset registry for the U.S., Mexico and Canada.
-- [x] VERRA – Verra registers carbon projects under a several different standards. The recognizable Verified Carbon Standard (VCS) is the largest carbon project registry for the worldwide voluntary carbon market. Other Verra standards ensure that carbon projects are also meeting human and ecological needs, such as the Climate Community and Biodiversity standard and the Sustainable Development Verified Impact Standard (SD VISta) ensures that the carbon projects are also meeting both human and ecological needs.
-- [x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets.
-- [x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals.
-- [x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world.
+- [x] Climate Action Reserve (CAR) –  A carbon offset registry for the U.S., Mexico and Canad [60].
+- [x] VERRA – Verra registers carbon projects under a several different standards. The recognizable Verified Carbon Standard (VCS) is the largest carbon project registry for the worldwide voluntary carbon market. Other Verra standards ensure that carbon projects are also meeting human and ecological needs, such as the Climate Community and Biodiversity standard and the Sustainable Development Verified Impact Standard (SD VISta) ensures that the carbon projects are also meeting both human and ecological needs [60].
+- [x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets [60].
+- [x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals [60].
+- [x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world [60].
 
 # Standards
 
@@ -284,7 +301,7 @@ Gold Standard Foundation established by the World Wildlife Fund in 2003 and base
 
 The Climate Action Reserve is the premier North American GHG registry. Its published protocols are used by the California Cap-and-Trade program [60].
 
-# CDM
+## CDM
 The Clean Development Mechanism, allows a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in developing countries. Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets [61].
 
 # Protocols
