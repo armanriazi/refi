@@ -430,6 +430,7 @@ Approximately 50.000 European companies will be subject to the first round of CS
 Unlike most other reporting frameworks, the CSRD requires companies to assess “double materiality”. In addition, corporate data repositories are being developed in jurisdictions such as the European Union to make data publicly available[^53].
 
 ## Other Regulations Exist in Other Geographies
+
 The Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), and the Internal Revenue Service (IRS) each have unique interpretations of cryptocurrencies[^50].
 ---
 
