@@ -13,20 +13,8 @@ hide:
   - feedback
 ---
 
-# Problem
 
-The planetary boundary framework, while providing a useful model for measuring change, is not fully accepted by all scientists. Some note that because the nine boundaries are all so deeply interconnected, it can be challenging to separate them out and evaluate each individually in a meaningful way. This is especially true for land system change, which underpins and influences nearly every other boundary[^27]. Another criticism is that the land system boundary focuses on forests exclusively, and not on any other ecosystem type[^27].
-Companies that produce and sell major agricultural commodities to address deforestation within their operations and supply chains. Tools such as TRASE now provide supply chain mapping, but they don’t yet have the capacity to monitor at the detailed scales needed to change industries and halt deforestation [27].
-
-<figure markdown>
-![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/PB.png){ width=600 height=400 align=center }
-<figcaption>Planetary Boundary(PB) [28].</figcaption>
-</figure>
-
-The green zone is the safe operating space, the yellow represents the zone of uncertainty (increasing risk), and the red is a high-risk zone.The planetary boundary itself lies at the intersection of the green and yellow zones. The control variables have been normalized for the zone of uncertainty; the center of the figure therefore does not represent values of 0 for the control variables.The control variable shown for climate change is atmospheric CO2 concentration. Processes for which global-level boundaries cannot yet be quantified are represented by gray wedges; these are atmospheric aerosol loading, novel entities, and the functional role of biosphere integrity [^27].
-Three of the PBs (climate change, stratospheric ozone depletion, and ocean acidification) remain essentially unchanged from the earlier analysis[^27].
-
-# Regenerative Finance
+# Introduction 
 Regenerative finance (ReFi) also overlaps with the decentralized science (DeSci) movement, ReFi is a set of tools and ideas built on top of blockchains, that aim to create economies which are regenerative, rather than extractive or exploitative. Eventually, extractive systems deplete the resources available and collapse; without regenerative mechanisms, they lack resilience[^1].
 
 ReFi operates on the assumption that the creation of monetary value must be decoupled from the unsustainable extraction of resources from our planet and communities.  regenerative activities like planting trees, removing plastic from the ocean, or restoring a degraded ecosystem. Facilitate large-scale collaboration on global issues such as climate change and biodiversity loss[^1].
@@ -59,6 +47,19 @@ the focus of regenerative finance is on initiatives that have the potential to g
 
 Regenerative is seeking strategies for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”. Sustainable companies aim to maintain the current state of natural systems in the present: they focus on reducing negative impact, preventing further degradation, and conserving resources[^13]
 
+# Problem Statement
+
+The planetary boundary framework, while providing a useful model for measuring change, is not fully accepted by all scientists. Some note that because the nine boundaries are all so deeply interconnected, it can be challenging to separate them out and evaluate each individually in a meaningful way. This is especially true for land system change, which underpins and influences nearly every other boundary[^27]. Another criticism is that the land system boundary focuses on forests exclusively, and not on any other ecosystem type[^27].
+Companies that produce and sell major agricultural commodities to address deforestation within their operations and supply chains. Tools such as TRASE now provide supply chain mapping, but they don’t yet have the capacity to monitor at the detailed scales needed to change industries and halt deforestation [27].
+
+<figure markdown>
+![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/PB.png){ width=600 height=400 align=center }
+<figcaption>Planetary Boundary(PB) [28].</figcaption>
+</figure>
+
+The green zone is the safe operating space, the yellow represents the zone of uncertainty (increasing risk), and the red is a high-risk zone.The planetary boundary itself lies at the intersection of the green and yellow zones. The control variables have been normalized for the zone of uncertainty; the center of the figure therefore does not represent values of 0 for the control variables.The control variable shown for climate change is atmospheric CO2 concentration. Processes for which global-level boundaries cannot yet be quantified are represented by gray wedges; these are atmospheric aerosol loading, novel entities, and the functional role of biosphere integrity [^27].
+Three of the PBs (climate change, stratospheric ozone depletion, and ocean acidification) remain essentially unchanged from the earlier analysis[^27].
+
 # Regenerative Economic
 
 Regenerative economics can be viewed as applying the natural laws and patterns of systemic health, self-organization, self-renewal, and regenerative vitality to socioeconomic systems[^12].
@@ -74,11 +75,10 @@ Environmental, social, and governance (ESG) factors into capital allocation and 
 
 # Digital transformation and Blockchain
 
-Global climate infrastructure, tools and coordination technologies are needed to keep pace with the changing planetary ecosystem, transcend borders and span social, economic, cultural and governmental domains. This is where blockchain can help[2].
-Blockchain is one of several emerging technologies being explored to address urgent environmental issues such as biodiversity loss, disaster displacement and energy grid deficiencies, as well as resource allocation and coordination –all critical parts of this complex, intersectional, intergenerational and multicultural climate challenge. The defining qualities of blockchains – decentralized, open and global – make them powerful tools that can provide breadth and depth to current climate mitigation and adaptation efforts[2].
+Global climate infrastructure, tools and coordination technologies are needed to keep pace with the changing planetary ecosystem, transcend borders and span social, economic, cultural and governmental domains. This is where blockchain can help[^2].
+Blockchain is one of several emerging technologies being explored to address urgent environmental issues such as biodiversity loss, disaster displacement and energy grid deficiencies, as well as resource allocation and coordination –all critical parts of this complex, intersectional, intergenerational and multicultural climate challenge. The defining qualities of blockchains – decentralized, open and global – make them powerful tools that can provide breadth and depth to current climate mitigation and adaptation efforts[^2].
 
-Blockchain can democratize ownership and reallocate resources to shift power dynamics to the people most knowledgeable of, and most vulnerable to, the effects of climate change. Blockchain could also improve the transparency and integrity of existing decarbonization mechanisms like carbon markets. When paired with digital tools for measurement, reporting and verification (MRV) – such as remote sensors, drone imagery and AI – digital environmental assets and carbon accounting systems can provide real-time visibility into the effectiveness of emissions reduction and sequestration efforts[2].
-
+Blockchain can democratize ownership and reallocate resources to shift power dynamics to the people most knowledgeable of, and most vulnerable to, the effects of climate change. Blockchain could also improve the transparency and integrity of existing decarbonization mechanisms like carbon markets. When paired with digital tools for measurement, reporting and verification (MRV) – such as remote sensors, drone imagery and AI – digital environmental assets and carbon accounting systems can provide real-time visibility into the effectiveness of emissions reduction and sequestration efforts[^2].
 
 # dMRV
 
@@ -182,7 +182,7 @@ There are two main methods[^24]:
 
 2.  Stated preference methods: these methods are mostly based on surveys. People are being asked how much they are willing to pay for a natural site not to be destroyed, or inversely how much they want to receive in exchange for its destruction. As an example, a 1980 survey asked residents of Chicago how much they would be willing to pay to preserve the visibility over the Grand Canyon. The average price was $90. A similar survey was conducted a year and a half later, and the average answer came this time at $169[^24].
 
- ## NaaAC
+ ### NaaAC
 
 We’re referring Nature Qualify as an Asset Class to investments in land- and water-based projects or businesses that are pursuing financial returns alongside ecological and social impacts. These impacts are achieved through nature conservation, ecosystem regeneration, regenerative uses of productive landscapes, and reductions in the drivers of biodiversity loss. These projects are monetized through the sale of high-quality carbon offsets, biodiversity credits, ecotourism, endangered species credits, lumber, food, consumer products made with local ingredients, and more. The markets are varied, but the theme is consistent[^23].
 
@@ -304,7 +304,7 @@ Carbon markets are trading systems in which carbon credits are sold and bought. 
 
 One tradable carbon credit equals one tonne of carbon dioxide or the equivalent amount of a different greenhouse gas reduced, sequestered or avoided. When a credit is used to reduce, sequester, or avoid emissions, it becomes an offset and is no longer tradable[^17].
 
-One of the major problems of carbon markets is the potential for fraud or double-counting of credits. By building ReFi on the blockchain a new form of transparency is introduced that would eliminate the possibility of the same credit being counted twice. On-chain carbon credits are #traceable and #immutable meaning that no two people are able to claim the same credit twice. Burning (or retiring) on-chain credits ensures that they cannot be used again. One company enabling carbon on-chain is Toucan Protocol[^21].
+One of the major problems of carbon markets is the potential for fraud or double-counting of credits. By building ReFi on the blockchain a new form of transparency is introduced that would eliminate the possibility of the same credit being counted twice. On-chain carbon credits are traceable and immutable meaning that no two people are able to claim the same credit twice. Burning (or retiring) on-chain credits ensures that they cannot be used again. One company enabling carbon on-chain is Toucan Protocol[^21].
 There are two flavors of carbon markets, the large worldwide compliance market and the smaller voluntary market[^60].
 
 #### Compliance Market
@@ -313,7 +313,7 @@ The Clean Development Mechanism (CDM), adopted under the Kyoto Protocol in 1997,
 
 #### Voluntary Market
 
-Voluntary carbon market: Where private individuals, corporations and other actors issue, buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [2]. The voluntary carbon market (VCM) is an existing market mechanism that the global community can use to channel enterprise capital into land conservation and environmental stewardship. According to a recent McKinsey report, “Voluntary carbon credits direct private financing to climate projects that would not otherwise get off the ground, and they support investment into innovation required to lower the cost of emerging climate technologies”[^2].
+Voluntary carbon market: Where private individuals, corporations and other actors issue, buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [^2]. The voluntary carbon market (VCM) is an existing market mechanism that the global community can use to channel enterprise capital into land conservation and environmental stewardship. According to a recent McKinsey report, “Voluntary carbon credits direct private financing to climate projects that would not otherwise get off the ground, and they support investment into innovation required to lower the cost of emerging climate technologies”[^2].
 
 A fully digital VCM will demonstrate marketmaking and growth capabilities. Digitizing the VCM is currently the leading use case for blockchain innovations in the climate space. Key challenges such as market fragmentation,analogue reporting and verification procedures leading to bottlenecks in credit issuance, and limited price discovery have stymied the growth of the VCM for over two decades[^2].
 
@@ -326,7 +326,7 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/vcm_mrv.png){ width=600 height=400 align=center }
-<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[2].</figcaption>
+<figcaption>Source: “Carbon Markets Initiative”, RMI, n.d.[^2].</figcaption>
 </figure>
 
 
