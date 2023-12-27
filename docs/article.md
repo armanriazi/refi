@@ -232,16 +232,16 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 :    Cost to get the first project certification: $50-100k[^46].
 -->
 
-#### How can carbon credit tokenization help the VCM[^46]?
+#### How can carbon credit tokenization help the VCM?[^46]
 
--[x] Efficiency & Disintermediation
--[x] Healthier and more open markets
--[x] Liquid marketplaces
--[x] Price discovery
--[x] Eliminate double counting
--[x] New sources of demand
--[x] Better financing for developers
--[x] Fractionalization
+- [x] Efficiency & Disintermediation
+- [x] Healthier and more open markets
+- [x] Liquid marketplaces
+- [x] Price discovery
+- [x] Eliminate double counting
+- [x] New sources of demand
+- [x] Better financing for developers
+- [x] Fractionalization
 
 ### Benefits of Tokenized Carbon Credits
 
@@ -458,9 +458,10 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 
 [^48]: Markets in crypto Assets Regulation (MiCAR). (n.d.). Centralbank.Ie. Retrieved December 2, 2023, from https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation
 
-[^49] European Commission. Joint Research Centre, Anderberg A., Andonova E., Bellia M., Calès L., Inamorato dos Santos A., Kounelis I., Nai Fovino I., Petracco Giudici M., Papanagiotou E., Sobolewski M., Rossetti F., & Spirito L. (2019). Blockchain now and tomorrow : assessing multidimensional impacts of distributed ledger technologies. Publications Office.
+[^49] (European Commission. Joint Research Centre et al., 2019)
+European Commission. Joint Research Centre, Anderberg A., Andonova E., Bellia M., Calès L., Inamorato dos Santos A., Kounelis I., Nai Fovino I., Petracco Giudici M., Papanagiotou E., Sobolewski M., Rossetti F., & Spirito L. (2019). Blockchain now and tomorrow : assessing multidimensional impacts of distributed ledger technologies. Publications Office. from https://dx.doi.org/10.2760/901029
 
-[^50] Britannica Money. (n.d.). In Encyclopedia Britannica.
+[^50] (“Britannica Money: Where your financial journey begins,” n.d.) Britannica Money: Where your financial journey begins. (n.d.). In Encyclopedia Britannica. https://www.britannica.com/money
 
 [^51]: The ESRS adopts the CSRD! (2023, August 29). Linkedin.com. https://www.linkedin.com/pulse/esrs-adopts-csrd-greenly-earth/
 
