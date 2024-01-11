@@ -13,16 +13,15 @@ hide:
   - feedback
 ---
 
-# Understanding the Landscape of Regenerating Finance and Strategies
+# Understanding the Landscape of Regenerating Finance and Digital Transformation
 
 `armanriazi.github.io@gmail.com`
 
 `Ordcid: 0000-0003-3729-6290`
 
 # Abstract
-In today's rapidly evolving financial landscape, regenerative finance is a topic that has generated a lot of interest.
-This article is a overview of carbon offsetting, digital transformation, and natural climate solutions. ReFi is still in early stages of development; it lacks a precise definition of what constitutes a ReFi project and how its various parts work together to achieve the overall goals. It is not well defined, but fortunately, web3 registry networks, which are decentralized networks based on blockchain technology, are on the horizon. They provide a strong infrastructure for project registration and impact tracking, allowing regenerative finance to reach its full potential.
-
+In today's rapidly evolving financial landscape, regenerative finance is a topic that has generated a lot of interest. This article is an overview of carbon offsetting, digital transformation, and natural climate solutions. ReFi is still in early stages of development; it lacks a precise definition of what constitutes a ReFi project and how its various parts work together to achieve the overall goals. It is not well defined, but fortunately, web3 registry networks, which are decentralized networks based on blockchain technology, are on the horizon. They provide a strong infrastructure for project registration and impact tracking, allowing regenerative finance to reach its full potential.
+In recent times, a burgeoning discourse has emerged concerning the worldwide ramifications of greenhouse gas emissions, inciting demands for digital transformation to ascertain the technology of system integrity that is apt to solve global quandaries. Furthermore, we provide a collection of principles derived from the standards and protocols on regenerative economics for the purposeful overview of ReFi ecosystems.
 
   *Keywords:* Carbon Credit, Regenerative Finance, Web 3, money and sustainability
 
@@ -37,7 +36,7 @@ Regenerative finance doesn’t refer to any specific cryptocurrency; rather, it 
 
 the focus of regenerative finance is on initiatives that have the potential to go beyond addressing existing problems and actively work to restore and rebuild natural systems and build resilience for the future[^33].
 
-“ReFi stands for Regenerative Finance and refers to a large-scale financial system that operates in a non-extractive way. A portion of the value generated and transferred flows back to the planet, and climate-positive actions become financially rewarding.” - Toucan protocol[^34]
+ReFi stands for Regenerative Finance and refers to a large-scale financial system that operates in a non-extractive way. A portion of the value generated and transferred flows back to the planet, and climate-positive actions become financially rewarding[^34].
 
 ReFi stands for Regenerative Finance, and it broadly relates to a movement aiming to use finance as a way to support regenerative and restorative outcomes in social, environmental, and economic systems[^35].
 
@@ -62,14 +61,14 @@ Regenerative is seeking strategies for less harmful social and environmental pra
 
 # Problem Statement
 The planetary boundary framework, while providing a useful model for measuring change, is not fully accepted by all scientists. Some note that because the nine boundaries are all so deeply interconnected, it can be challenging to separate them out and evaluate each individually in a meaningful way. This is especially true for land system change, which underpins and influences nearly every other boundary[^26]. Another criticism is that the land system boundary focuses on forests exclusively, and not on any other ecosystem type[^26].
-Companies that produce and sell major agricultural commodities to address deforestation within their operations and supply chains. Tools such as TRASE now provide supply chain mapping, but they don’t yet have the capacity to monitor at the detailed scales needed to change industries and halt deforestation [27].
+Companies that produce and sell major agricultural commodities to address deforestation within their operations and supply chains. Tools such as TRASE now provide supply chain mapping, but they don’t yet have the capacity to monitor at the detailed scales needed to change industries and halt deforestation[^27].
 
 <figure markdown>
 ![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/PB.png){ width=600 height=400 align=center }
 <figcaption>Figure 2. Planetary Boundary(PB) [27].</figcaption>
 </figure>
 
-The green zone is the safe operating space, the yellow represents the zone of uncertainty (increasing risk), and the red is a high-risk zone.The planetary boundary itself lies at the intersection of the green and yellow zones. The control variables have been normalized for the zone of uncertainty; the center of the figure therefore does not represent values of 0 for the control variables.The control variable shown for climate change is atmospheric CO2 concentration. Processes for which global-level boundaries cannot yet be quantified are represented by gray wedges; these are atmospheric aerosol loading, novel entities, and the functional role of biosphere integrity [^26].
+The green zone is the safe operating space, the yellow represents the zone of uncertainty (increasing risk), and the red is a high-risk zone.The planetary boundary itself lies at the intersection of the green and yellow zones. The control variables have been normalized for the zone of uncertainty; the center of the figure therefore does not represent values of zero for the control variables.The control variable shown for climate change is atmospheric CO2 concentration. Processes for which global-level boundaries cannot yet be quantified are represented by gray wedges; these are atmospheric aerosol loading, novel entities, and the functional role of biosphere integrity [^26].
 Three of the PBs (climate change, stratospheric ozone depletion, and ocean acidification) remain essentially unchanged from the earlier analysis[^26].
 
 
