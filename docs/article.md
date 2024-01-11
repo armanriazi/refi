@@ -81,6 +81,9 @@ Blockchain is one of several emerging technologies being explored to address urg
 
 Blockchain can democratize ownership and reallocate resources to shift power dynamics to the people most knowledgeable of, and most vulnerable to, the effects of climate change. Blockchain could also improve the transparency and integrity of existing decarbonization mechanisms like carbon markets. When paired with digital tools for measurement, reporting and verification (MRV) – such as remote sensors, drone imagery and AI – digital environmental assets and carbon accounting systems can provide real-time visibility into the effectiveness of emissions reduction and sequestration efforts[^2].
 
+Pachama or Open Forest Protocol (OFP), both marketplaces adopt digital technologies, which are essential to enable digital methods in project monitoring, reporting, and verification (DMRV). 
+Recent technological developments and innovations to reduce the cost of emerging technologies have opened the door to the use of AI, machine learning, satellite imagery, blockchain, smart sensors, the internet of things (IoT), cloud computing, and drones in MRV systems[^6].
+
 # Digital measurement, reporting and verification
 
 <figure markdown>
@@ -113,7 +116,7 @@ Credit registries, such as Verra, now refer to future digital crediting platform
 - [x] a map of forest carbon[^29].
 - [x] a map of forest cover change (deforestation and/or reforestation) to know where carbon has been lost or gained[^29].
 
-Natural assets can now be priced by their value as “carbon sinks,” a.k.a. society’s valuation of a ton of carbon removed from the atmosphere[37].
+Natural assets can now be priced by their value as “carbon sinks,” a.k.a. society’s valuation of a ton of carbon removed from the atmosphere[^37].
 
 <figure markdown>
 ![Decarbonization Pathways](https://armanriazi.github.io/refi/assets/attachments/decarbonization_pathways.png){ width=600 height=400 align=center }
@@ -154,7 +157,7 @@ NCS are ways to sequester carbon through conservation, restoration, and improved
 </figure>
 
 # Offsetting
-Carbon offset processes are currently dominated by private actors providing legitimacy for the market. The two largest of these, Verra and Gold Standard, provide auditing services, carbon registries and a marketplace to sell carbon offsets, making them ubiquitous in the whole process[43].
+Carbon offset processes are currently dominated by private actors providing legitimacy for the market. The two largest of these, Verra and Gold Standard, provide auditing services, carbon registries and a marketplace to sell carbon offsets, making them ubiquitous in the whole process[^43].
 
 Biodiversity offsetting refers to actions, such as restoring degraded land, that are intended to compensate for biodiversity destruction taking place at a different time and place[^24].
 An offset market is created when a law requires companies to offset their negative impact on bi-odiversity, through actions such as restoration projects. These actions grant the right to tradable permits to destroy biodiversity elsewhere. If a company has destroyed more biodiversity than it has permits for, it can either perform “offsetting actions” or buy permits from another company. Correspondingly, a company that owns more permits than it has destroyed can choose to sell its excess permits to another company. The legislation that creates the market determines the rules surrounding the permits[^24].
@@ -181,6 +184,8 @@ If you were making a checklist of criteria in the “What is an Asset Class” s
 
 
 # Blockchain
+The blockchain technology guarantees the tamperproof ledger, transparent transactions, and trustless but secure tradings in a decentralized network. Thus, the blockchain network is recently applied in a wide range of scenarios far beyond crypto-currencies. The case in is similar to the famous Prisoners’ Dilemma in game theory that results in the utility loss of the miners. To avoid the miners’ dilemma, the miners can choose one of the solutions as follows. The first solution is that the miners would intend to join private pools that will not involve the PWH attack. As a result, big mining pools may be divided into many small pools spontaneously, and eventually this may lead to a better environment for the Bitcoin system as a whole [^3].
+
 In the recent years, tokenization of (physical) assets and the creation of a digital version that is stored on the blockchain gained more interest. By utilizing blockchain technology, asset ownership can be tokenized, which enables fractional ownership, reduces intermediaries, and provides a secure and transparent ledger. This not only increases liquidity but also expands access to previously illiquid assets (like carbon offsets). The blockchain ledger allows for real-time settlement of transactions, increasing efficiency and reducing the risk of fraud. Additionally, tokens can be programmed to include certain rules and restrictions, such as limiting the number of tokens that can be issued or specifying how they can be traded, which can provide greater transparency and control over the asset[^43].
 
 ## Re-fungibility
@@ -211,6 +216,8 @@ In the first stage of the process, the owner claims a carbon receipt, based on t
 Tokenized carbon assets can be traded on a secondary market, ensuring a price mechanism for CO2. That enables for example asset managers and companies to incorporate carbon offsets directly into their offerings[^4].
 
 Tokenization can aid the voluntary carbon market in a range of ways, including by increasing liquidity and accessibility. Buyers and sellers can more easily trade credits, which can help to increase demand for credits and reduce volatility in the market. Tokenization can also help to reduce transaction costs and provide faster settlement times. The use of blockchain technology also increases transparency and tracking: it allows for the creation of a permanent, immutable record of all transactions, thereby enhancing the VCM’s credibility, as it provides a clear record of the history of each carbon credit. It can also help to reduce the risk of fraud and ensure that carbon credits are properly accounted for[^11].
+
+Redesigning money requires understanding tokens (digital assets with a specific value) and tokenomics (token + economics), which makes visible and captures all the different forms and the eight manifestations of capital: social, material, financial, living, intellectual, experiential, spiritual and cultural [^5].
 
 ## Carbon Credit
 A carbon credit is a unit of exchange that businesses, organizations and individuals can use to offset their greenhouse gas emissions[^60]. A carbon credit is a unit of measure generated from a specific project activity that destroys, sequesters or avoids greenhouse gas (GHG) emissions[39]. One carbon credit is equivalent to one Mt (metric ton) of greenhouse gases removed from the atmosphere. A carbon credit and a carbon offset are synonymous terminology[^60].
@@ -290,8 +297,8 @@ One of the major problems of carbon markets is the potential for fraud or double
 There are two flavors of carbon markets, the large worldwide compliance market and the smaller voluntary market[^60].
 
 <figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/carbon_trade_blockchain.png){ width=600 height=400 align=center }
-<figcaption>Schematic overview of carbon trading on a blockchain versus a centralized platform [19]</figcaption>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/carbon_trade_blockchain.png){ width=800 height=500 align=center }
+<figcaption>Figure 9. Schematic overview of carbon trading on a blockchain versus a centralized platform [19]</figcaption>
 </figure>
 
 The top panel shows the simplified steps required for a [[carbon_trade]] to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [^19].
@@ -309,18 +316,18 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 
 <figure markdown>
 ![Issues with the Voluntary Carbon Market](https://armanriazi.github.io/refi/assets/attachments/issues_vcm.png){ width=800 height=600 align=center }
-<figcaption>Figure 9. Issues with the Voluntary Carbon Market[22].</figcaption>
+<figcaption>Figure 10. Issues with the Voluntary Carbon Market[22].</figcaption>
 </figure>
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/vcm_mrv.png){ width=600 height=400 align=center }
-<figcaption>Figure 10. Source: “Carbon Markets Initiative”, RMI, n.d.[^2].</figcaption>
+<figcaption>Figure 11. Source: “Carbon Markets Initiative”, RMI, n.d.[^2].</figcaption>
 </figure>
 
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/kimadao_issues_vcm.png){ width=600 height=800 align=center }
-<figcaption>Figure 11. Source: Credits and capital flows on the voluntary carbon market[42].</figcaption>
+<figcaption>Figure 12. Source: Credits and capital flows on the voluntary carbon market[42].</figcaption>
 </figure>
 
 ## Real carbon credit
@@ -361,7 +368,7 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
-<figcaption>Figure 12. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
+<figcaption>Figure 13. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
 25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model[20].</figcaption>
 </figure>
 
@@ -412,9 +419,14 @@ Unlike most other reporting frameworks, the CSRD requires companies to assess �
 ## Other regulations exist in other geographies
 The Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), and the Internal Revenue Service (IRS) each have unique interpretations of cryptocurrencies[^50].
 
-<!--
+
+# Future work and vision
+Where do you envision the future of sustainable investments in five years [^8]? 
+Nadine Wilke: Predicting the future always poses a challenge, akin to gazing into a crystal ball. However, I am confident that the tokenization of real-world assets will continue to evolve. There are already studies suggesting that by 2030, *assets worth up to 16 trillion dollars* will be represented through tokenization, with blockchain serving as the underlying infrastructure. Presently, within the sustainability sector, we already have 25 asset classes such as tokenized CO2 and tokens for renewable energy certificates. These also include Circular Economy, supply chain Traceability, and Water Credits. Established assets like rare earths, raw materials, and precious metals such as gold and silver are already being depicted and traded as their virtual counterparts, or “Digital Twins”. Ultimately, **any asset that can be quantified has the potential to be tokenized[^8]. 
+In the long term, linking D-MRV to a single credit could be important to provide transparency when trading is taking place and could be the key to scaling carbon markets[^7].
+
 # Conclusion
--->
+
 
 ---
 
