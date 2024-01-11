@@ -217,7 +217,7 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
-<figcaption>Figure 13. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
+<figcaption>Figure 6. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
 25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model[20].</figcaption>
 </figure>
 
@@ -242,12 +242,12 @@ In the first stage of the process, the owner claims a carbon receipt, based on t
 
 <figure markdown>
 ![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=400 height=200 align=center }
-<figcaption>Figure 6. Process flow of a blockchain-based carbon offset solution[43].</figcaption>
+<figcaption>Figure 7. Process flow of a blockchain-based carbon offset solution[43].</figcaption>
 </figure>
 
 <figure markdown>
 ![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/toucan-carbon-credit-model.png){ width=400 height=400 align=center }
-<figcaption>Figure 7. Toucan carbon credit model[46].</figcaption>
+<figcaption>Figure 8. Toucan carbon credit model[46].</figcaption>
 </figure>
 
 
