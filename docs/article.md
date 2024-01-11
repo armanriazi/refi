@@ -20,8 +20,8 @@ hide:
 `Ordcid: 0000-0003-3729-6290`
 
 # Abstract
-
-This article is an review of the energy efficiency in the field of regenerative finance. ReFi is still in its early stages of development; it lacks a precise definition of what constitutes a ReFi project and how its various parts work together to achieve the overall goal.
+In today's rapidly evolving financial landscape, regenerative finance is a topic that has generated a lot of interest.
+This article is a overview of carbon offsetting, digital transformation, and natural climate solutions. ReFi is still in early stages of development; it lacks a precise definition of what constitutes a ReFi project and how its various parts work together to achieve the overall goals. It is not well defined, but fortunately, web3 registry networks, which are decentralized networks based on blockchain technology, are on the horizon. They provide a strong infrastructure for project registration and impact tracking, allowing regenerative finance to reach its full potential.
 
 
   *Keywords:* SDG, VCM, Carbon Credit, ReFi, Regenerative Finance
@@ -39,7 +39,7 @@ the focus of regenerative finance is on initiatives that have the potential to g
 
 “ReFi stands for Regenerative Finance and refers to a large-scale financial system that operates in a non-extractive way. A portion of the value generated and transferred flows back to the planet, and climate-positive actions become financially rewarding.” - Toucan protocol[^35]
 
-“ReFi stands for Regenerative Finance, and it broadly relates to a movement aiming to use finance as a way to support regenerative and restorative outcomes in social, environmental, and economic systems.” - ReFiDAO[^36]
+ReFi stands for Regenerative Finance, and it broadly relates to a movement aiming to use finance as a way to support regenerative and restorative outcomes in social, environmental, and economic systems[^36].
 
 <figure markdown>
 ![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/impact.png){ width=400 height=200 align=center }
@@ -60,7 +60,7 @@ the focus of regenerative finance is on initiatives that have the potential to g
 ## Sustainability vs Regenerative
 Regenerative is seeking strategies for less harmful social and environmental practices (“do less bad”) to achieve competitive advantage rather than “doing more good.”. Sustainable companies aim to maintain the current state of natural systems in the present: they focus on reducing negative impact, preventing further degradation, and conserving resources[^13]
 
-# Problem statement
+# Problem Statement
 The planetary boundary framework, while providing a useful model for measuring change, is not fully accepted by all scientists. Some note that because the nine boundaries are all so deeply interconnected, it can be challenging to separate them out and evaluate each individually in a meaningful way. This is especially true for land system change, which underpins and influences nearly every other boundary[^27]. Another criticism is that the land system boundary focuses on forests exclusively, and not on any other ecosystem type[^27].
 Companies that produce and sell major agricultural commodities to address deforestation within their operations and supply chains. Tools such as TRASE now provide supply chain mapping, but they don’t yet have the capacity to monitor at the detailed scales needed to change industries and halt deforestation [27].
 
@@ -73,7 +73,7 @@ The green zone is the safe operating space, the yellow represents the zone of un
 Three of the PBs (climate change, stratospheric ozone depletion, and ocean acidification) remain essentially unchanged from the earlier analysis[^27].
 
 
-# Regenerative economic
+# Regenerative Economic
 Regenerative economics can be viewed as applying the natural laws and patterns of systemic health, self-organization, self-renewal, and regenerative vitality to socioeconomic systems[^12].
 
  It can also help identify feedback loops, leverage points, and unintended consequences of specific actions or interventions[^13].
@@ -82,10 +82,10 @@ Analytic to Holistic (Systemic). Where most modern theories imagine economies ar
 
 ReFi enables programming of incentives that lead to changed behaviour for the better of the planet – and empowers local communities to monetize stewardship of their natural capital and ecological assets – something we know is critical to ecosystem restoration and biodiversity protection[^2].
 
-# Environmental, social, and governance
+# Environmental, Social, and Governance
  ESG factors into capital allocation and portfolio management processes, using IFC’s own investment practices as a model. IFC is playing its part to support the growth of the market by funding the development of enhanced stock market indices, financial instruments, and through targeted market research. Leading analysts have developed the necessary techniques to integrate ESG issues into financial analysis[^12].
 
-# Digital transformation and Blockchain
+# Digital Transformation and Blockchain
 Global climate infrastructure, tools and coordination technologies are needed to keep pace with the changing planetary ecosystem, transcend borders and span social, economic, cultural and governmental domains. This is where blockchain can help[^2].
 Blockchain is one of several emerging technologies being explored to address urgent environmental issues such as biodiversity loss, disaster displacement and energy grid deficiencies, as well as resource allocation and coordination –all critical parts of this complex, intersectional, intergenerational and multicultural climate challenge. The defining qualities of blockchains – decentralized, open and global – make them powerful tools that can provide breadth and depth to current climate mitigation and adaptation efforts[^2].
 
@@ -94,7 +94,7 @@ Blockchain can democratize ownership and reallocate resources to shift power dyn
 Pachama or Open Forest Protocol (OFP), both marketplaces adopt digital technologies, which are essential to enable digital methods in project monitoring, reporting, and verification (DMRV). 
 Recent technological developments and innovations to reduce the cost of emerging technologies have opened the door to the use of AI, machine learning, satellite imagery, blockchain, smart sensors, the internet of things (IoT), cloud computing, and drones in MRV systems[^6].
 
-# Digital measurement, reporting and verification
+# Digital Measurement, Reporting and Verification
 
 <figure markdown>
 ![dMRV](https://armanriazi.github.io/refi/assets/attachments/dmrv.png){ width=600 height=400 align=center }
@@ -107,7 +107,7 @@ Key characteristics of DMRV that distinguish it from manual MRV include[^31]:
 - [x] Checkpoints and checklists within the platforms that ensure consistency and accuracy[^31].
 - [x] A platform that can be periodically certified for use within specified project parameters this allows some project validation and verification procedures to be automated to streamline project development while ensuring integrity[^31].
 
-## Credit issuance 
+## Credit Issuance 
 Credit issuance is ultimately a process of (MRV) monitoring, reporting, and verification: monitoring to calculate a project’s emissions reductions (i.e., credits), reporting to document the calculations before a credit registry, and verification of the calculations by independent auditors[^29].
 
 DMRV platforms would modernize credit issuance in at least 4 critical ways[^29].
@@ -117,7 +117,7 @@ DMRV platforms would modernize credit issuance in at least 4 critical ways[^29].
 3.  Shift from auditing projects to certifying platforms[^29].
 4.  Shift from static documents to interactive, digital visualization[^29].
 
-## Carbon registry
+## Carbon Registry
 Pachama or Open Forest Protocol (OFP), both marketplaces adopt digital technologies, which are essential to enable digital methods in project monitoring, reporting, and verification (D-MRV). Recent technological developments and innovations to reduce the cost of emerging technologies have opened the door to the use of AI, machine learning, satellite imagery, blockchain, smart sensors, the internet of things (IoT), cloud computing, and drones in MRV systems [6].
 
 Credit registries, such as Verra, now refer to future digital crediting platforms as digital MRV (DMRV) platforms. Since our founding in 2018, Pachama has sought to lead the way in DMRV and become the first registry-certified DMRV platform. Carbon credit to calculate each term in this equation, a DMRV must produce three core outputs[29]: 
@@ -136,14 +136,14 @@ Natural assets can now be priced by their value as “carbon sinks,” a.k.a. so
 ## dMRV for Renewables
 CCD has developed ML-based models to estimate canopy height and above-ground biomass (AGB) over woodlands at sub-national scale. This allows for identification of forest deforestation and disturbance, and aids efforts to conserve biodiversity hotspots. CCD offers forecasting and scheduling services for independent power producers[^32].
 
-### Data sources
+### Data Sources
 SCADA systems or other third party sources; India’s Central Transmission Utility (CTU); daily generation reports (DGRs)[^32].
 
-### Data collection
+### Data Collection
 
 SCADA data is compared with other sources to understand the issuance of carbon credits. Real-time data is also shared daily with the Global Carbon Council (GCC), for both energy and carbon credits[^32].
 
-### Data auditing
+### Data Auditing
 SCADA data is audited against other sources to identify discrepancies with meter data. This audit provides an optimised estimation of the issued carbon credits through SCADA data[^32].
 
 Having an independent source of data (such as SCADA) to verify the amount of carbon credits being claimed by projects on a registry can significantly reduce the costs associated with verification. Another major benefit is that this can accelerate the issuance of carbon credits, allowing new issuances on a bi-annual or monthly basis rather than once a year[^32].
@@ -153,7 +153,7 @@ Identifying which SDGs a project contributes to is a crucial task, and one that 
 
 CCD has conducted R&D and testing on more than 50 documents in order to develop its own NLP service. Currently, the company’s models operate with 85% accuracy, which is projected to reach 95% within the next two quarters[^32]:
 
-# Natural climate solutions
+# Natural Climate Solutions
 NCS are ways to sequester carbon through conservation, restoration, and improved land management of the world’s forests, grasslands, and wetlands. Three types of NCS funds are emerging with different sources for returns and target investors (see Figure below).
 
 - [x] Sustainable product funds: focus on greening supply chains for those with net-zero and sustainable sourcing commitments.
@@ -179,7 +179,7 @@ Creating a biodiversity offset market requires three things[^24]:
 
 Let’s take the example of a company wanting to build an airport in the South of Spain in an area that is a habitat for flamingos. With biodiversity offsetting, the law would allow the construction of the airport, provided that the company tries to avoid or minimize the impact on biodiversity. Any residual impact must be offset by recreating a habitat for flamingos within a radius of X kilometres[^24].
 
-## Put a price on nature
+## Put a Price on Nature
 There are two main methods[^24]:
 
 1.  Revealed preference methods: Prices are inferred from the prices of goods and services traded in markets. For example, let’s imagine two identical flats where only the second one has a view over Central Park. The first one sold for $1 million, whereas the second one sold for $1,5 million.This method will consider that the price difference represents the value of a view over Central Park and a meaningful factor in determining the value of Central Park[^24].
@@ -231,7 +231,7 @@ In the recent years, tokenization of (physical) assets and the creation of a dig
 
 Re-fungibility is an important step towards building real life models of ownership rights. Often a unique item may be owned by multiple entities in different proportions. The examples of such shared ownership are abundant: Timeshares, co-ownership of art, fractional car ownership, etc. For that purpose, Unique Network provides the special mode of Collection: Re-Fungible. The Re-fungible token can be minted and then partially transferred to multiple owners[^17].
 
-## Fungible collection mode
+## Fungible Collection Mode
 Fungible collection mode is targeted at the same set of use cases as ERC-20 tokens. Any non-unique and divisible resource can be represented as a Fungible token. While these use cases are not the prime focus of Unique Network, many applications need this functionality in parallel to the NFT the examples include: non-unique game resources, rating points in applications with social networking capabilities, voting tokens, etc[^17].
 
 # Carbon Offset Solution
@@ -265,7 +265,7 @@ A forest carbon credit is an emissions reduction due to forest conservation or r
 
 We also have to deduct emissions that “leak out” of the project, because stopping deforestation in the project may cause some deforestation to just move elsewhere. This is called leakage. So total credit issuance can be reduced to a single core crediting equation[^29].
 
-### How carbon credits are generated?
+### How are Carbon Credits Generated?
 Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs[^46].
 
 One carbon credit is a unique, independently verified reduction of greenhouse gases (GHGs) traceable back to the carbon project that generated the emission reduction. Project types include forestry and other land use projects, emission reductions in industrial processes; carbon projects are[^60]:
@@ -285,7 +285,7 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 :    Cost to get the first project certification: $50-100k[^46].
 -->
 
-### How can carbon credit tokenization help the VCM[^46]?
+### How Can Carbon Credit Tokenization Help the VCM[^46]?
 
 - [x] Efficiency & Disintermediation
 - [x] Healthier and more open markets
@@ -296,24 +296,24 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 - [x] Better financing for developers
 - [x] Fractionalization
 
-## Benefits of tokenized carbon credits
+## Benefits of Tokenized Carbon Credits
 
 <figure markdown>
 ![Benefits of Tokenized Carbon Credits](https://armanriazi.github.io/refi/assets/attachments/sulolab.jpg){ width=600 height=400 align=center }
 <figcaption>Figure 8. Benefits of Tokenized Carbon Credits[44].</figcaption>
 </figure>
 
-### Increased accessibility
+### Increased Accessibility
 
 Carbon markets become more accessible as tokenization removes geographical restrictions. Anyone across the world can purchase, trade, and retire tokenized carbon credits through digital platforms[^44].
 
-### Fractional ownership
+### Fractional Ownership
 
 Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint[^44].
 
 Tokenized carbon credits can be ‘fractionalized’ into units that are smaller than 1 metric tonne — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for sub-tonne carbon credits, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight[^46].
 
-### Enhanced liquidity
+### Enhanced Liquidity
 Tokens can be seamlessly traded on decentralized exchanges, eliminating intermediaries and reducing costs[^44].
 
 ### Transparency
@@ -322,10 +322,10 @@ The blockchain provides an immutable record of a credit’s origins and ownershi
 ### Automation
 Smart contracts automate credit issuance, payments, transfers, and retirement, streamlining the process[^44].
 
-### Price discovery
+### Price Discovery
 Tokenization provides transparent pricing data, increasing market efficiency and competition[^44].
 
-## Carbon markets
+## Carbon Markets
 `Who’s buying carbon credits?`
 
 Carbon markets are trading systems in which carbon credits are sold and bought. Companies or individuals can use carbon markets to compensate for their greenhouse gas emissions by purchasing carbon credits from entities that remove or reduce greenhouse gas emissions[^17]. carbon markets can help accelerate the transformation needed, by effectively putting a price on pollution and creating an economic incentive for reducing emissions. They can also help generate some of the vast sums needed to build resilience[^17].
@@ -342,11 +342,11 @@ There are two flavors of carbon markets, the large worldwide compliance market a
 
 The top panel shows the simplified steps required for a [[carbon_trade]] to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [^19].
 
-### Compliance market
+### Compliance Market
 The Clean Development Mechanism (CDM), adopted under the Kyoto Protocol in 1997, is another well-known example of an international compliance market. One type of compliance market that many people will have heard of are emissions trading systems (ETS). Operating on “cap-and-trade” principle[^17].
 Compliance markets are created as a result of any national, regional and/or international policy or regulatory requirement[^18].
 
-### Voluntary market
+### Voluntary Market
 Voluntary carbon market: Where private individuals, corporations and other actors issue, buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [^2]. The voluntary carbon market (VCM) is an existing market mechanism that the global community can use to channel enterprise capital into land conservation and environmental stewardship. According to a recent McKinsey report, “Voluntary carbon credits direct private financing to climate projects that would not otherwise get off the ground, and they support investment into innovation required to lower the cost of emerging climate technologies”[^2].
 
 A fully digital VCM will demonstrate marketmaking and growth capabilities. Digitizing the VCM is currently the leading use case for blockchain innovations in the climate space. Key challenges such as market fragmentation,analogue reporting and verification procedures leading to bottlenecks in credit issuance, and limited price discovery have stymied the growth of the VCM for over two decades[^2].
@@ -369,7 +369,7 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 <figcaption>Figure 12. Source: Credits and capital flows on the voluntary carbon market[42].</figcaption>
 </figure>
 
-## Real carbon credit
+## Real Carbon Credit
 
 `How do I know that a carbon credit is real? What are the standards used to verify carbon credits?`
 :   Carbon projects are governed by the GHG Registries[^60].
@@ -392,7 +392,7 @@ the Law establishes a global framework that sets the requirements for the operat
 ### MiCA and NFTs
 A relevant point of this regulation is that non-fungible tokens (NFT) that are individual and different would be excluded from the scope of application of the MiCA. This unless the issuer creates a "collection" of assets for purchase. In addition, MiCA will force the issuing entity of the NFT under its regulatory framework[^47].
 
-### MiCA objectives
+### MiCA Objectives
 MiCA aims to regulate any digital representation of value or rights that can be shared or stored electronically, using distributed ledger technology (DLT), blockchain or similar.
 The Law can be broken down into four general objectives, which are [47]:
 
@@ -417,17 +417,19 @@ Contracted Application Service Providers shall require authorisation in order to
 - [x] Providing advice on crypto-assets
 - [x] Portfolio management on crypto-assets on behalf of clients.
 
-## CSRD as a legal standard
+## CSRD as a Legal Standard
 The European Union’s sustainable finance strategy has three components: the green taxonomy, which entered into force in July 2020; the Sustainable Finance Disclosure regulation (SFDR), which has been applicable as of March 2021; and the Corporate Sustainability Reporting Directive (CSRD), which entered into force in January 2023[^53]. On July 31st, the European Commission adopted the first set of 12 European Sustainability Reporting Standards (ESRS), marking a historic milestone in our transition towards a more sustainable economy. The ESRS establishes the rules and requirements for companies to report on sustainability-related impacts, opportunities and risks under the Corporate Sustainable Reporting Directive (CSRD)[^51].
 
 Approximately 50.000 European companies will be subject to the first round of CSRD Reporting under the ESRS [^51].
 
 Unlike most other reporting frameworks, the CSRD requires companies to assess “double materiality”. In addition, corporate data repositories are being developed in jurisdictions such as the European Union to make data publicly available[^53].
 
-## Other regulations exist in other geographies
+## Other Regulators in Other Geographies
 The Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), and the Internal Revenue Service (IRS) each have unique interpretations of cryptocurrencies[^50].
 
-# Future vision
+# Future Vision
+If a sustainable, net-zero emission and resilient world is to be achieved this decade, climate finance must reach $4.35 trillion annually by 2030. The VCM is predicted to grow exponentially: from $2 billion in value in 2021 to $50 billion in 2030 [^2]. Estimates that the voluntary carbon market will be a $50-$100 billion market by 2030. This is 50–100 times bigger than the market today. It is our belief that ReFi will play a significant role in helping to scale and improve these markets going forward [^21].
+
 Where do you envision the future of sustainable investments in five years [^8]? 
 Predicting the future always poses a challenge, akin to gazing into a crystal ball. However, I am confident that the tokenization of real-world assets will continue to evolve. There are already studies suggesting that by 2030, assets worth up to 16 trillion dollars will be represented through tokenization, with blockchain serving as the underlying infrastructure. Presently, within the sustainability sector, we already have 25 asset classes such as tokenized CO2 and tokens for renewable energy certificates. These also include Circular Economy, supply chain Traceability, and Water Credits. Established assets like rare earths, raw materials, and precious metals such as gold and silver are already being depicted and traded as their virtual counterparts, or “Digital Twins”. Ultimately, any asset that can be quantified has the potential to be tokenized[^8]. 
 
@@ -436,9 +438,8 @@ In the long term, linking D-MRV to a single credit could be important to provide
 The Good Life Goals provide an exciting new perspective and opportunity for business. More and more companies are aligning their strategies to the SDGs but there hasn’t always been a clear way to engage employees and customers in the conversation, or the steps being taken to make businesses more sustainable. The Good Life Goals can help companies understand how their products and services are associated with the SDGs, using that as a way to connect with, engage and even inspire their communities into action in support of the goals[^15].
 
 # Conclusion
-It seems that the concept of ReFi is a universal phenomenon that can be made possible by cooperation in the areas of SDG. From technology, investment, and legislation to conservation of natural resources, they are all involved in the future and a good quality of life. Short- or medium-term strategies should be set based on long-term goals. The purpose of this article is to get familiar with the ReFi ecosystem, which shows the roadmap to stakeholders.
-Because of the inherent risks that are outlined and clarified in this study, emitting GHG, wasting energy, and not using cutting-edge technologies remain problems.
-The best approach to dealing with it is to awareness among individuals and companies about its damaging effects. Although the problem is unlikely to be entirely eradicated in the short term, there are concentrated steps that could be taken to reduce the effects of carbon footprints. If people are aware of the effects, they will be more vigilant and can avoid this problem.
+It seems that the concept of ReFi is a universal phenomenon that can be enabled through collaboration in SDG. From technology, investments, and legislation to the conservation of natural resources, they are all involved in the future and a good quality of life. Short or medium term strategies should be set based on long-term goals. The aim of this article is to acquaint individuals with the ReFi ecosystem by presenting a roadmap to the relevant stakeholders.
+Due to the inherent risks expounded in this investigation, the persistent issues of greenhouse gas emissions, energy inefficiency, and refusal to employ state-of-the-art technologies endure. The optimal approach to address these predicaments involves holding both individuals and corporations accountable for the deleterious consequences. Though the complete elimination of this quandary in the immediate future seems implausible, targeted measures could be undertaken to mitigate the carbon footprint. By fostering awareness of the ramifications, individuals can exercise increased vigilance and thereby circumvent this conundrum.
 
 ---
 

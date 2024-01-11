@@ -437,9 +437,8 @@ In the long term, linking D-MRV to a single credit could be important to provide
 
 
 # Conclusion
-It seems that the concept of ReFi is a universal phenomenon that can be made possible by cooperation in the areas of SDG. From technology, investment, and legislation to conservation of natural resources, they are all involved in the future and a good quality of life. Short- or medium-term strategies should be set based on long-term goals. The purpose of this article is to get familiar with the ReFi ecosystem, which shows the roadmap to stakeholders.
-Because of the inherent risks that are outlined and clarified in this study, emitting GHG, wasting energy, and not using cutting-edge technologies remain problems.
-The best approach to dealing with it is to awareness among individuals and companies about its damaging effects. Although the problem is unlikely to be entirely eradicated in the short term, there are concentrated steps that could be taken to reduce the effects of carbon footprints. If people are aware of the effects, they will be more vigilant and can avoid this problem.
+It seems that the concept of ReFi is a universal phenomenon that can be enabled through collaboration in SDG. From technology, investments, and legislation to the conservation of natural resources, they are all involved in the future and a good quality of life. Short or medium term strategies should be set based on long-term goals. The aim of this article is to acquaint individuals with the ReFi ecosystem by presenting a roadmap to the relevant stakeholders.
+Due to the inherent risks expounded in this investigation, the persistent issues of greenhouse gas emissions, energy inefficiency, and refusal to employ state-of-the-art technologies endure. The optimal approach to address these predicaments involves holding both individuals and corporations accountable for the deleterious consequences. Though the complete elimination of this quandary in the immediate future seems implausible, targeted measures could be undertaken to mitigate the carbon footprint. By fostering awareness of the ramifications, individuals can exercise increased vigilance and thereby circumvent this conundrum.
 
 
 ---
