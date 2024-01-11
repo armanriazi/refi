@@ -191,37 +191,6 @@ We’re referring Nature Qualify as an Asset Class to investments in land- and w
 
 If you were making a checklist of criteria in the “What is an Asset Class” section, you would hopefully come away with something like: uniqueness, size, liquidity, and breadth. Let’s explore how those criteria map to the nature space: Uniqueness, Size, and Liquidity[^23].
 
-# Standards
-## CCB
- The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation[58].
-
-### Vera CCB
-The Verra Registry is the central repository for all information and documentation related to CCB projects. The registry facilitates public comment periods, and records the generation, retirement, and cancellation of all Verified Carbon Units that bear a CCB label, which indicates that an emission reduction unit was generated during a CCB-verified period[59].
-
-### American CCB
-American Carbon Registry(ACR) Founded as a nonprofit entity in 1996 by Winrock International, American Carbon Registry (ACR) is the first voluntary offset program and focuses on the voluntary market and the California Cap-and-Trade program in the U.S. CCB Projects are predominantly specific to land use. An independent third-party verifies the social benefits that accompany a CCB certified carbon project[^60].
-
-## GSF
-Gold Standard Foundation established by the World Wildlife Fund in 2003 and based in Geneva, Switzerland, the Gold Standard Foundation administers a secure and transparent transaction between climate funders, climate security, and sustainable development[^60].
-
-## CAR
-The Climate Action Reserve is the premier North American GHG registry. Its published protocols are used by the California Cap-and-Trade program[^60].
-
-## CDM
-The Clean Development Mechanism, allows a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in developing countries. Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets[^61].
-
-# Protocols
-
-## Kyoto
-While the Kyoto Protocol provided a framework for reducing the greenhouse gas emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an updated version of the gtap-e general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios[^20].
-
-<figure markdown>
-![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
-<figcaption>Figure 6. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
-25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model[20].</figcaption>
-</figure>
-
-
 # Blockchain
 The blockchain technology guarantees the tamperproof ledger, transparent transactions, and trustless but secure tradings in a decentralized network. Thus, the blockchain network is recently applied in a wide range of scenarios far beyond crypto-currencies. The case in is similar to the famous Prisoners’ Dilemma in game theory that results in the utility loss of the miners. To avoid the miners’ dilemma, the miners can choose one of the solutions as follows. The first solution is that the miners would intend to join private pools that will not involve the PWH attack. As a result, big mining pools may be divided into many small pools spontaneously, and eventually this may lead to a better environment for the Bitcoin system as a whole [^3].
 
@@ -242,12 +211,12 @@ In the first stage of the process, the owner claims a carbon receipt, based on t
 
 <figure markdown>
 ![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=400 height=200 align=center }
-<figcaption>Figure 7. Process flow of a blockchain-based carbon offset solution[43].</figcaption>
+<figcaption>Figure 6. Process flow of a blockchain-based carbon offset solution[43].</figcaption>
 </figure>
 
 <figure markdown>
 ![Toucan carbon credit model](https://armanriazi.github.io/refi/assets/attachments/toucan-carbon-credit-model.png){ width=400 height=400 align=center }
-<figcaption>Figure 8. Toucan carbon credit model[46].</figcaption>
+<figcaption>Figure 7. Toucan carbon credit model[46].</figcaption>
 </figure>
 
 
@@ -379,6 +348,38 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 - [x] American Carbon Registry (ACR) – A carbon offset registry for the voluntary and California regulatory carbon markets[^60].
 - [x] Gold Standard Foundation (GSF) – A certification standard for offset projects located mostly in developing countries. Gold Standard projects have a high level of achievement of Sustainable Development Goals[^60].
 - [x] UN Clean Development Mechanism – The UN CDM is an international registry used by compliance markets around the world[^60].
+
+
+# Standards
+## CCB
+ The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation[58].
+
+### Vera CCB
+The Verra Registry is the central repository for all information and documentation related to CCB projects. The registry facilitates public comment periods, and records the generation, retirement, and cancellation of all Verified Carbon Units that bear a CCB label, which indicates that an emission reduction unit was generated during a CCB-verified period[59].
+
+### American CCB
+American Carbon Registry(ACR) Founded as a nonprofit entity in 1996 by Winrock International, American Carbon Registry (ACR) is the first voluntary offset program and focuses on the voluntary market and the California Cap-and-Trade program in the U.S. CCB Projects are predominantly specific to land use. An independent third-party verifies the social benefits that accompany a CCB certified carbon project[^60].
+
+## GSF
+Gold Standard Foundation established by the World Wildlife Fund in 2003 and based in Geneva, Switzerland, the Gold Standard Foundation administers a secure and transparent transaction between climate funders, climate security, and sustainable development[^60].
+
+## CAR
+The Climate Action Reserve is the premier North American GHG registry. Its published protocols are used by the California Cap-and-Trade program[^60].
+
+## CDM
+The Clean Development Mechanism, allows a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in developing countries. Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets[^61].
+
+# Protocols
+
+## Kyoto
+While the Kyoto Protocol provided a framework for reducing the greenhouse gas emissions of industrialized nations, current climate change negotiations envisage future commitments for major co2 emitters among developing countries. This document uses an updated version of the gtap-e general equilibrium model to analyse the economic implications of reducing carbon emissions under different carbon trading scenarios[^20].
+
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/gtap_e.png){ width=600 height=400 align=center }
+<figcaption>Figure 13. Source: U. Springer, “The market for tradable ghg permits under the Kyoto Protocol: A survey of model studies”, Energy Economics, vol.
+25, No. 5, Amsterdam, Elsevier, 2003. Note: The gtap-e model is classified as a computable general equilibrium (cge) model[20].</figcaption>
+</figure>
+
 
 # Law and Regulatory
 
