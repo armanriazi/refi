@@ -289,8 +289,16 @@ One tradable carbon credit equals one tonne of carbon dioxide or the equivalent 
 One of the major problems of carbon markets is the potential for fraud or double-counting of credits. By building ReFi on the blockchain a new form of transparency is introduced that would eliminate the possibility of the same credit being counted twice. On-chain carbon credits are traceable and immutable meaning that no two people are able to claim the same credit twice. Burning (or retiring) on-chain credits ensures that they cannot be used again. One company enabling carbon on-chain is Toucan Protocol[^21].
 There are two flavors of carbon markets, the large worldwide compliance market and the smaller voluntary market[^60].
 
+<figure markdown>
+![Carbon Markets Initiative](https://armanriazi.github.io/refi/assets/attachments/carbon_trade_blockchain.png){ width=600 height=400 align=center }
+<figcaption>Schematic overview of carbon trading on a blockchain versus a centralized platform [19]</figcaption>
+</figure>
+
+The top panel shows the simplified steps required for a [[carbon_trade]] to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [^19].
+
 ### Compliance market
-The Clean Development Mechanism (CDM), adopted under the Kyoto Protocol in 1997, is another well-known example of an international compliance market. One type of compliance market that many people will have heard of are emissions trading systems (ETS). Operating on “cap-and-trade” principle[17].
+The Clean Development Mechanism (CDM), adopted under the Kyoto Protocol in 1997, is another well-known example of an international compliance market. One type of compliance market that many people will have heard of are emissions trading systems (ETS). Operating on “cap-and-trade” principle[^17].
+Compliance markets are created as a result of any national, regional and/or international policy or regulatory requirement[^18].
 
 ### Voluntary market
 Voluntary carbon market: Where private individuals, corporations and other actors issue, buy and sell carbon credits outside of regulated or mandatory carbon pricing instruments [^2]. The voluntary carbon market (VCM) is an existing market mechanism that the global community can use to channel enterprise capital into land conservation and environmental stewardship. According to a recent McKinsey report, “Voluntary carbon credits direct private financing to climate projects that would not otherwise get off the ground, and they support investment into innovation required to lower the cost of emerging climate technologies”[^2].
