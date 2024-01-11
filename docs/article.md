@@ -442,12 +442,9 @@ The Good Life Goals provide an exciting new perspective and opportunity for busi
 It seems that the concept of ReFi is a universal phenomenon that can be enabled through collaboration in SDG. From technology, investments, and legislation to the conservation of natural resources, they are all involved in the future and a good quality of life. Short or medium term strategies should be set based on long-term goals. The aim of this article is to acquaint individuals with the ReFi ecosystem by presenting a roadmap to the relevant stakeholders.
 Due to the inherent risks expounded in this investigation, the persistent issues of greenhouse gas emissions, energy inefficiency, and refusal to employ state-of-the-art technologies endure. The optimal approach to address these predicaments involves holding both individuals and corporations accountable for the deleterious consequences. Though the complete elimination of this quandary in the immediate future seems implausible, targeted measures could be undertaken to mitigate the carbon footprint. By fostering awareness of the ramifications, individuals can exercise increased vigilance and thereby circumvent this conundrum.
 
----
-
 [^1]: Regenerative finance (ReFi). (n.d.). Ethereum.org. Retrieved September 25, 2023, from https://ethereum.org/en/refi/
 
 [^2]: Blockchain for scaling Climate Action. (2023, April 25). World Economic Forum. https://www.weforum.org/whitepapers/blockchain-for-scaling-climate-action/
-
 [^3]: Liu, Z., Luong, N. C., Wang, W., Member, Niyato, D., Wang, P., Senior Member, Liang, Y.-C., & Kim, D. I. (n.d.). A survey on applications of game theory in blockchain. Arxiv.org. Retrieved September 25, 2023, from http://arxiv.org/abs/1902.10865
 
 [^4]: European Carbon Offset Tokenization Association. (n.d.). Ecota.Io. Retrieved September 25, 2023, from https://home.ecota.io/
