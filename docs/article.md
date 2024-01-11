@@ -310,7 +310,7 @@ There are two flavors of carbon markets, the large worldwide compliance market a
 <figcaption>Figure 9. Schematic overview of carbon trading on a blockchain versus a centralized platform [19]</figcaption>
 </figure>
 
-The top panel shows the simplified steps required for a [[carbon_trade]] to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [^19].
+The top panel shows the simplified steps required for a carbon trade to occur on a blockchain platform, whereby project owners create tokens for carbon-saving projects, which are then traded via the decentralized market. The middle and bottom panels illustrate the differences between carbon offsetting via centralized and blockchain platforms. The dashed border around brokers in the latter case indicates that they are not strictly necessary, but no current projects are observed with projects selling directly to customers [^19].
 
 ### Compliance Market
 The Clean Development Mechanism (CDM), adopted under the Kyoto Protocol in 1997, is another well-known example of an international compliance market. One type of compliance market that many people will have heard of are emissions trading systems (ETS). Operating on “cap-and-trade” principle[^17].
@@ -442,6 +442,8 @@ The Good Life Goals provide an exciting new perspective and opportunity for busi
 # Conclusion
 It seems that the concept of ReFi is a universal phenomenon that can be enabled through collaboration in SDG. From technology, investments, and legislation to the conservation of natural resources, they are all involved in the future and a good quality of life. Short or medium term strategies should be set based on long-term goals. The aim of this article is to acquaint individuals with the ReFi ecosystem by presenting a roadmap to the relevant stakeholders.
 Due to the inherent risks expounded in this investigation, the persistent issues of greenhouse gas emissions, energy inefficiency, and refusal to employ state-of-the-art technologies endure. The optimal approach to address these predicaments involves holding both individuals and corporations accountable for the deleterious consequences. Though the complete elimination of this quandary in the immediate future seems implausible, targeted measures could be undertaken to mitigate the carbon footprint. By fostering awareness of the ramifications, individuals can exercise increased vigilance and thereby circumvent this conundrum.
+
+# References
 
 [^1]: Regenerative finance (ReFi). (n.d.). Ethereum.org. Retrieved September 25, 2023, from https://ethereum.org/en/refi/
 
