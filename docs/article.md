@@ -166,7 +166,7 @@ NCS are ways to sequester carbon through conservation, restoration, and improved
 </figure>
 
 # Offsetting
-Carbon offset processes are currently dominated by private actors providing legitimacy for the market. The two largest of these, Verra and Gold Standard, provide auditing services, carbon registries and a marketplace to sell carbon offsets, making them ubiquitous in the whole process[^43].
+Carbon offset processes are currently dominated by private actors providing legitimacy for the market. The two largest of these, Verra and Gold Standard, provide auditing services, carbon registries and a marketplace to sell carbon offsets, making them ubiquitous in the whole process[^38].
 
 Biodiversity offsetting refers to actions, such as restoring degraded land, that are intended to compensate for biodiversity destruction taking place at a different time and place[^24].
 An offset market is created when a law requires companies to offset their negative impact on bi-odiversity, through actions such as restoration projects. These actions grant the right to tradable permits to destroy biodiversity elsewhere. If a company has destroyed more biodiversity than it has permits for, it can either perform “offsetting actions” or buy permits from another company. Correspondingly, a company that owns more permits than it has destroyed can choose to sell its excess permits to another company. The legislation that creates the market determines the rules surrounding the permits[^24].
@@ -194,7 +194,7 @@ If you were making a checklist of criteria in the “What is an Asset Class” s
 # Blockchain
 The blockchain technology guarantees the tamperproof ledger, transparent transactions, and trustless but secure tradings in a decentralized network. Thus, the blockchain network is recently applied in a wide range of scenarios far beyond crypto-currencies. The case in is similar to the famous Prisoners’ Dilemma in game theory that results in the utility loss of the miners. To avoid the miners’ dilemma, the miners can choose one of the solutions as follows. The first solution is that the miners would intend to join private pools that will not involve the PWH attack. As a result, big mining pools may be divided into many small pools spontaneously, and eventually this may lead to a better environment for the Bitcoin system as a whole [^3].
 
-In the recent years, tokenization of (physical) assets and the creation of a digital version that is stored on the blockchain gained more interest. By utilizing blockchain technology, asset ownership can be tokenized, which enables fractional ownership, reduces intermediaries, and provides a secure and transparent ledger. This not only increases liquidity but also expands access to previously illiquid assets (like carbon offsets). The blockchain ledger allows for real-time settlement of transactions, increasing efficiency and reducing the risk of fraud. Additionally, tokens can be programmed to include certain rules and restrictions, such as limiting the number of tokens that can be issued or specifying how they can be traded, which can provide greater transparency and control over the asset[^43].
+In the recent years, tokenization of (physical) assets and the creation of a digital version that is stored on the blockchain gained more interest. By utilizing blockchain technology, asset ownership can be tokenized, which enables fractional ownership, reduces intermediaries, and provides a secure and transparent ledger. This not only increases liquidity but also expands access to previously illiquid assets (like carbon offsets). The blockchain ledger allows for real-time settlement of transactions, increasing efficiency and reducing the risk of fraud. Additionally, tokens can be programmed to include certain rules and restrictions, such as limiting the number of tokens that can be issued or specifying how they can be traded, which can provide greater transparency and control over the asset[^38].
 
 ## Re-fungibility
 
@@ -205,9 +205,9 @@ Fungible collection mode is targeted at the same set of use cases as ERC-20 toke
 
 # Carbon Offset Solution
 
-The solar panels provide information regarding their electricity generation, from which a figure is derived that represents the amount of carbon avoided and fed into a smart contract. A smart contract is a self-executing application that exist on the blockchain and performs actions based on its underlying code. In the blockchain-based carbon offset process, smart contracts convert the different tokens and send them to the owner’s wallet. The tokens used within the process are compliant with the ERC-721 Non-Fungible Token (NFT) standard, which represents a unique token that is distinguishable from others and cannot be exchanged for other units of the same asset. A practical example is a work of art that, even if replicated, is always slightly different[^43].
+The solar panels provide information regarding their electricity generation, from which a figure is derived that represents the amount of carbon avoided and fed into a smart contract. A smart contract is a self-executing application that exist on the blockchain and performs actions based on its underlying code. In the blockchain-based carbon offset process, smart contracts convert the different tokens and send them to the owner’s wallet. The tokens used within the process are compliant with the ERC-721 Non-Fungible Token (NFT) standard, which represents a unique token that is distinguishable from others and cannot be exchanged for other units of the same asset. A practical example is a work of art that, even if replicated, is always slightly different[^38].
 
-In the first stage of the process, the owner claims a carbon receipt, based on the amount of carbon avoided by the solar panel. Thereby the aggregated amount of carbon avoided (also stored in a database just for replication purposes) is sent to the smart contract, which issues a carbon receipt of the corresponding figure to the owner. Carbon receipts can further be exchanged for a uniform amount of carbon credits (e.g. 5 kg, 10 kg, 15 kg) by interacting with the second smart contract. Carbon credits are designed to be traded on the decentralised marketplace, where the price is determined by the supply and demand of its participants. Ultimately, carbon credits can be exchanged for carbon certificates indicating the certificate owner and the amount of carbon offset. Comparable with a university diploma, carbon certificates are tied to the address of the owner that initiated the exchange and are therefore non-tradable[^43]:
+In the first stage of the process, the owner claims a carbon receipt, based on the amount of carbon avoided by the solar panel. Thereby the aggregated amount of carbon avoided (also stored in a database just for replication purposes) is sent to the smart contract, which issues a carbon receipt of the corresponding figure to the owner. Carbon receipts can further be exchanged for a uniform amount of carbon credits (e.g. 5 kg, 10 kg, 15 kg) by interacting with the second smart contract. Carbon credits are designed to be traded on the decentralised marketplace, where the price is determined by the supply and demand of its participants. Ultimately, carbon credits can be exchanged for carbon certificates indicating the certificate owner and the amount of carbon offset. Comparable with a university diploma, carbon certificates are tied to the address of the owner that initiated the exchange and are therefore non-tradable[^38]:
 
 <figure markdown>
 ![Carbon offset solution](https://armanriazi.github.io/refi/assets/attachments/carbon offset solution.png){ width=400 height=200 align=center }
@@ -235,7 +235,7 @@ A forest carbon credit is an emissions reduction due to forest conservation or r
 We also have to deduct emissions that “leak out” of the project, because stopping deforestation in the project may cause some deforestation to just move elsewhere. This is called leakage. So total credit issuance can be reduced to a single core crediting equation[^29].
 
 ### How are Carbon Credits Generated?
-Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs[^46].
+Everyone who is taking actions that remove or avoid emissions — for example conserving a forest — can apply to get carbon credits issued. For this, they’ll need to go to a standards body like Verra or Gold Standard. They then need to develop a detailed project design document (PDD) with estimates of carbon avoidance/reduction over time, and a solid business plan. The carbon standard screens the PDD, and an approved third-party auditor checks it as well — this party is called the validation and verification body (VVB). If the PDD meets the standard’s requirements, the project is validated for a certain number of carbon credits. Project development is, by then, in full swing. Once the actual emissions reduction/avoidance has occurred, a batch of carbon credits — each with its own serial number — is issued, with regular checks (so called performance verifications) conducted by the VVBs[^40].
 
 One carbon credit is a unique, independently verified reduction of greenhouse gases (GHGs) traceable back to the carbon project that generated the emission reduction. Project types include forestry and other land use projects, emission reductions in industrial processes; carbon projects are[^60]:
 
@@ -245,16 +245,16 @@ One carbon credit is a unique, independently verified reduction of greenhouse ga
 - [x] Registered – Carbon credits are unique, serialized, tracked and can be retired only once[^60].
 - [x] Permanent – The GHG removal, represented by carbon credits, is permanent and cannot be reversed. For forest projects, the project registrar provides a robust buffer system to account for any unforeseen reversals (forest fire, etc.)[^60].
 
-The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance[^46].
+The project owner can now sell their credits to a carbon broker, or they can bridge them on-chain and sell them directly to interested end-users, pool them and use them in the ever-growing ecosystem of decentralized finance[^40].
 
 <!--
 `Averages`
-:    Time elapsed before the developer can secure funding: 1-2 years[^46].
-:    Time from project inception to credit issuance: 3-5 years[^46].
-:    Cost to get the first project certification: $50-100k[^46].
+:    Time elapsed before the developer can secure funding: 1-2 years[^40].
+:    Time from project inception to credit issuance: 3-5 years[^40].
+:    Cost to get the first project certification: $50-100k[^40].
 -->
 
-### How Can Carbon Credit Tokenization Help the VCM[^46]?
+### How Can Carbon Credit Tokenization Help the VCM[^40]?
 
 - [x] Efficiency & Disintermediation
 - [x] Healthier and more open markets
@@ -274,25 +274,25 @@ The project owner can now sell their credits to a carbon broker, or they can bri
 
 ### Increased Accessibility
 
-Carbon markets become more accessible as tokenization removes geographical restrictions. Anyone across the world can purchase, trade, and retire tokenized carbon credits through digital platforms[^44].
+Carbon markets become more accessible as tokenization removes geographical restrictions. Anyone across the world can purchase, trade, and retire tokenized carbon credits through digital platforms[^39].
 
 ### Fractional Ownership
 
-Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint[^44].
+Each credit can be split into smaller tokenized units, allowing individuals with limited budgets to offset their footprint[^39].
 
-Tokenized carbon credits can be ‘fractionalized’ into units that are smaller than 1 metric tonne — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for sub-tonne carbon credits, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight[^46].
+Tokenized carbon credits can be ‘fractionalized’ into units that are smaller than 1 metric tonne — like a currency. This benefits small-scale carbon projects, who could issue credits on smaller plots of land with significantly lower costs. For example, carbon credit development on a 5ha forest nets around like 30-50 tonnes of carbon credits per year, but measurements would cost around 50k USD. On the other hand, purchasing, selling and retiring carbon credits becomes more accessible. The retail and transportation industries also have a growing need for sub-tonne carbon credits, for example to offset exactly the right amount of carbon for the production of a single t-shirt or flight[^40].
 
 ### Enhanced Liquidity
-Tokens can be seamlessly traded on decentralized exchanges, eliminating intermediaries and reducing costs[^44].
+Tokens can be seamlessly traded on decentralized exchanges, eliminating intermediaries and reducing costs[^39].
 
 ### Transparency
-The blockchain provides an immutable record of a credit’s origins and ownership history, preventing double-counting or other fraud[^44].
+The blockchain provides an immutable record of a credit’s origins and ownership history, preventing double-counting or other fraud[^39].
 
 ### Automation
-Smart contracts automate credit issuance, payments, transfers, and retirement, streamlining the process[^44].
+Smart contracts automate credit issuance, payments, transfers, and retirement, streamlining the process[^39].
 
 ### Price Discovery
-Tokenization provides transparent pricing data, increasing market efficiency and competition[^44].
+Tokenization provides transparent pricing data, increasing market efficiency and competition[^39].
 
 ## Carbon Markets
 `Who’s buying carbon credits?`
@@ -352,7 +352,7 @@ The VCMI acknowledged the varied emission profiles of companies in different sec
 
 # Standards
 ## CCB
- The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation[58].
+ The Community and Biodiversity Standards Standards were developed by the CCBA and have been managed by the Verra since November 2014. The CCB Standards foster the integration of best-practice and multiple-benefit approaches into project design and implementation[^42].
 
 ### Vera CCB
 The Verra Registry is the central repository for all information and documentation related to CCB projects. The registry facilitates public comment periods, and records the generation, retirement, and cancellation of all Verified Carbon Units that bear a CCB label, which indicates that an emission reduction unit was generated during a CCB-verified period[59].
@@ -384,14 +384,14 @@ While the Kyoto Protocol provided a framework for reducing the greenhouse gas em
 # Law and Regulatory
 
 ## The MiCA Law
-Law for Cryptoactive Markets, is a new EU regulation focused on offering a common regulatory framework for the entire financial ecosystem that revolves around blockchain and cryptocurrencies[^47].
+Law for Cryptoactive Markets, is a new EU regulation focused on offering a common regulatory framework for the entire financial ecosystem that revolves around blockchain and cryptocurrencies[^41].
 
-The MiCA Law is the first comprehensive regulation for cryptocurrencies in the EU. Approved on October 10, 2022, the body of the Law consists of more than 100 articles that address issues such as money laundering, KYC, consumer and investor protection, the responsibility of cryptocurrency companies and stablecoins[^47].
+The MiCA Law is the first comprehensive regulation for cryptocurrencies in the EU. Approved on October 10, 2022, the body of the Law consists of more than 100 articles that address issues such as money laundering, KYC, consumer and investor protection, the responsibility of cryptocurrency companies and stablecoins[^41].
 
-the Law establishes a global framework that sets the requirements for the operation and governance of the main issuers of crypto assets and CASP service providers (Contracted Application Service Provider). It also makes clear the protection framework for holders of crypto assets and other clients of service providers[^47].
+the Law establishes a global framework that sets the requirements for the operation and governance of the main issuers of crypto assets and CASP service providers (Contracted Application Service Provider). It also makes clear the protection framework for holders of crypto assets and other clients of service providers[^41].
 
 ### MiCA and NFTs
-A relevant point of this regulation is that non-fungible tokens (NFT) that are individual and different would be excluded from the scope of application of the MiCA. This unless the issuer creates a "collection" of assets for purchase. In addition, MiCA will force the issuing entity of the NFT under its regulatory framework[^47].
+A relevant point of this regulation is that non-fungible tokens (NFT) that are individual and different would be excluded from the scope of application of the MiCA. This unless the issuer creates a "collection" of assets for purchase. In addition, MiCA will force the issuing entity of the NFT under its regulatory framework[^41].
 
 ### MiCA Objectives
 MiCA aims to regulate any digital representation of value or rights that can be shared or stored electronically, using distributed ledger technology (DLT), blockchain or similar.
@@ -406,7 +406,7 @@ The Law can be broken down into four general objectives, which are [47]:
 MiCAR will bring issuers of certain types of crypto-assets into the regulatory framework. Specifically, MiCAR will establish new rules for those types of crypto-assets known as "stablecoins" including Asset-Referenced Tokens (ARTs), E-Money Tokens (EMTs) and utility tokens
 
 ## CASP
-Contracted Application Service Providers shall require authorisation in order to operate within the EU. The types of services covered by MiCAR comprise of[^48]:
+Contracted Application Service Providers shall require authorisation in order to operate within the EU. The types of services covered by MiCAR comprise of[^42]:
 
 - [x] The operation of a crypto-asset trading platform
 - [x] Custody and administration of crypto-assets on behalf of clients
@@ -518,88 +518,12 @@ Due to the inherent risks expounded in this investigation, the persistent issues
 
 [^37]: Why buy carbon credits? (n.d.). Goldstandard.org. Retrieved November 19, 2023, from https://www.goldstandard.org/blog-item/why-buy-carbon-credits
 
-[^38]: The greenpaper: Overview of the Ecosapiens platform. (n.d.). Mirror.Xyz. Retrieved November 19, 2023, from https://mirror.xyz/0x22fbdE4fBB8FF152638cf8e6bB051FF0967c02D2/cyYJOgWQybssWx1NDRZwq3YqSK_ZVgdxayGTcUMG8g8
+[^38]: A.N. (2023, November 10). Blockchain-based tokenization for decentralized issuance and exchange of carbon offsets. Zanders. https://zandersgroup.com/en/insights/blog/blockchain-based-tokenisation-for-decentralised-issuance-and-exchange-of-carbon-offsets
 
-[^39]: Jensen, C. (2020, April 17). EcoSoul partners - climate solutions for business and nonprofit organizations. Ecosoul.Io; Carbon Credit Cart. https://www.ecosoul.io
+[^39]: Wadhwani, K. (2023, October 27). Understanding the carbon credit tokenization. Blockchain Technology, Mobility, AI and IoT Development Company USA, Canada. https://www.solulab.com/carbon-credit-tokenization5
 
-[^40]: DEAL. (n.d.). Doughnuteconomics.org. Retrieved November 19, 2023, from https://doughnuteconomics.org/
+[^40]: Khodai, E. (2022, December 1). Tokenization of carbon credits. Toucan Protocol. https://blog.toucan.earth/
 
-[^41]: International Coral Reef Initiative, Usa, B. F., The Orangutan Project, Fletcher, C., Khattak, R., Walker, S., Lane, B., Nissenbaum, D., & Blakey, V. (n.d.). Earth.org. Earth.org. Retrieved November 19, 2023, from https://earth.org
+[^41]: Bit2Me Academy. (2022, December 6). What is the MiCA Law approved in Europe? Bit2Me Academy. https://academy.bit2me.com/en/que-es-la-ley-mica-aprobada-en-europa/
 
-[^42]: Jirásek, M. (2023b). Klima DAO: a crypto answer to carbon markets. Journal of Organization Design. https://doi.org/10.1007/s41469-023-00146-w
-
-[^43]: A.N. (2023, November 10). Blockchain-based tokenization for decentralized issuance and exchange of carbon offsets. Zanders. https://zandersgroup.com/en/insights/blog/blockchain-based-tokenisation-for-decentralised-issuance-and-exchange-of-carbon-offsets
-
-[^44]: Wadhwani, K. (2023, October 27). Understanding the carbon credit tokenization. Blockchain Technology, Mobility, AI and IoT Development Company USA, Canada. https://www.solulab.com/carbon-credit-tokenization/
-
-[^45]: Tokens:, Q. (n.d.). Verra’s approach to third-party crypto instruments and tokens. Verra.org. Retrieved November 19, 2023, from https://verra.org/wp-content/uploads/2023/01/Verras-Approach-To-Third-Party-Crypto-Instruments-And-Tokens-Public-Consultation-Summary-of-Comments-1-1.pdf
-
-[^46]: Khodai, E. (2022, December 1). Tokenization of carbon credits. Toucan Protocol. https://blog.toucan.earth/
-
-[^47]: Bit2Me Academy. (2022, December 6). What is the MiCA Law approved in Europe? Bit2Me Academy. https://academy.bit2me.com/en/que-es-la-ley-mica-aprobada-en-europa/
-
-[^48]: Markets in crypto Assets Regulation (MiCAR). (n.d.). Centralbank.Ie. Retrieved December 2, 2023, from https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation
-
-[^49]: (European Commission. Joint Research Centre et al., 2019)
-European Commission. Joint Research Centre, Anderberg A., Andonova E., Bellia M., Calès L., Inamorato dos Santos A., Kounelis I., Nai Fovino I., Petracco Giudici M., Papanagiotou E., Sobolewski M., Rossetti F., & Spirito L. (2019). Blockchain now and tomorrow : assessing multidimensional impacts of distributed ledger technologies. Publications Office. from https://dx.doi.org/10.2760/901029
-
-[^50]: (“Britannica Money: Where your financial journey begins,” n.d.) Britannica Money: Where your financial journey begins. (n.d.). In Encyclopedia Britannica. https://www.britannica.com/money
-
-[^51]: The ESRS adopts the CSRD! (2023, August 29). Linkedin.com. https://www.linkedin.com/pulse/esrs-adopts-csrd-greenly-earth/
-
-[^52]: Cohen, B., & CEO IoMob, P. D. (2023, July 5). ReFi won’t solve the climate crisis alone! Medium. https://boydcohen.medium.com/refi-wont-solve-the-climate-crisis-alone-5214977667cc
-
-[^53]: (N.d.-d). Desa.un.org. Retrieved December 2, 2023, from https://financing.desa.un.org/sites/default/files/2023-04/2023%20FSDR%20Report.pdf
-
-[^54]: Grade Level. (n.d.). 1. About the Lesson Plan. Monash.edu. Retrieved December 14, 2023, from https://www.monash.edu/__data/assets/pdf_file/0007/2625919/Year-10-English-FLICC-and-Cranky-Uncle.pdf
-
-[^55]: A history of FLICC: the 5 techniques of science denial. (n.d.). Skeptical Science. Retrieved December 14, 2023, from https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html
-
-[^56]: (n.d.-c). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop
-
-[^57]: (n.d.-d). Unfccc.int. Retrieved December 14, 2023, from https://unfccc.int/cop28
-
-[^58]: CCBA. (n.d.). Climate-standards.org. Retrieved December 27, 2023, from https://www.climate-standards.org/
-
-[^59]: Climate, community & biodiversity standards. (2022, October 17). Verra. https://verra.org/programs/ccbs/
-
-[^60]: Registries archive - EcoSoul partners. (n.d.). Ecosoul.Io. Retrieved December 27, 2023, from https://www.ecosoul.io/registry/
-
-[^61]: (n.d.-e). Unfccc.int. Retrieved December 27, 2023, from https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism
-
-<!--
-[^1]:
-
-[^2]:
-
-[^12]:
-
-[^13]:
-
-[^14]:
-
-[^20]:
-
-[^24]:
-
-[^29]:
-
-[^31]:
-
-[^32]:
-
-[^33]:
-
-[^34]:
-
-[^35]:
-
-[^36]:
-
-[^44]:
-
-[^45]:
-
-[^46]:
-
--->
+[^42]: CCBA. (n.d.). Climate-standards.org. Retrieved December 27, 2023, from https://www.climate-standards.org/
