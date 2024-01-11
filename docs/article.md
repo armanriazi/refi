@@ -24,7 +24,7 @@ In today's rapidly evolving financial landscape, regenerative finance is a topic
 This article is a overview of carbon offsetting, digital transformation, and natural climate solutions. ReFi is still in early stages of development; it lacks a precise definition of what constitutes a ReFi project and how its various parts work together to achieve the overall goals. It is not well defined, but fortunately, web3 registry networks, which are decentralized networks based on blockchain technology, are on the horizon. They provide a strong infrastructure for project registration and impact tracking, allowing regenerative finance to reach its full potential.
 
 
-  *Keywords:* SDG, VCM, Carbon Credit, ReFi, Regenerative Finance
+  *Keywords:* Carbon Credit, Regenerative Finance, Web 3, money and sustainability
 
 # Introduction 
 Regenerative finance (ReFi) also overlaps with the decentralized science (DeSci) movement, ReFi is a set of tools and ideas built on top of blockchains, that aim to create economies which are regenerative, rather than extractive or exploitative. Eventually, extractive systems deplete the resources available and collapse; without regenerative mechanisms, they lack resilience[^1].
